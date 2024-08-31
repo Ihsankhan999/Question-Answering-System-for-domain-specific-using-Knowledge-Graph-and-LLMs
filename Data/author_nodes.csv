@@ -1,0 +1,3854 @@
+Author_Name,Role,AID
+C. Wohlin,First,1
+R. Dammers,First,2
+F. Sarro,First,3
+M. Nayebi,First,4
+T. Huang,First,5
+A. Agrawal,First,6
+K. Großer,First,7
+O. Amaral,First,8
+N. -T. Nguyen,First,9
+M. Ahrens,First,10
+I. Ayala,First,11
+S. Das,First,12
+M. Sihag,First,13
+J. Perera,First,14
+H. Gudaparthi,First,15
+Y. Baatartogtokh,First,16
+A. Ferrari,First,17
+C. Jain,First,18
+A. Rajbhoj,First,19
+A. Shakeri,First,20
+S. Bashir,First,21
+V. Bertram,First,22
+V. Rathod,First,23
+C. C. Raţiu,First,24
+C. Khor,First,25
+D. Q. Birkmeier,First,26
+P. Bambazek,First,27
+J. Wei,First,28
+A. Marczak-Czajka,First,29
+C. Almendra,First,30
+B. Cheng,First,31
+S. Kopczyńska,First,32
+R. Meloche,First,33
+T. Li,First,34
+M. Bonito,First,35
+A. Fantechi,First,36
+L. Baresi,First,37
+A. P. Muhammad,First,38
+X. Zhang,First,39
+J. Deng,First,40
+A. T. van Can,First,41
+Y. Li,First,42
+X. Chen,First,43
+S. -H. Park,First,44
+S. Balwani,First,45
+C. Mannari,First,46
+H. Hasso,First,47
+A. Morávanszky,First,48
+Umm-E-Habiba,First,49
+F. Pattyn,First,50
+Z. S. Li,First,51
+R. Sothilingam,First,52
+L. Okpara,First,53
+K. R. Hablutzel,First,54
+C. M. Lüders,First,55
+S. Abualhaija,First,56
+J. Zhang,First,57
+H. Barzamini,First,58
+M. Schmedes,First,59
+Y. Luo,First,60
+T. D. Breaux,First,61
+J. Dąbrowski,First,62
+L. Chazette,First,63
+M. N. Al Islam,First,64
+J. Krause,First,65
+A. Sutcliffe,First,66
+P. Devine,First,67
+V. Jain,First,68
+S. D. Gupta,First,69
+E. Kempe,First,70
+S. Dey,First,71
+N. Bagaria,First,72
+C. E. Da Silva,First,73
+S. Debnath,First,74
+F. C. Pereira,First,75
+Q. Zhou,First,76
+H. Xiong,First,77
+S. Tiwari,First,78
+G. B. Herwanto,First,79
+J. Anderson,First,80
+J. I. Lathrop,First,81
+M. -I. Limaylla-Lunarejo,First,82
+R. Wolfinger,First,83
+J. Frattini,First,84
+T. Spijkman,First,85
+J. Li,First,86
+R. L. Q. Portugal,First,87
+R. R. Lutz,First,88
+M. Ajagbe,First,89
+M. Spichkova,First,90
+R. Li,First,91
+K. Ahmad,First,92
+K. M. Habibullah,First,93
+Z. Zhao,First,94
+R. Falcão,First,95
+E. D. Canedo,First,96
+M. B. Hosseini,First,97
+D. Kwan,First,98
+B. Zieni,First,99
+M. Bano,First,100
+Y. D. Pham,First,101
+T. Iqbal,First,102
+R. R. Mekala,First,103
+C. Stanik,First,104
+A. Hess,First,105
+R. Saini,First,106
+J. -P. Steghöfer,First,107
+C. Gralha,First,108
+S. van Oordt,First,109
+Z. Peng,First,110
+M. Daun,First,111
+R. Zhang,First,112
+M. Ristin,First,113
+R. Schmid,First,114
+J. Wouters,First,115
+R. Chatterjee,First,116
+D. Naouar,First,117
+J. Berends,First,118
+S. Saito,First,119
+A. Sadovykh,First,120
+M. Levy,First,121
+O. Zaremba,First,122
+E. Buchmann,First,123
+D. Muñante,First,124
+X. Franch,First,125
+M. R. Amin,First,126
+S. Wei,First,127
+W. Guo,First,128
+M. Basmer,First,129
+B. Han,First,130
+M. Osama,First,131
+P. Inglis,First,132
+D. B. Raykar,First,133
+B. Li,First,134
+T. Günes,First,135
+J. -W. Jung,First,136
+A. Zaki-Ismail,First,137
+M. Roy,First,138
+M. Ye,First,139
+H. Samin,First,140
+P. Ambade,First,141
+K. Tsilionis,First,142
+K. Elizabeth Shanks,First,143
+P. Garscha,First,144
+D. Miranda,First,145
+M. I. L. Lunarejo,First,146
+S. Japs,First,147
+S. Lewellen,First,148
+C. Werner,First,149
+F. Dalpiaz,First,150
+T. R. Dewi Saputri,First,151
+H. Kaindl,First,152
+S. Mosser,First,153
+M. Peixoto,First,154
+J. Whittle,First,155
+C. Magalhães,First,156
+F. Dechesne,First,157
+D. Marcos,First,158
+J. Kramer,First,159
+S. Robertson,First,160
+J. Holtmann,First,161
+A. Schlutter,First,162
+D. Girardi,First,163
+E. Oehri,First,164
+J. Tizard,First,165
+G. Deshpande,First,166
+R. M. Carvalho,First,167
+T. T. Tun,First,168
+F. Wiesweg,First,169
+D. Torre,First,170
+A. Sainani,First,171
+A. Sleimi,First,172
+T. Hey,First,173
+Y. Wang,First,174
+H. Perera,First,175
+M. Tushev,First,176
+R. Chitchyan,First,177
+A. Poth,First,178
+E. Hadar,First,179
+K. Nakamichi,First,180
+F. Falcini,First,181
+J. Ayerdi,First,182
+M. C. Panis,First,183
+A. Mavridou,First,184
+C. Alves,First,185
+M. Unterkalmsteiner,First,186
+Y. Liu,First,187
+J. Yang,First,188
+F. Ishikawa,First,189
+Y. L. Wang,First,190
+S. Sharifi,First,191
+A. Dekhtyar,First,192
+S. L. Lim,First,193
+T. Güneş,First,194
+J. Fischbach,First,195
+T. Alsanoosy,First,196
+W. Meincke,First,197
+F. Mu,First,198
+S. Panichella,First,199
+R. Stoiber,First,200
+V. Uddagiri,First,201
+S. Demi,First,202
+H. S. Dar,First,203
+A. Parvizimosaed,First,204
+O. Kosenkov,First,205
+B. Nuseibeh,First,206
+M. Chechik,First,207
+H. Woodcock,First,208
+L. Duboc,First,209
+J. P. Winkler,First,210
+J. A. Khan,First,211
+T. Bhowmik,First,212
+H. Villamizar,First,213
+Y. Seki,First,214
+A. Lavalle,First,215
+D. Martens,First,216
+J. O. Johanssen,First,217
+A. Murugesan,First,218
+A. S. Nyamawe,First,219
+D. Karagiannis,First,220
+F. Pudlitz,First,221
+V. Langenfeld,First,222
+A. A. Anda,First,223
+M. Mezghani,First,224
+K. Hjerppe,First,225
+A. Banz,First,226
+T. Espinha Gasiba,First,227
+R. Burrows,First,228
+B. Pirelli,First,229
+T. Rietz,First,230
+M. A. Köhl,First,231
+M. Delen,First,232
+M. Stade,First,233
+E. Guzman,First,234
+J. Horkoff,First,235
+M. Koch,First,236
+M. Robol,First,237
+H. Elshandidy,First,238
+L. Hyo-Cheol,First,239
+W. Shim,First,240
+T. Ambreen,First,241
+Y. Yang,First,242
+N. Deb,First,243
+Y. Chen,First,244
+Z. Jin,First,245
+C. Ebert,First,246
+S. Faily,First,247
+I. Jureta,First,248
+P. Plebani,First,249
+A. Mavin,First,250
+J. Cleland-Huang,First,251
+K. Czarnecki,First,252
+F. B. Aydemir,First,253
+S. M. Ågren,First,254
+S. Hotomski,First,255
+W. Wang,First,256
+S. Maro,First,257
+G. Williams,First,258
+J. Doerr,First,259
+C. Ncube,First,260
+V. Ayala-Rivera,First,261
+X. Liu,First,262
+J. Bhatia,First,263
+V. T. Dhinakaran,First,264
+K. Villela,First,265
+M. Oriol,First,266
+M. Santos,First,267
+P. Ghazi,First,268
+L. Millet,First,269
+W. Alsaqaf,First,270
+A. Moitra,First,271
+N. Seyff,First,272
+M. Krammer,First,273
+M. Vierhauser,First,274
+D. N. Jorge,First,275
+K. Ohashi,First,276
+J. Vilela,First,277
+Y. Elrakaiby,First,278
+A. M. Grubb,First,279
+L. M. Cysneiros,First,280
+A. Darby,First,281
+R. Giachetti,First,282
+J. Hehn,First,283
+A. Felfernig,First,284
+T. Gemkow,First,285
+J. Huffman Hayes,First,286
+W. Alhoshan,First,287
+A. Hemmati,First,288
+I. Williams,First,289
+D. Ki-Aries,First,290
+M. Singh,First,291
+R. Fuller,First,292
+M. Ghasemi,First,293
+Z. Shakeri Hossein Abad,First,294
+A. Kalim,First,295
+J. Pimentel,First,296
+A. D. Alharthi,First,297
+E. Knauss,First,298
+J. Lutz,First,299
+T. Johann,First,300
+G. M. Kanchev,First,301
+D. Van Der Linden,First,302
+Z. Kurtanović,First,303
+E. C. Groen,First,304
+M. Goodrum,First,305
+S. Malviya,First,306
+W. Zogaan,First,307
+S. Türpe,First,308
+M. Lindvall,First,309
+H. Hibshi,First,310
+G. Mathew,First,311
+D. Callele,First,312
+A. T. S. Calazans,First,313
+A. Maier,First,314
+H. Gaspard-Boulinc,First,315
+B. D. Cruz,First,316
+M. Warnier,First,317
+M. Beckmann,First,318
+B. Walter,First,319
+K. Lauenroth,First,320
+A. Crapo,First,321
+X. Lian,First,322
+N. Sannier,First,323
+M. C. Evans,First,324
+F. M. Kifetew,First,325
+M. Z. Huber Kolpondinos,First,326
+Z. S. H. Abad,First,327
+R. Kasauli,First,328
+L. Montgomery,First,329
+M. Borg,First,330
+A. Zamansky,First,331
+N. Mead,First,332
+D. Alami,First,333
+I. Morales-Ramirez,First,334
+L. H. G. Paucar,First,335
+T. Viana,First,336
+M. Noaeen,First,337
+R. Darimont,First,338
+M. F. Granda,First,339
+F. Kifetew,First,340
+M. Ledger,First,341
+M. A. Jackson,First,342
+P. Spoletini,First,343
+G. Ruhe,First,344
+R. Wieringa,First,345
+N. Munaiah,First,346
+P. K. Murukannaiah,First,347
+M. Rath,First,348
+O. Oni,First,349
+A. I. M. Leite,First,350
+M. B. Duran,First,351
+A. M. Da Mota Moura,First,352
+J. Brings,First,353
+R. M. P. Falcão,First,354
+N. Niu,First,355
+D. M. Berry,First,356
+J. Bosch,First,357
+Y. Zheng,First,358
+K. Beckers,First,359
+C. Burnay,First,360
+J. Eckhardt,First,361
+F. Furtado,First,362
+W. Hussain,First,363
+Ö. Kafali,First,364
+O. Karras,First,365
+T. Merten,First,366
+M. Robeer,First,367
+R. Wohlrab,First,368
+J. Baker,First,369
+A. M. Debiasi Duarte,First,370
+A. Furfaro,First,371
+M. Gharib,First,372
+L. Liu,First,373
+M. Rudolph,First,374
+I. Oliver,First,375
+G. Soltana,First,376
+A. Takoshima,First,377
+J. Terzakis,First,378
+D. Amyot,First,379
+S. A. Fricker,First,380
+J. Gillain,First,381
+F. R. Golra,First,382
+L. Piras,First,383
+L. Shi,First,384
+M. Touzani,First,385
+S. Pradhan,First,386
+N. Gao,First,387
+Y. Jiang,First,388
+X. Li,First,389
+L. H. Garcia Paucar,First,390
+O. Akhigbe,First,391
+P. R. Anish,First,392
+F. Fotrousi,First,393
+L. Li,First,394
+T. R. Silva,First,395
+B. Wang,First,396
+T. Zhao,First,397
+A. Y. Mirzaee,First,398
+K. Holtzblatt,First,399
+M. Jackson,First,400
+C. Arora,First,401
+H. Holm,First,402
+A. Mahmoud,First,403
+F. Alabdulkareem,First,404
+R. B. Svensson,First,405
+A. Cailliau,First,406
+W. Maalej,First,407
+G. Lucassen,First,408
+D. Aceituna,First,409
+P. Rempel,First,410
+D. Wüest,First,411
+J. H. Hayes,First,412
+J. Guo,First,413
+D. Ameller,First,414
+Z. J. Oster,First,415
+M. van Zee,First,416
+I. Hadar,First,417
+N. Bencomo,First,418
+J. Zhou,First,419
+P. Avesani,First,420
+M. Hosseini,First,421
+A. Borgida,First,422
+E. Zavala,First,423
+M. Fockel,First,424
+L. Chen,First,425
+I. T. Koitz,First,426
+J. Kuriakose,First,427
+M. Soltani,First,428
+A. Vogelsang,First,429
+M. Holmegaard,First,430
+M. Käpyaho,First,431
+J. Krisch,First,432
+M. R. Basirati,First,433
+T. Morciniec,First,434
+U. Eliasson,First,435
+A. M. Pitangueira,First,436
+R. H. P. Kegel,First,437
+Y. Nugraha,First,438
+B. Lebeaupin,First,439
+C. H. C. Duarte,First,440
+A. I. Antón,First,441
+M. Daneva,First,442
+C. Putnam,First,443
+A. Alkhanifer,First,444
+A. K. Chopra,First,445
+M. Adedjouma,First,446
+S. Ghanavati,First,447
+A. K. Massey,First,448
+L. M. Sang Tran,First,449
+S. Gärtner,First,450
+W. Qian,First,451
+P. Pruski,First,452
+V. Gervasi,First,453
+M. Riaz,First,454
+R. Slavin,First,455
+C. Tsigkanos,First,456
+M. Pinto-Albuquerque,First,457
+M. Rahimi,First,458
+L. Antonelli,First,459
+D. G. Gordon,First,460
+H. Töhönen,First,461
+F. -L. Li,First,462
+S. Ingolfo,First,463
+T. H. Nguyen,First,464
+A. Gregoriades,First,465
+Yanji Liu,First,466
+S. K. Saxena,First,467
+J. Badger,First,468
+X. Zhu,First,469
+R. Laue,First,470
+O. Letychevskyi,First,471
+S. Witt,First,472
+L. Bruun,First,473
+D. Rapp,First,474
+C. Porter,First,475
+G. Valença,First,476
+A. Rubython,First,477
+C. Bomfim,First,478
+L. E. G. Martins,First,479
+T. Stålhane,First,480
+P. Filipovikj,First,481
+Feng Chen,First,482
+M. Al Hinai,First,483
+M. A. Teruel,First,484
+Jiale Zhou,First,485
+D. Ionita,First,486
+I. Buksa,First,487
+M. G. Ferreira,First,488
+N. Maiden,First,489
+F. Cousins,First,490
+K. K. Breitman,First,491
+J. C. Maxwell,First,492
+H. Sultanov,First,493
+C. Ghezzi,First,494
+I. Krka,First,495
+D. Dietrich,First,496
+I. Todoran,First,497
+P. Caire,First,498
+D. Pagano,First,499
+H. Nakagawa,First,500
+T. A. Alspaugh,First,501
+A. Zarghami,First,502
+J. Wang,First,503
+N. R. Mead,First,504
+S. Nair,First,505
+S. J. Morris,First,506
+G. Mussbacher,First,507
+F. Salger,First,508
+J. Savolainen,First,509
+S. Hesari,First,510
+N. Larburu,First,511
+A. Niknafs,First,512
+M. Felderer,First,513
+A. Muyanja,First,514
+A. Golnam,First,515
+A. Dwarakanath,First,516
+P. Nistala,First,517
+D. Renzel,First,518
+R. Guillerm,First,519
+S. Teufl,First,520
+C. Palomares,First,521
+F. Schneider,First,522
+L. Pasquale,First,523
+M. Mahaux,First,524
+T. Gorschek,First,525
+M. Lencastre,First,526
+J. Beatty,First,527
+E. Yu,First,528
+M. Glinz,First,529
+O. Creighton,First,530
+B. Penzenstadler,First,531
+A. Moreira,First,532
+S. Reddivari,First,533
+G. Valen¸a,First,534
+R. Salay,First,535
+H. Yang,First,536
+S. Arora,First,537
+W. -K. Kong,First,538
+W. Bekkers,First,539
+E. Ben Charrada,First,540
+O. Gotel,First,541
+M. Salehie,First,542
+L. Fu,First,543
+L. Yi,First,544
+P. Shaker,First,545
+J. Greenyer,First,546
+A. Gross,First,547
+S. Liaskos,First,548
+A. Ghazarian,First,549
+A. Maglyas,First,550
+R. Tawhid,First,551
+Y. Chernak,First,552
+X. Song,First,553
+B. Berenbach,First,554
+D. Ott,First,555
+O. M. Mendizabal,First,556
+N. Kukreja,First,557
+D. Hauksdottir,First,558
+M. Śmiałek,First,559
+K. Welsh,First,560
+E. Paja,First,561
+S. Supakkul,First,562
+M. Vrbaski,First,563
+A. Alexandrova,First,564
+A. Hoffmann,First,565
+A. Knauss,First,566
+N. Riegel,First,567
+C. Mascolo,First,568
+P. Sampath,First,569
+N. A. Ernst,First,570
+S. McGee,First,571
+E. Bjarnason,First,572
+S. Marczak,First,573
+M. Komssi,First,574
+W. Heaven,First,575
+V. Veerappa,First,576
+R. Rauf,First,577
+O. C. Z. Gotel,First,578
+N. Ubayashi,First,579
+A. Post,First,580
+K. Schneider,First,581
+O. Brill,First,582
+A. Milne,First,583
+B. Chen,First,584
+C. Fitzgerald,First,585
+V. N. L. Franqueira,First,586
+M. Raatikainen,First,587
+A. J. Nolan,First,588
+D. Dietsch,First,589
+H. Vogl,First,590
+J. P. Carvallo,First,591
+A. Wever,First,592
+B. Waldmann,First,593
+S. Pühl,First,594
+E. Boutkova,First,595
+B. Regnell,First,596
+P. Sawyer,First,597
+M. Jarke,First,598
+B. Wei,First,599
+P. Greenwood,First,600
+I. Côté,First,601
+Y. Yu,First,602
+R. Gacitua,First,603
+I. Menzel,First,604
+J. D. Young,First,605
+P. Clements,First,606
+R. Ferrari,First,607
+S. Jantunen,First,608
+X. Peng,First,609
+N. A. Qureshi,First,610
+I. J. Jureta,First,611
+Z. Racheva,First,612
+A. Al-Emran,First,613
+S. Fricker,First,614
+A. Morali,First,615
+A. Egyed,First,616
+D. Cuddeback,First,617
+C. Salinesi,First,618
+A. Mashkoor,First,619
+E. Kang,First,620
+J. Hill,First,621
+M. Bittner,First,622
+M. C. Primrose,First,623
+D. K. Vijayamma,First,624
+S. Siegl,First,625
+J. Lockerbie,First,626
+S. El Sawah,First,627
+A. Sinha,First,628
+M. Hirzalla,First,629
+M. Aoyama,First,630
+K. Ryan,First,631
+L. Kof,First,632
+M. Kamalrudin,First,633
+R. Monteiro,First,634
+C. Liu,First,635
+K. Wnuk,First,636
+C. Stanbridge,First,637
+J. A. Miller,First,638
+K. Decreus,First,639
+C. Castro-Herrera,First,640
+R. J. Hall,First,641
+P. Mader,First,642
+E. A. Holbrook,First,643
+S. Espana,First,644
+D. L. Moody,First,645
+S. Esmaeilsabzali,First,646
+P. Liegl,First,647
+J. H. Weber-Jahnke,First,648
+T. Breaux,First,649
+G. Regev,First,650
+I. Omoronyia,First,651
+G. Elahi,First,652
+M. R. Monteiro,First,653
+S. Adam,First,654
+M. Kauppinen,First,655
+J. Kabbedijk,First,656
+H. Post,First,657
+J. Heiskari,First,658
+I. Widya,First,659
+H. W. Nissen,First,660
+S. Konrad,First,661
+D. Zowghi,First,662
+A. van Lamsweerde,First,663
+T. Long,First,664
+A. Classen,First,665
+D. Tanabe,First,666
+P. Mäder,First,667
+A. Rifaut,First,668
+S. Thew,First,669
+J. Gordijn,First,670
+M. H. Fortuna,First,671
+R. Smith,First,672
+S. E. Sim,First,673
+A. Finkelstein,First,674
+A. Herrmann,First,675
+C. -W. Ho,First,676
+K. Zachos,First,677
+M. Weiss,First,678
+N. Weston,First,679
+M. Smith,First,680
+A. Monzon,First,681
+D. Schmitz,First,682
+T. Nakatani,First,683
+K. S. Ramasubramaniam,First,684
+I. Alexander,First,685
+E. J. Uusitalo,First,686
+M. S. Feather,First,687
+R. Recio,First,688
+S. Jones,First,689
+A. Rashid,First,690
+O. Glorio,First,691
+S. Lohmann,First,692
+K. Wolter,First,693
+K. S. Mukasa,First,694
+A. Nhlabatsi,First,695
+M. Makino,First,696
+A. Szoke,First,697
+I. Jacobson,First,698
+K. Gopalakrishnan,First,699
+P. N. Otto,First,700
+J. Aranda,First,701
+D. Damian,First,702
+M. I. Kamata,First,703
+V. Kartseva,First,704
+A. Wegmann,First,705
+P. Laurent,First,706
+L. Lehtola,First,707
+D. Bolchini,First,708
+L. Jiang,First,709
+S. Hebler,First,710
+M. Salifu,First,711
+M. Sabetzadeh,First,712
+R. A. Gandhi,First,713
+A. Metzger,First,714
+A. K. Thurimella,First,715
+K. Pohl,First,716
+C. Heitmeyer,First,717
+B. Nicholson,First,718
+Y. Asnar,First,719
+O. Djebbi,First,720
+G. Muniraj,First,721
+J. M. Bhat,First,722
+A. Borg,First,723
+K. Sankar R,First,724
+N. Deshmukh,First,725
+R. Rabiser,First,726
+I. Kwan,First,727
+M. Klassen,First,728
+L. Delgadillo,First,729
+S. -W. Lee,First,730
+A. K. Laskaris,First,731
+C. Cappelli,First,732
+J. M. Conejero,First,733
+M. P. S. Bhatia,First,734
+M. B. Rosson,First,735
+D. Graham,First,736
+J. Mylopoulos,First,737
+K. S. Wasson,First,738
+F. Chantree,First,739
+K. Mehner,First,740
+F. Torner,First,741
+M. El-Attar,First,742
+P. -Y. Schobbens,First,743
+M. -O. Reiser,First,744
+B. Axenath,First,745
+R. Seater,First,746
+A. Davis,First,747
+H. Kaiya,First,748
+S. Smith,First,749
+J. So,First,750
+D. Aubrey,First,751
+K. Wendland,First,752
+P. Arkley,First,753
+M. Pichler,First,754
+B. Paech,First,755
+S. P. Miller,First,756
+A. Prindahl,First,757
+R. Young,First,758
+J. Dick,First,759
+H. Akkermans,First,760
+S. L. Cornford,First,761
+C. Potts,First,762
+K. Chen,First,763
+P. Giorgini,First,764
+I. van de Weerd,First,765
+J. Pablo Carvallo,First,766
+D. Bush,First,767
+F. Alencar,First,768
+B. Al-Ani,First,769
+L. Bastos,First,770
+I. Sofia Brito,First,771
+A. Ebnenasir,First,772
+H. Goldsby,First,773
+B. Gonzalez-Baixauli,First,774
+J. Munoz,First,775
+A. Stone,First,776
+J. Tang,First,777
+G. Grau,First,778
+J. Lin,First,779
+C. Quer,First,780
+D. Jackson,First,781
+J. . -P. Corniou,First,782
+Kun Chen,First,783
+S. Buhne,First,784
+B. van der Raadt,First,785
+S. Kujala,First,786
+T. Cohene,First,787
+Christof Ebert,First,788
+A. Etien,First,789
+S. Fickas,First,790
+R. Crook,First,791
+D. Svetinovic,First,792
+S. Easterbrook,First,793
+I. Diaz,First,794
+V. Perrone,First,795
+M. C. Robinson,First,796
+R. Lutz,First,797
+Wei Zhang,First,798
+T. Toyama,First,799
+S. Boyd,First,800
+Yijun Yu,First,801
+A. Bucchiarone,First,802
+T. Arao,First,803
+E. Simmons,First,804
+Xiping Song,First,805
+H. Solheim,First,806
+S. Nesland,First,807
+N. C. Jordan,First,808
+A. Wassyng,First,809
+G. Fanmuy,First,810
+L. . -H. Jean-Baptiste,First,811
+S. S. Some,First,812
+J. Hassine,First,813
+A. Miranskyy,First,814
+M. G. Georgiades,First,815
+A. Ivanovic,First,816
+K. Li,First,817
+J. Chisan,First,818
+R. Matulevicius,First,819
+T. Nakamura,First,820
+A. Sampaio,First,821
+L. Hagge,First,822
+C. Pott,First,823
+T. Fuji,First,824
+P. N. Cross,First,825
+K. Vinsen,First,826
+A. L. Correa,First,827
+L. Patricio,First,828
+S. Katz,First,829
+J. Araujo,First,830
+L. Rapanotti,First,831
+C. B. Haley,First,832
+R. Laney,First,833
+S. Lauesen,First,834
+J. A. Gulla,First,835
+G. Mark,First,836
+B. Gonzales-Baixauli,First,837
+S. Uchitel,First,838
+Hung Tran Van,First,839
+N. Nurmuliani,First,840
+R. Boddu,First,841
+J. Natt och Dag,First,842
+A. Padula,First,843
+M. Hoffmann,First,844
+D. T. Haley,First,845
+R. Tsuchiya,First,846
+N. Heumesser,First,847
+A. Puschnig,First,848
+H. Omasreiter,First,849
+J. C. Gibson,First,850
+G. Sousa,First,851
+R. Hill,First,852
+Luncheng Lin,First,853
+S. Some,First,854
+V. G. Cerf,First,855
+S. Lipner,First,856
+H. Stower,First,857
+M. Bergman,First,858
+J. B. Jorgensen,First,859
+W. N. Robinson,First,860
+F. R. S. Paim,First,861
+C. . -S. Shih,First,862
+B. Sengupta,First,863
+A. Fuxman,First,864
+B. Hui,First,865
+H. D. Covvey,First,866
+A. M. Hickey,First,867
+J. G. Hall,First,868
+J. Niu,First,869
+R. De Landtsheer,First,870
+P. Loucopoulos,First,871
+M. Deraitus,First,872
+R. J. Barnes,First,873
+D. Becker,First,874
+R. Chardon,First,875
+N. Yilmazturk,First,876
+F. J. Salvatore,First,877
+G. Heller,First,878
+S. Catrava,First,879
+G. Romanski,First,880
+J. E. Archer,First,881
+G. Herzwurm,First,882
+M. Rossi,First,883
+M. P. E. Heimdahl,First,884
+W. Stufflebeam,First,885
+K. Oshiro,First,886
+E. Navarro,First,887
+T. Tuunanen,First,888
+L. Lin,First,889
+D. Richards,First,890
+J. M. Carroll,First,891
+W. Kozaczynski,First,892
+F. Schoenthaler,First,893
+A. I. Anton,First,894
+V. F. A. Santander,First,895
+M. A. Fecko,First,896
+N. Dulac,First,897
+P. Fenkam,First,898
+M. Lemoine,First,899
+M. von der Beeck,First,900
+A. Toval,First,901
+C. Kong,First,902
+T. Fritzhanns,First,903
+A. Kozlenkov,First,904
+A. Duran,First,905
+H. G. Woo,First,906
+S. Hardiman,First,907
+H. Doernemann,First,908
+W. Gross,First,909
+A. Vickers,First,910
+J. Giesen,First,911
+B. Kovitz,First,912
+K. Knorr,First,913
+C. Stutz,First,914
+K. Schmid,First,915
+M. Hardt,First,916
+I. John,First,917
+A. von Knethen,First,918
+J. Garcia-Duque,First,919
+S. Dusire,First,920
+J. Nawrocki,First,921
+W. J. Lloyd,First,922
+D. E. Damian,First,923
+M. Weber,First,924
+S. A. Higgins,First,925
+P. G. Neumann,First,926
+R. P. Knott,First,927
+J. Atle Gulla,First,928
+E. Garcia Alcazar,First,929
+N. A. Day,First,930
+L. B. Sherrell,First,931
+M. Saeki,First,932
+P. Ferdinandi,First,933
+S. J. Greenspan,First,934
+C. L. Heitmeyer,First,935
+J. C. Sampaio do Prado Leite,First,936
+J. Siddiqi,First,937
+D. L. Parnas,First,938
+F. Moisiadis,First,939
+K. Breitman,First,940
+L. Lavazza,First,941
+L. Nguyen,First,942
+L. Baum,First,943
+R. Hubbard,First,944
+C. A. Gunter,First,945
+J. Horl,First,946
+D. E. Herlea Damian,First,947
+D. C. Gause,First,948
+R. C. Linger,First,949
+T. Hammer,First,950
+A. Russo,First,951
+I. Hooks,First,952
+N. Millard,First,953
+I. Sommerville,First,954
+C. Kop,First,955
+M. J. Loomes,First,956
+M. Haglind,First,957
+R. C. Smith,First,958
+P. Morris,First,959
+P. Fowler,First,960
+N. A. M. Maiden,First,961
+A. G. Sutcliffe,First,962
+M. T. Gaska,First,963
+R. Lecoeuche,First,964
+N. G. Leveson,First,965
+K. Koogan Breitman,First,966
+K. Weidenhaupt,First,967
+P. Forsgren,First,968
+W. Lam,First,969
+L. A. Macaulay,First,970
+B. Lawrence,First,971
+E. Hudlicka,First,972
+K. Takahashi,First,973
+D. W. Bustard,First,974
+D. A. Rawsthorne,First,975
+M. Hill,First,976
+C. R. Nobe,First,977
+J. F. Leathrum,First,978
+J. Karlsson,First,979
+J. Vanwelkenhuysen,First,980
+P. Hsia,First,981
+P. Carlshamre,First,982
+L. Macaulay,First,983
+E. A. White,First,984
+C. Rolland,First,985
+L. D. Catledge,First,986
+R. M. Gonzales,First,987
+G. Kosters,First,988
+R. E. M. Champion,First,989
+B. Boehm,First,990
+F. A. C. Pinheiro,First,991
+A. Ohnishi,First,992
+M. Osborne,First,993
+I. Santos,First,994
+B. Belkhouche,First,995
+C. Shekaran,First,996
+A. Salek,First,997
+M. B. Ozcan,First,998
+Jianhong Liang,First,999
+K. J. Hughes,First,1000
+J. Dobson,First,1001
+J. Bubenko,First,1002
+M. Alford,First,1003
+P. Wright,First,1004
+S. M. White,First,1005
+N. R. Reizer,First,1006
+N. W. Morgan,First,1007
+J. Holland,First,1008
+L. Goldin,First,1009
+R. D. Acosta,First,1010
+M. Dorfmann,First,1011
+D. P. Wood,First,1012
+J. O. P. Soares,First,1013
+R. E. Fairley,First,1014
+G. Eckert,First,1015
+J. M. Drake,First,1016
+Shih-Chien Chou,First,1017
+G. Bucci,First,1018
+Marian Daun,First,1019
+Edna Dias Canedo,First,1020
+Madhushi Bandara,First,1021
+Meira Levy,First,1022
+Mariana Peixoto,First,1023
+C. Pacheco,First,1024
+Khan Mohammad Habibullah,First,1025
+Rogelio Hernández,First,1026
+Muhammad Yaseen,First,1027
+Xavier Franch,First,1028
+Rene Noel,First,1029
+Mahsa H. Sadi,First,1030
+Peter Bambazek,First,1031
+Julian Frattini,First,1032
+Lukas Nagel,First,1033
+Clara Marie Lüders,First,1034
+Paulo Malcher,First,1035
+Laura Okpara,First,1036
+Marcela Ruiz,First,1037
+Birgit Penzenstadler,First,1038
+Elisabeth Henkel,First,1039
+Dipeeka Luitel,First,1040
+Hans-Martin Heyn,First,1041
+Fabiano Dalpiaz,First,1042
+Waleed Abdeen,First,1043
+Taciana Novo Kudo,First,1044
+M. Astegher,First,1045
+Rebekka Wohlrab,First,1046
+Muhammad Abbas,First,1047
+Ana Moreira,First,1048
+Zedong Peng,First,1049
+Larissa Chazette,First,1050
+Catarina Gralha,First,1051
+Jelle Wouters,First,1052
+Alessio Ferrari,First,1053
+Lloyd Montgomery,First,1054
+Rainara Maia Carvalho,First,1055
+Yawen Wang,First,1056
+Ruzanna Chitchyan,First,1057
+James Tizard,First,1058
+Kristina Marner,First,1059
+Yarden Levy,First,1060
+Camilo Almendra,First,1061
+Hamed Barzamini,First,1062
+Thomas Olsson,First,1063
+Aghyad Albaghajati,First,1064
+Raúl Lapeña,First,1065
+Andreas Kaufmann,First,1066
+Paula de Oliveira Santos,First,1067
+Daniel Bouskela,First,1068
+Salome Maro,First,1069
+Rafika Thabet,First,1070
+Lucas Gren,First,1071
+Ana Carolina Oran,First,1072
+Dirk van der Linden,First,1073
+Don Barrett,First,1074
+Matthew Robinson,First,1075
+Alicia M. Grubb,First,1076
+Yunduo Wang,First,1077
+Jameleddine Hassine,First,1078
+Cristina Palomares,First,1079
+Soroosh Nalchigar,First,1080
+José del Sagrado,First,1081
+Omar El Beggar,First,1082
+Lin Shi,First,1083
+Shaun Howell,First,1084
+Manolis Koubarakis,First,1085
+Sandro Bimonte,First,1086
+Kaushik Madala,First,1087
+Georgia Dede,First,1088
+Adrian Benfell,First,1089
+Kelly Blincoe,First,1090
+Hugo Villamizar,First,1091
+Leticia Duboc,First,1092
+Sayonnha Mandal,First,1093
+Tawfeeq Alsanoosy,First,1094
+Abdullah Wahbeh,First,1095
+Lysanne Lessard,First,1096
+Jemison dos Santos,First,1097
+Hamidreza Alrezaamiri,First,1098
+Martina Z. Kolpondinos,First,1099
+Alimohammad Shahri,First,1100
+Zhongchen Yuan,First,1101
+Marné de Vries,First,1102
+Assia Alexandrova,First,1103
+Iris Reinhartz-Berger,First,1104
+Johan Linåker,First,1105
+Mahdi Ghasemi,First,1106
+Alistair Sutcliffe,First,1107
+Maryam Nooraei Abadeh,First,1108
+D. Beimel,First,1109
+Okhaide Akhigbe,First,1110
+Xiangping Chen,First,1111
+Deokyoon Ko,First,1112
+Ahmed D. Alharthi,First,1113
+Daniel Amyot,First,1114
+Stavros Simou,First,1115
+S. Magnus Ågren,First,1116
+Matthew L. Hale,First,1117
+Jaspreet Bhatia,First,1118
+Muneera Bano,First,1119
+Abha Moitra,First,1120
+Jonas Westman,First,1121
+Jennifer Horkoff,First,1122
+Daniel Aceituna,First,1123
+Ye Wang,First,1124
+Esteban Sánchez,First,1125
+Enyo Gonçalves,First,1126
+João Caramujo,First,1127
+Juan Pablo Carvallo,First,1128
+Deepika Prakash,First,1129
+Arezoo Yazdani Seqerloo,First,1130
+Sarah Thew,First,1131
+Shalinka Jayatilleke,First,1132
+João Barata,First,1133
+Palash Bera,First,1134
+Kerry Neace,First,1135
+Amina Souag,First,1136
+Jane Hayes,First,1137
+Shinobu Saito,First,1138
+Andreas Maier,First,1139
+Zijad Kurtanović,First,1140
+Bastian Tenbergen,First,1141
+Jingdong Jia,First,1142
+Chi Mai Nguyen,First,1143
+Mohamad Gharib,First,1144
+Mahmood Hosseini,First,1145
+Negin Misaghian,First,1146
+Eric Knauss,First,1147
+Eissa Alreshidi,First,1148
+Grischa Liebel,First,1149
+Diego Firmenich,First,1150
+Talat Ambreen,First,1151
+Jane Huffman Hayes,First,1152
+Petra Heck,First,1153
+Julia Klier,First,1154
+Richard Berntsson Svensson,First,1155
+Atif Mashkoor,First,1156
+Rahul Thakurta,First,1157
+Ricardo Eito-Brun,First,1158
+Sarah C. Gregory,First,1159
+Charu Khatwani,First,1160
+Emitza Guzman,First,1161
+Parisa Ghazi,First,1162
+Garm Lucassen,First,1163
+Naveed Ali,First,1164
+Richard Ellis-Braithwaite,First,1165
+Nicolas Sannier,First,1166
+Fernando Asteasuain,First,1167
+Jo Erskine Hannay,First,1168
+Mirko Morandini,First,1169
+Mohamed Amine Beghoura,First,1170
+Olesia Oliinyk,First,1171
+Robert Andrei Buchmann,First,1172
+Elizabeth Bjarnason,First,1173
+Luis Valente,First,1174
+Liliana Pasquale,First,1175
+Samuel A. Fricker,First,1176
+Diego Dermeval,First,1177
+Isabel M. del Águila,First,1178
+John L. Dargan,First,1179
+Luz María Priego-Roche,First,1180
+Hans Heerkens,First,1181
+Didar Zowghi,First,1182
+Walid Maalej,First,1183
+Anas Mahmoud,First,1184
+Shamal Faily,First,1185
+Eduardo B. Fernandez,First,1186
+Ahmet Serkan Karataş,First,1187
+Junjie Wang,First,1188
+Rachida Djouab,First,1189
+Mohamed El-Attar,First,1190
+Jennifer Baldwin,First,1191
+Abraham Nieva de la Hidalga,First,1192
+Kathrin Figl,First,1193
+Daniel Méndez Fernández,First,1194
+Lassaad Ben Ammar,First,1195
+Donia El Kateb,First,1196
+Lili Yang,First,1197
+Andy Ridge,First,1198
+Robyn R. Lutz,First,1199
+Chung-Horng Lung,First,1200
+Piotr Pruski,First,1201
+Wenyi Qian,First,1202
+Jessica Díaz,First,1203
+Tanmay Bhowmik,First,1204
+Riccardo Scandariato,First,1205
+Leandro Antonelli,First,1206
+Sofia Ouhbi,First,1207
+Mikael Svahnberg,First,1208
+Marko Komssi,First,1209
+Nicola Zeni,First,1210
+Jelena Zdravkovic,First,1211
+Leah Goldin,First,1212
+Emilio Insfran,First,1213
+Jaejoon Lee,First,1214
+Mauricio Alférez,First,1215
+K. Olmos,First,1216
+Mahdi Derakhshanmanesh,First,1217
+Zhi Li,First,1218
+Orlena Gotel,First,1219
+Travis D. Breaux,First,1220
+Carlo Ghezzi,First,1221
+Sandeep Reddivari,First,1222
+Irit Hadar,First,1223
+Ebrahim Bagheri,First,1224
+Petros Belsis,First,1225
+Marina Berkovich,First,1226
+Andreas Lanz,First,1227
+JungWon Byun,First,1228
+Ehsan Gooraki,First,1229
+Michael Jackson,First,1230
+William Brace,First,1231
+Polinpapilinho F. Katina,First,1232
+Michal Dahan,First,1233
+Kristian Beckers,First,1234
+Stefanos Gritzalis,First,1235
+Francisco Moyano,First,1236
+Christos Kalloniatis,First,1237
+Paul Ralph,First,1238
+Husam Suleiman,First,1239
+Narasimhaiah Gorla,First,1240
+Keith Ellis,First,1241
+Pete Sawyer,First,1242
+Rick Salay,First,1243
+David G. Gordon,First,1244
+Antoine Cailliau,First,1245
+Joel Greenyer,First,1246
+Alejandro Rago,First,1247
+Seda Gürses,First,1248
+Gonzalo Génova,First,1249
+Rafael Capilla,First,1250
+Philip Lew,First,1251
+João Pimentel,First,1252
+Victoria Sakhnini,First,1253
+Gyda Atladottir,First,1254
+V. Pijpers,First,1255
+James Lockerbie,First,1256
+Patrick Heymans,First,1257
+Sharon McGee,First,1258
+Alastair Milne,First,1259
+Jeremy C. Maxwell,First,1260
+Camilo Fitzgerald,First,1261
+Daniel M. Berry,First,1262
+Soren Lauesen,First,1263
+Kurt Schneider,First,1264
+Amalinda Post,First,1265
+Ernst Sikora,First,1266
+Esteban Robles Luna,First,1267
+Kristina Pitula,First,1268
+Luciana C. Ballejos,First,1269
+Jane Cleland-Huang,First,1270
+Sotirios Liaskos,First,1271
+Hui Yang,First,1272
+Hakim Sultanov,First,1273
+Ricardo Gacitua,First,1274
+Eran Rubin,First,1275
+Yudistira Asnar,First,1276
+Tao Yue,First,1277
+Paulo F. Pires,First,1278
+Annie I. Anton,First,1279
+Eleni Kosta,First,1280
+José Luis Vivas,First,1281
+Jessica D. Young,First,1282
+Mina Deng,First,1283
+Israel Navarro,First,1284
+Christian Wolter,First,1285
+Raian Ali,First,1286
+Gabriela N. Aranda,First,1287
+Chen Li,First,1288
+Hermann Kaindl,First,1289
+Senthil Karthikeyan Sundaram,First,1290
+Rubén Fuentes-Fernández,First,1291
+Jim Mc Elroy,First,1292
+Kevin Ryan,First,1293
+Remo Ferrari,First,1294
+Jon Whittle,First,1295
+Shahram Esmaeilsabzali,First,1296
+Gunter Mussbacher,First,1297
+Daniel L. Moody,First,1298
+Eric Dubois,First,1299
+Siv Hilde Houmb,First,1300
+Benjamin Fabian,First,1301
+Aaron K. Massey,First,1302
+Golnaz Elahi,First,1303
+Igor Siveroni,First,1304
+Tetsuo Tamai,First,1305
+Nathan Weston,First,1306
+Gil Regev,First,1307
+Anthony Finkelstein,First,1308
+Martin Ivarsson,First,1309
+Sase Narine Singh,First,1310
+Jorge García-Duque,First,1311
+Lia Patrício,First,1312
+Norbert Seyff,First,1313
+Laura Lehtola,First,1314
+Chuan Duan,First,1315
+John Mathenge Kanyaru,First,1316
+Volha Bryl,First,1317
+Keng Siau,First,1318
+Joaquín Nicolás,First,1319
+David Sellier,First,1320
+Chris Hinds,First,1321
+Beatrice Alenljung,First,1322
+Nadzeya Kiyavitskaya,First,1323
+Ana Belén Barragáns Martínez,First,1324
+Joerg Evermann,First,1325
+Li Jiang,First,1326
+Ivan J. Jureta,First,1327
+Abdallah Mohamed,First,1328
+Andrea Herrmann,First,1329
+Naveen Prakash,First,1330
+Vassilis Agouridas,First,1331
+Farid Meziane,First,1332
+Davor Svetinovic,First,1333
+Qusay H. Mahmoud,First,1334
+Dinesh Batra,First,1335
+Michael Lang,First,1336
+Younes Benslimane,First,1337
+Emila Sadraei,First,1338
+Tony Gorschek,First,1339
+Jason Rubens,First,1340
+Martin Glinz,First,1341
+Robert Seater,First,1342
+Mark-Oliver Reiser,First,1343
+Rosario Girardi,First,1344
+Robyn Lutz,First,1345
+Sebastian Garde,First,1346
+R. J. Wieringa,First,1347
+Lily Sun,First,1348
+Joanne M. Atlee,First,1349
+Mehrdad Sabetzadeh,First,1350
+Maya Daneva,First,1351
+Neil Maiden,First,1352
+Søren Lauesen,First,1353
+Charles B. Haley,First,1354
+Sebastian Uchitel,First,1355
+Alan M. Davis,First,1356
+Roel Wieringa,First,1357
+Steven J. Bleistein,First,1358
+Artem Katasonov,First,1359
+William N. Robinson,First,1360
+Isabelle Mirbel,First,1361
+Björn Regnell,First,1362
+Ian Alexander,First,1363
+Luisa Mich,First,1364
+Haruhiko Kaiya,First,1365
+Isabel Ramos,First,1366
+Jan L. G. Dietz,First,1367
+Anne Etien,First,1368
+Nikolaus Kleiner,First,1369
+W. M. P. van der Aalst,First,1370
+Balasubramaniam Ramesh,First,1371
+Peter Merrick,First,1372
+Michael Breen,First,1373
+Jae Eun Shin,First,1374
+Karin Koogan Breitman,First,1375
+Hossein Saiedian,First,1376
+Andreas Gregoriades,First,1377
+James D. Arthur,First,1378
+Julio Cesar Sampaio do Prado Leite,First,1379
+Guttorm Sindre,First,1380
+Peretz Shoval,First,1381
+Andrew Gemino,First,1382
+Akhilesh Bajaj,First,1383
+Joonhee Yoo,First,1384
+Enzo Colombo,First,1385
+Katrina Hands,First,1386
+Annie I. Antón,First,1387
+Davide Bolchini,First,1388
+C. S. Shih,First,1389
+Renaud De Landtsheer,First,1390
+Ariel Fuxman,First,1391
+Colette Rolland,First,1392
+Paolo Donzelli,First,1393
+Mich Luisa,First,1394
+Devendra Fakun,First,1395
+Tim Menzies,First,1396
+Christopher P. Fuhrman,First,1397
+Michael Halling,First,1398
+Debbie Richards,First,1399
+K. Suzanne Barber,First,1400
+Martin S. Feather,First,1401
+R. Banach,First,1402
+Francisco A. C. Pinheiro,First,1403
+Daniela E. Damian,First,1404
+Ben Kovitz,First,1405
+Jaap Gordijn,First,1406
+David Lowe,First,1407
+Andreas S. Andreou,First,1408
+C.S. Notarmarco,First,1409
+J. Torres,First,1410
+Babak Khazaei,First,1411
+Bashar Nuseibeh,First,1412
+Pericles Loucopoulos,First,1413
+Jeffrey M. Thompson,First,1414
+Günter Gans,First,1415
+Steve Easterbrook,First,1416
+Darrell Raymond,First,1417
+Guy Helmer,First,1418
+Laura A. Campbell,First,1419
+Yunja Choi,First,1420
+Cynthia E. Irvine,First,1421
+Rik Eshuis,First,1422
+Ray Offen,First,1423
+Pär Carlshamre,First,1424
+Mark Bergman,First,1425
+Bill Karakostas,First,1426
+Fabio Casati,First,1427
+Jane Coughlan,First,1428
+E. Insfrán,First,1429
+Camille Ben Achour-Salinesi,First,1430
+Johan Natt och Dag,First,1431
+Allen H. Dutoit,First,1432
+Andreas Homrighausen,First,1433
+Ambrosio Toval,First,1434
+Evangelia Kavakli,First,1435
+Douglas Havelka,First,1436
+ ,First,1437
+Haim Kilov,First,1438
+Daya Gupta,First,1439
+Colin J. Burgess,First,1440
+Pnina Soffer,First,1441
+Zheying Zhang,First,1442
+Luiz Marcio Cysneiros,First,1443
+Aldo de Moor,First,1444
+Klaus Pohl,First,1445
+Daniel Gross,First,1446
+Georg Kösters,First,1447
+Andrew Gabb,First,1448
+A. Ravid,First,1449
+Mats P. E. Heimdahl,First,1450
+Edward R. Sim,First,1451
+A. Daugulis,First,1452
+Ivy Hooks,First,1453
+P. Chountas,First,1454
+Lilia Gzara,First,1455
+James Robertson,First,1456
+Nandish V. Patel,First,1457
+Christopher J. Atkinson,First,1458
+R. D. Galliers,First,1459
+David C. Sutton,First,1460
+W. Al-Karaghouli,First,1461
+J. M. Coakes,First,1462
+Enid Mumford,First,1463
+S. P. Overmyer,First,1464
+Nikos Prekas,First,1465
+Hong Zhu,First,1466
+Ian  Alexander,First,1467
+Karel Lemmen,First,1468
+Walter Hussak,First,1469
+Pedro Sánchez,First,1470
+G. H. Galal,First,1471
+G. Kotonya,First,1472
+Ray J. Paul,First,1473
+S. K. Probert,First,1474
+N. V. Patel,First,1475
+R. Juric,First,1476
+C. Cherry,First,1477
+R. Wood,First,1478
+Albert Alderson,First,1479
+Linda A. Macaulay,First,1480
+Scott P. Overmyer,First,1481
+A. Isazadeh,First,1482
+Jim Arlow,First,1483
+Wolfgang Emmerich,First,1484
+Michael A. Jackson,First,1485
+Erik Kamsties,First,1486
+Ljerka Beus-Dukic,First,1487
+Stephen Armitage,First,1488
+Yiannis Papadopoulos,First,1489
+Philip Morris,First,1490
+David P. Kirkman,First,1491
+Ralf Melchisedech,First,1492
+Isabel Santos,First,1493
+M. Bouzeghoub,First,1494
+Tom Docker,First,1495
+Despina Filippidou,First,1496
+Matthias Jarke,First,1497
+Jean-Charles Pomerol,First,1498
+M. D. Feblowitz,First,1499
+W. J. Black,First,1500
+David Corrall,First,1501
+Philippe Du Bois,First,1502
+S. R. Smith,First,1503
+T. Gilb,First,1504
+K. J. Turner,First,1505
+G. Grosz,First,1506
+E. Kantorowitz,First,1507
+John Mylopoulos,First,1508
+B. Dano,First,1509
+F. Modugno,First,1510
+Pamela Zave,First,1511
+Richard Stevens,First,1512
+C. J. Atkinson,First,1513
+Joachim Karlsson,First,1514
+Richard Veryard,First,1515
+W. Hussak,First,1516
+Lawrence Chung,First,1517
+John Krogstie,First,1518
+Laurence James,First,1519
+Ch. Kohring,First,1520
+Geoff Mullery,First,1521
+Peta Darke,First,1522
+Prodromos D. Chatzoglou,First,1523
+Jonathan Moffett,First,1524
+Khaled El Emam,First,1525
+C. Batini,First,1526
+Nadeen AlAmoudi,First,1527
+Muhammad Aminu Umar,First,1528
+Pedro Teixeira,First,1529
+ K. Kuznetsov,Second,1530
+ V. Kaulagi,Second,1531
+ B. Zhang,Second,1532
+ M. Rukavitsyna,Second,1533
+ S. Abualhaija,Second,1534
+ K. Lima,Second,1535
+ L. Nagel,Second,1536
+ M. Amor,Second,1537
+ N. Deb,Second,1538
+ Z. S. Li,Second,1539
+ E. Tempero,Second,1540
+ N. Niu,Second,1541
+ I. Foster,Second,1542
+ F. Lepore,Second,1543
+ P. R. Anish,Second,1544
+ P. Nistala,Second,1545
+ O. Klemp,Second,1546
+ M. Abbas,Second,1547
+ H. Kausch,Second,1548
+ T. Cebulla,Second,1549
+ C. Mayr-Dorn,Second,1550
+ R. R. Lutz,Second,1551
+ M. Beck,Second,1552
+ I. Groher,Second,1553
+ A. -L. Courbis,Second,1554
+ J. Nabrzyski,Second,1555
+ C. Silva,Second,1556
+ C. Arora,Second,1557
+ J. Shi,Second,1558
+ D. Amyot,Second,1559
+ X. Zhang,Second,1560
+ J. Araújo,Second,1561
+ S. Gnesi,Second,1562
+ C. Criscuolo,Second,1563
+ E. Knauss,Second,1564
+ L. Liu,Second,1565
+ Z. Li,Second,1566
+ H. Xiao,Second,1567
+ D. Kim,Second,1568
+ S. Tiwari,Second,1569
+ E. Anichini,Second,1570
+ K. Großer,Second,1571
+ C. Werner,Second,1572
+ A. Jain,Second,1573
+ T. Pietz,Second,1574
+ S. Chen,Second,1575
+ M. Rahimi,Second,1576
+ M. Ahrens,Second,1577
+ X. -Y. Zhang,Second,1578
+ T. Norton,Second,1579
+ E. Letier,Second,1580
+ M. Sihag,Second,1581
+ V. Klös,Second,1582
+ Y. Ma,Second,1583
+ A. Kaufmann,Second,1584
+ P. Sawyer,Second,1585
+ J. Tizard,Second,1586
+ L. Medeiros,Second,1587
+ S. Subramanian,Second,1588
+ G. B. Neto,Second,1589
+ T. Li,Second,1590
+ Y. Wang,Second,1591
+ P. Shah,Second,1592
+ G. Quirchmayr,Second,1593
+ M. Hekmatnejad,Second,1594
+ N. Condori-Fernandez,Second,1595
+ F. Fotrousi,Second,1596
+ L. Montgomery,Second,1597
+ F. Dalpiaz,Second,1598
+ K. Tei,Second,1599
+ L. M. Cysneiros,Second,1600
+ L. Zhao,Second,1601
+ M. Bano,Second,1602
+ J. Horkoff,Second,1603
+ L. Zhang,Second,1604
+ K. Villela,Second,1605
+ A. Massey,Second,1606
+ A. Toffano Seidel Calazans,Second,1607
+ J. Heaps,Second,1608
+ R. Heckel,Second,1609
+ A. Bouraffa,Second,1610
+ M. Khan,Second,1611
+ A. Irfan,Second,1612
+ J. Tamanini,Second,1613
+ G. Mussbacher,Second,1614
+ B. Koopmann,Second,1615
+ W. Brunotte,Second,1616
+ R. Pereira,Second,1617
+ E. Guzman,Second,1618
+ P. Spoletini,Second,1619
+ P. Rathod,Second,1620
+ A. M. Grubb,Second,1621
+ A. Albrecht,Second,1622
+ D. F. Edvardsen,Second,1623
+ S. Fricker,Second,1624
+ T. Puhlfürß,Second,1625
+ R. Janssen,Second,1626
+ A. Ahmed,Second,1627
+ J. E. Hachem,Second,1628
+ M. Aoyama,Second,1629
+ D. Truscan,Second,1630
+ M. Pauzner,Second,1631
+ S. Liaskos,Second,1632
+ S. Hauser,Second,1633
+ A. Perini,Second,1634
+ A. Henriksson,Second,1635
+ T. Bhowmik,Second,1636
+ T. Kehrer,Second,1637
+ X. Chen,Second,1638
+ A. Zaki-Ismail,Second,1639
+ T. Alsanoosy,Second,1640
+ I. Omoronyia,Second,1641
+ V. Sridhar,Second,1642
+ C. A. Öz,Second,1643
+ S. -H. Park,Second,1644
+ M. Osama,Second,1645
+ J. Cao,Second,1646
+ N. Bencomo,Second,1647
+ D. Solanki,Second,1648
+ Y. Wautelet,Second,1649
+ S. Brinkkemper,Second,1650
+ S. -W. Lee,Second,1651
+ M. Mannion,Second,1652
+ J. -M. Bruel,Second,1653
+ W. Hussain,Second,1654
+ J. Araujo,Second,1655
+ J. -P. Steghöfer,Second,1656
+ A. Vogelsang,Second,1657
+ A. Ferrari,Second,1658
+ T. Rietz,Second,1659
+ M. Haering,Second,1660
+ Q. Motger,Second,1661
+ R. M. C. Andrade,Second,1662
+ A. Bennaceur,Second,1663
+ M. Ceci,Second,1664
+ J. Keim,Second,1665
+ L. Shi,Second,1666
+ F. Ebrahimi,Second,1667
+ D. Zowghi,Second,1668
+ C. Bird,Second,1669
+ A. Riel,Second,1670
+ D. Kravchenko,Second,1671
+ K. Ohashi,Second,1672
+ G. Lami,Second,1673
+ A. Garciandia,Second,1674
+ H. Bourbouh,Second,1675
+ J. Cunha,Second,1676
+ J. Lin,Second,1677
+ Y. Matsuno,Second,1678
+ A. Parvizimosaed,Second,1679
+ B. da Silva,Second,1680
+ P. J. Bentley,Second,1681
+ F. B. Aydemir,Second,1682
+ B. Hauptmann,Second,1683
+ M. Spichkova,Second,1684
+ M. Ruiz,Second,1685
+ S. S. Rathore,Second,1686
+ L. Eswarachary,Second,1687
+ S. Betz,Second,1688
+ H. Wang,Second,1689
+ J. Grönberg,Second,1690
+ Y. Xie,Second,1691
+ S. R. Chekuri,Second,1692
+ A. Anderlin Neto,Second,1693
+ S. Hayashi,Second,1694
+ A. Maté,Second,1695
+ W. Maalej,Second,1696
+ D. Dell'Anna,Second,1697
+ A. Kleebaum,Second,1698
+ M. Goulão,Second,1699
+ S. Rayadurgam,Second,1700
+ H. Liu,Second,1701
+ P. Burzynski,Second,1702
+ F. Brokhausen,Second,1703
+ O. Karras,Second,1704
+ D. Dietsch,Second,1705
+ J. Kang,Second,1706
+ J. Ruohonen,Second,1707
+ K. Beckers,Second,1708
+ A. Lopez-Lorca,Second,1709
+ Z. Zhong,Second,1710
+ A. Hassanzadeh,Second,1711
+ L. Etzlinger,Second,1712
+ C. Huli,Second,1713
+ A. Maedche,Second,1714
+ K. Baum,Second,1715
+ S. A. Scherr,Second,1716
+ A. Paredes Rojas,Second,1717
+ K. Wang,Second,1718
+ Y. Yu,Second,1719
+ T. D. Breaux,Second,1720
+ W. Ke,Second,1721
+ M. Mallik,Second,1722
+ M. Raatikainen,Second,1723
+ M. Lee,Second,1724
+ D. Ki-Aries,Second,1725
+ M. Salnitri,Second,1726
+ S. Mavin,Second,1727
+ M. Glinz,Second,1728
+ A. Mahmoud,Second,1729
+ M. Harman,Second,1730
+ A. Hess,Second,1731
+ S. L. Lim,Second,1732
+ N. Sannier,Second,1733
+ L. Pasquale,Second,1734
+ Y. Leng,Second,1735
+ R. Pulle,Second,1736
+ J. Ersare,Second,1737
+ M. Stade,Second,1738
+ C. Gralha,Second,1739
+ N. A. Day,Second,1740
+ M. Vierhauser,Second,1741
+ M. Daneva,Second,1742
+ K. Siu,Second,1743
+ N. Marko,Second,1744
+ J. Cleland-Huang,Second,1745
+ P. D. L. Machado,Second,1746
+ A. Katayama,Second,1747
+ J. Castro,Second,1748
+ M. Raffi,Second,1749
+ E. Tsekleves,Second,1750
+ K. Holness,Second,1751
+ F. Uebernickel,Second,1752
+ M. Stettinger,Second,1753
+ M. Conzelmann,Second,1754
+ A. Dekhtyar,Second,1755
+ R. Batista-Navarro,Second,1756
+ S. M. D. Al Alam,Second,1757
+ M. Nayebi,Second,1758
+ M. Chechik,Second,1759
+ M. Rahman,Second,1760
+ J. H. Hayes,Second,1761
+ G. Liebel,Second,1762
+ R. Lutz,Second,1763
+ M. Ibrahim,Second,1764
+ C. Stanik,Second,1765
+ P. K. Murukannaiah,Second,1766
+ A. Zamansky,Second,1767
+ S. Kopczyńska,Second,1768
+ P. Sharma,Second,1769
+ M. Diep,Second,1770
+ T. Menzies,Second,1771
+ P. Wilkinson,Second,1772
+ K. Wnuk,Second,1773
+ Y. Iimura,Second,1774
+ R. A. Paldes,Second,1775
+ D. M. Berry,Second,1776
+ S. Conversy,Second,1777
+ B. Jayaraman,Second,1778
+ A. Condamines,Second,1779
+ J. Hammes,Second,1780
+ E. Kamsties,Second,1781
+ A. Moitra,Second,1782
+ M. Adedjouma,Second,1783
+ J. Bhatia,Second,1784
+ D. Munante,Second,1785
+ G. Ruhe,Second,1786
+ D. Damian,Second,1787
+ T. Olsson,Second,1788
+ D. M. Fernández,Second,1789
+ D. Van Der Linden,Second,1790
+ F. Shull,Second,1791
+ D. Muñante,Second,1792
+ A. Zisman,Second,1793
+ A. Shymka,Second,1794
+ M. Laddha,Second,1795
+ Z. S. H. Abad,Second,1796
+ E. Reading,Second,1797
+ W. Zhao,Second,1798
+ N. Condori-Fernández,Second,1799
+ V. Fong,Second,1800
+ G. O. Spagnolo,Second,1801
+ A. Meneely,Second,1802
+ N. Ajmeri,Second,1803
+ P. Rempel,Second,1804
+ C. H. C. Duarte,Second,1805
+ M. Noaeen,Second,1806
+ S. Pape,Second,1807
+ R. Alkadhi,Second,1808
+ E. B. Charrada,Second,1809
+ M. P. Singh,Second,1810
+ S. Kiesling,Second,1811
+ M. Falis,Second,1812
+ A. Koshoffer,Second,1813
+ G. Lucassen,Second,1814
+ P. Ferraioli,Second,1815
+ D. Duarte,Second,1816
+ T. Gallo,Second,1817
+ L. Feng,Second,1818
+ P. Wilksinson,Second,1819
+ D. Feth,Second,1820
+ M. Sabetzadeh,Second,1821
+ S. Gregory,Second,1822
+ A. A. Anda,Second,1823
+ E. Wallmüller,Second,1824
+ C. Burnay,Second,1825
+ A. Beugnard,Second,1826
+ I. Hadar,Second,1827
+ M. W. Whalen,Second,1828
+ P. Giorgini,Second,1829
+ C. Brock,Second,1830
+ C. Chen,Second,1831
+ C. Ponsard,Second,1832
+ A. V. Patil,Second,1833
+ N. Chaki,Second,1834
+ S. Wang,Second,1835
+ B. Upreti,Second,1836
+ T. Sommestad,Second,1837
+ N. Cercone,Second,1838
+ M. Taghavianfar,Second,1839
+ A. A. Al-Subaihin,Second,1840
+ R. Rabiser,Second,1841
+ A. van Lamsweerde,Second,1842
+ H. Nabil,Second,1843
+ H. Do,Second,1844
+ A. K. Kalia,Second,1845
+ D. Smullen,Second,1846
+ P. Mäder,Second,1847
+ N. Seyff,Second,1848
+ G. Antoniol,Second,1849
+ N. Monaikul,Second,1850
+ X. Franch,Second,1851
+ G. R. Santhanam,Second,1852
+ F. Bex,Second,1853
+ R. Popp,Second,1854
+ K. Hänninen,Second,1855
+ D. Carver,Second,1856
+ A. Shahri,Second,1857
+ I. Jureta,Second,1858
+ J. Holtmann,Second,1859
+ E. Paja,Second,1860
+ L. Huang,Second,1861
+ J. Parsons,Second,1862
+ J. Vilela,Second,1863
+ H. Femmer,Second,1864
+ J. B. Jørgensen,Second,1865
+ P. Dueck,Second,1866
+ M. Kauppinen,Second,1867
+ F. Houdek,Second,1868
+ A. Podelski,Second,1869
+ R. Heldal,Second,1870
+ T. Gorschek,Second,1871
+ J. Cheng,Second,1872
+ S. Ludi,Second,1873
+ R. Salay,Second,1874
+ A. Rifaut,Second,1875
+ R. L. Rutledge,Second,1876
+ F. Massacci,Second,1877
+ T. Ruhroth,Second,1878
+ X. Peng,Second,1879
+ S. Lohar,Second,1880
+ F. Schaub,Second,1881
+ P. Rayson,Second,1882
+ J. King,Second,1883
+ J. -M. Lehker,Second,1884
+ M. Takeuchi,Second,1885
+ A. Rashid,Second,1886
+ M. Mirakhorli,Second,1887
+ G. Rossi,Second,1888
+ S. A. Fricker,Second,1889
+ A. Siena,Second,1890
+ J. Grundy,Second,1891
+ M. Pampaka,Second,1892
+ I. Hammouda,Second,1893
+ Yukun Su,Second,1894
+ R. Chakraborty,Second,1895
+ D. Throop,Second,1896
+ Dongyue Mou,Second,1897
+ F. Hogrebe,Second,1898
+ T. Weigert,Second,1899
+ S. Feja,Second,1900
+ M. B. Hansen,Second,1901
+ T. de Gooijer,Second,1902
+ S. Ghaisas,Second,1903
+ C. Alves,Second,1904
+ N. Maiden,Second,1905
+ W. Nunes,Second,1906
+ T. de Oliveira,Second,1907
+ T. Wien,Second,1908
+ Y. Lu,Second,1909
+ M. Nyberg,Second,1910
+ R. Leite,Second,1911
+ J. Eisenstein,Second,1912
+ A. Rao,Second,1913
+ A. I. Antòn,Second,1914
+ C. Menghi,Second,1915
+ N. Medvidovic,Second,1916
+ J. M. Atlee,Second,1917
+ N. Genon,Second,1918
+ Q. Wang,Second,1919
+ A. Ohsuga,Second,1920
+ W. Scacchi,Second,1921
+ E. Vriezekolk,Second,1922
+ J. Li,Second,1923
+ P. Mçder,Second,1924
+ S. Reddivari,Second,1925
+ J. L. de la Vara,Second,1926
+ J. Kienzle,Second,1927
+ D. Hauksdóttir,Second,1928
+ R. Behjati,Second,1929
+ S. Fuhrmann,Second,1930
+ I. Widya,Second,1931
+ A. Beer,Second,1932
+ P. I. Musasizi,Second,1933
+ G. Regev,Second,1934
+ R. R. Ramnani,Second,1935
+ P. Kumari,Second,1936
+ M. Behrendt,Second,1937
+ H. Demmou,Second,1938
+ D. Mou,Second,1939
+ C. Quer,Second,1940
+ B. Bruegge,Second,1941
+ G. Ripa,Second,1942
+ A. Czauderna,Second,1943
+ P. van Eck,Second,1944
+ A. Mavin,Second,1945
+ J. Beatty,Second,1946
+ R. Wieringa,Second,1947
+ D. Callele,Second,1948
+ M. Borges,Second,1949
+ P. Grünbacher,Second,1950
+ A. De Roeck,Second,1951
+ P. Sampath,Second,1952
+ C. Ayala,Second,1953
+ A. Koziolek,Second,1954
+ A. I. Anton,Second,1955
+ A. K. Bandara,Second,1956
+ W. Zhang,Second,1957
+ A. M. Sharifloo,Second,1958
+ J. Doerr,Second,1959
+ J. H. Lutz,Second,1960
+ R. Jalman,Second,1961
+ U. Nikula,Second,1962
+ E. Braun,Second,1963
+ B. Hwong,Second,1964
+ F. Schneider,Second,1965
+ M. Spier,Second,1966
+ B. Boehm,Second,1967
+ A. Vermehren,Second,1968
+ O. Collell,Second,1969
+ H. Zhao,Second,1970
+ S. Leblanc,Second,1971
+ T. Straszak,Second,1972
+ Z. Chen,Second,1973
+ L. Chung,Second,1974
+ D. Petriu,Second,1975
+ M. Whalen,Second,1976
+ S. Arora,Second,1977
+ A. Borgida,Second,1978
+ D. Greer,Second,1979
+ M. Antkiewicz,Second,1980
+ O. Dekhtyar,Second,1981
+ S. J. Morris,Second,1982
+ Y. Kamei,Second,1983
+ J. Hoenicke,Second,1984
+ A. I. Antón,Second,1985
+ B. Smith,Second,1986
+ T. T. Tun,Second,1987
+ T. Männistö,Second,1988
+ S. Abrahão,Second,1989
+ S. F. Arenis,Second,1990
+ K. Lehner,Second,1991
+ H. Kurihara,Second,1992
+ R. Fahney,Second,1993
+ V. Gervasi,Second,1994
+ B. Yin,Second,1995
+ I. Fléchais,Second,1996
+ R. Chitchyan,Second,1997
+ M. Khalil,Second,1998
+ G. Ollmann,Second,1999
+ M. Heisel,Second,2000
+ V. Rogozhkin,Second,2001
+ M. Mueller,Second,2002
+ A. de Roeck,Second,2003
+ F. Graf,Second,2004
+ S. Jones,Second,2005
+ L. Bass,Second,2006
+ N. H. Madhavji,Second,2007
+ D. C. Gause,Second,2008
+ B. Chen,Second,2009
+ S. A. McIlraith,Second,2010
+ D. Pfahl,Second,2011
+ T. Hill,Second,2012
+ R. Mazo,Second,2013
+ J. -P. Jacquot,Second,2014
+ D. Jackson,Second,2015
+ J. Kuusela,Second,2016
+ S. Tilley,Second,2017
+ K. Czarnecki,Second,2018
+ M. -O. Reiser,Second,2019
+ N. Y. David,Second,2020
+ K. -S. Hielscher,Second,2021
+ D. Bush,Second,2022
+ A. McLucas,Second,2023
+ A. Paradkar,Second,2024
+ P. Heymans,Second,2025
+ T. Nakatani,Second,2026
+ J. Hosking,Second,2027
+ E. Neufeld,Second,2028
+ M. Śmiałek,Second,2029
+ R. Ferrari,Second,2030
+ M. Snoeck,Second,2031
+ H. U. Asuncion,Second,2032
+ J. Mylopoulos,Second,2033
+ G. Tamburrelli,Second,2034
+ B. Regnell,Second,2035
+ O. Gotel,Second,2036
+ R. Schuster,Second,2037
+ J. Whittle,Second,2038
+ A. Onabajo,Second,2039
+ O. Hayard,Second,2040
+ G. Sindre,Second,2041
+ E. Yu,Second,2042
+ C. Ebert,Second,2043
+ H. Zhang,Second,2044
+ J. Savolainen,Second,2045
+ C. Sinz,Second,2046
+ R. Bults,Second,2047
+ D. Schmitz,Second,2048
+ P. Jones,Second,2049
+ M. Jackson,Second,2050
+ H. Degen,Second,2051
+ H. Heerkens,Second,2052
+ P. Mader,Second,2053
+ D. Diaz,Second,2054
+ I. Flechais,Second,2055
+ A. Hubaux,Second,2056
+ S. Ghanavati,Second,2057
+ C. Rolland,Second,2058
+ K. Schneider,Second,2059
+ K. Uno,Second,2060
+ E. Dubois,Second,2061
+ A. Sutcliffe,Second,2062
+ S. d. Kinderen,Second,2063
+ C. M. L. Werner,Second,2064
+ T. A. Alspaugh,Second,2065
+ L. Williams,Second,2066
+ S. Easterbrook,Second,2067
+ C. Duan,Second,2068
+ H. Mouratidis,Second,2069
+ K. Havelund,Second,2070
+ K. Pohl,Second,2071
+ T. Rayment,Second,2072
+ M. Alexander,Second,2073
+ M. Gall,Second,2074
+ H. W. Nissen,Second,2075
+ M. Novak,Second,2076
+ S. Hori,Second,2077
+ A. S. Hejmadi,Second,2078
+ M. Komssi,Second,2079
+ K. A. Hicks,Second,2080
+ C. Salzberg,Second,2081
+ P. Lynch,Second,2082
+ A. Hickey,Second,2083
+ L. Constantine,Second,2084
+ J. Pardillo,Second,2085
+ P. Heim,Second,2086
+ M. Smialek,Second,2087
+ H. Kaindl,Second,2088
+ R. Laney,Second,2089
+ P. N. Otto,Second,2090
+ A. Ohnishi,Second,2091
+ C. E. Boustani,Second,2092
+ A. Moreira,Second,2093
+ C. Ncube,Second,2094
+ J. Lockerbie,Second,2095
+ S. Marczak,Second,2096
+ T. Tamai,Second,2097
+ J. Gordijn,Second,2098
+ S. Hartkopf,Second,2099
+ P. Grunbacher,Second,2100
+ J. Huffman Hayes,Second,2101
+ K. Smolander,Second,2102
+ F. Garzotto,Second,2103
+ T. Topaloglou,Second,2104
+ T. Tuunanen,Second,2105
+ S. Nejati,Second,2106
+ E. Sikora,Second,2107
+ R. Jeffords,Second,2108
+ G. Ramalho,Second,2109
+ L. Sterling,Second,2110
+ B. Pokrzywa,Second,2111
+ C. Salinesi,Second,2112
+ V. Jagannatha,Second,2113
+ M. Gupta,Second,2114
+ K. Sandahl,Second,2115
+ R. Venkat,Second,2116
+ S. Wadhwa,Second,2117
+ D. Dhungana,Second,2118
+ S. Denman,Second,2119
+ S. Faulkner,Second,2120
+ R. A. Gandhi,Second,2121
+ E. Ninou,Second,2122
+ J. C. S. d. P. Leite,Second,2123
+ J. Hernandez,Second,2124
+ A. Vasal,Second,2125
+ P. K. Jayaraman,Second,2126
+ R. Settimi,Second,2127
+ M. W. Vail,Second,2128
+ B. Nuseibeh,Second,2129
+ M. Monga,Second,2130
+ A. Lapouchnian,Second,2131
+ M. Ivarsson,Second,2132
+ J. Miller,Second,2133
+ M. Ott,Second,2134
+ M. Petit,Second,2135
+ M. Weber,Second,2136
+ H. Giese,Second,2137
+ O. Dieste,Second,2138
+ M. Saeki,Second,2139
+ C. Planz,Second,2140
+ S. Riddle,Second,2141
+ M. Patel,Second,2142
+ H. Rumetshofer,Second,2143
+ B. Reuschenbach,Second,2144
+ M. S. Feather,Second,2145
+ S. E. Sim,Second,2146
+ B. H. C. Cheng,Second,2147
+ J. C. S. do Prado Leite,Second,2148
+ Z. Jin,Second,2149
+ P. Valderas,Second,2150
+ D. Liang,Second,2151
+ C. C. Lin,Second,2152
+ S. Fickas,Second,2153
+ Wei Zhang,Second,2154
+ K. Lauenroth,Second,2155
+ Wieringa R,Second,2156
+ S. Robertson,Second,2157
+ W. Robinson,Second,2158
+ D. Ince,Second,2159
+ O. Pastor,Second,2160
+ D. Bolchini,Second,2161
+ S. E. Wallace,Second,2162
+ K. N. Schmid,Second,2163
+ S. Nelson,Second,2164
+ Hong Mei,Second,2165
+ C. Bazzanella,Second,2166
+ A. Wegmann,Second,2167
+ Yiqiao Wang,Second,2168
+ D. Kerkow,Second,2169
+ E. Goto,Second,2170
+ G. Matos,Second,2171
+ F. Lillehagen,Second,2172
+ J. H. Saleh,Second,2173
+ E. Simmons,Second,2174
+ F. Populus,Second,2175
+ G. Fanmuy,Second,2176
+ V. M. Werneck,Second,2177
+ J. Rilling,Second,2178
+ A. Botorabi,Second,2179
+ N. Madhavji,Second,2180
+ A. S. Andreou,Second,2181
+ I. Sommerville,Second,2182
+ A. Matysiak,Second,2183
+ R. G. Dewar,Second,2184
+ K. Lappe,Second,2185
+ J. le Feber,Second,2186
+ D. Jamieson,Second,2187
+ J. F. Cunha,Second,2188
+ J. C. S. P. Leite,Second,2189
+ B. Paech,Second,2190
+ J. G. Hall,Second,2191
+ R. C. Laney,Second,2192
+ A. Osada,Second,2193
+ L. Barroca,Second,2194
+ V. Kartsevat,Second,2195
+ Jae-Eun Shih,Second,2196
+ M. Bergman,Second,2197
+ J. C. S. Prado Leite,Second,2198
+ R. Chatley,Second,2199
+ G. Zemont,Second,2200
+ Lan Guo,Second,2201
+ N. Kuhn,Second,2202
+ A. Matsuoka,Second,2203
+ R. Tavakoli Kolagari,Second,2204
+ E. Metzker,Second,2205
+ G. Halmans,Second,2206
+ G. Grau,Second,2207
+ Jun Wang,Second,2208
+ G. Mark,Second,2209
+ A. Finkelstein,Second,2210
+ I. C. Mikulski,Second,2211
+ C. Bossen,Second,2212
+ J. F. B. de Castro,Second,2213
+ J. W. S. Liu,Second,2214
+ R. Cleaveland,Second,2215
+ P. Paolini,Second,2216
+ D. Zitner,Second,2217
+ A. M. Davis,Second,2218
+ L. Rapanotti,Second,2219
+ K. Zografos,Second,2220
+ S. Paryani,Second,2221
+ J. Kreutzkamp,Second,2222
+ L. Karlsson,Second,2223
+ W. . -C. Chang,Second,2224
+ A. Miller,Second,2225
+ K. Watanabe,Second,2226
+ M. Dorfman,Second,2227
+ T. Alameda,Second,2228
+ S. Matsuda,Second,2229
+ P. Vollmer,Second,2230
+ S. Schockert,Second,2231
+ N. Kameli,Second,2232
+ P. Massonet,Second,2233
+ K. Sasaki,Second,2234
+ A. Kushniruk,Second,2235
+ K. Watahiki,Second,2236
+ I. Ramos,Second,2237
+ M. Rossi,Second,2238
+ A. . -B. Fure,Second,2239
+ O. Fritzen,Second,2240
+ H. Horai,Second,2241
+ J. B. Earp,Second,2242
+ J. F. B. Castro,Second,2243
+ S. Kujala,Second,2244
+ C. M. Lott,Second,2245
+ T. Viguier,Second,2246
+ H. Gall,Second,2247
+ J. Foisseau,Second,2248
+ P. Braun,Second,2249
+ A. Olmos,Second,2250
+ J. P. Carvallo,Second,2251
+ P. Alexander,Second,2252
+ F. Kudorfer,Second,2253
+ A. Ruiz-Cortes,Second,2254
+ W. N. Robinson,Second,2255
+ A. Gregoriades,Second,2256
+ T. Meyer,Second,2257
+ A. Volker,Second,2258
+ A. Lapp,Second,2259
+ J. Siedersleben,Second,2260
+ R. Mackenthun,Second,2261
+ D. Muthig,Second,2262
+ J. J. Pazos-Arias,Second,2263
+ C. K. Chang,Second,2264
+ E. Delor,Second,2265
+ M. Flynn,Second,2266
+ M. Jasinski,Second,2267
+ M. B. Rosson,Second,2268
+ J. Weisbrod,Second,2269
+ M. de Laat,Second,2270
+ V. Merunka,Second,2271
+ T. Brasethvik,Second,2272
+ A. Monzon,Second,2273
+ J. J. Joyce,Second,2274
+ W. H. Paulsen,Second,2275
+ J. C. Sampaio do Prado,Second,2276
+ G. Valetto,Second,2277
+ S. L. Cornford,Second,2278
+ P. A. Swatman,Second,2279
+ M. Becker,Second,2280
+ C. N. Schroeder,Second,2281
+ E. L. Gunter,Second,2282
+ B. K. Aichernig,Second,2283
+ A. Eberlein,Second,2284
+ S. Row,Second,2285
+ S. M. Easterbrook,Second,2286
+ N. R. Mead,Second,2287
+ G. G. Helmer,Second,2288
+ L. Huffman,Second,2289
+ B. Hasling,Second,2290
+ S. Pawlowski,Second,2291
+ H. C. Mayr,Second,2292
+ L. Johansson,Second,2293
+ M. Masera,Second,2294
+ M. Patrick,Second,2295
+ S. Minocha,Second,2296
+ S. Kramer,Second,2297
+ M. Ryan,Second,2298
+ C. Mellish,Second,2299
+ P. Chair,Second,2300
+ J. C. S. d. Leite,Second,2301
+ A. Daugulis,Second,2302
+ S. Roche,Second,2303
+ C. Britton,Second,2304
+ K. Matsumura,Second,2305
+ C. Potts,Second,2306
+ R. M. Woodhouse,Second,2307
+ T. J. Dobbin,Second,2308
+ W. E. Warner,Second,2309
+ K. A. Liburdy,Second,2310
+ C. T. Hsu,Second,2311
+ J. Karlsson,Second,2312
+ H. T. Stump,Second,2313
+ V. Plihon,Second,2314
+ A. L. Wolf,Second,2315
+ H. . -W. Six,Second,2316
+ T. T. Moores,Second,2317
+ M. A. Jeusfeld,Second,2318
+ H. In,Second,2319
+ J. A. Goguen,Second,2320
+ C. K. MacNish,Second,2321
+ J. A. Carvalho,Second,2322
+ B. . -U. Pagel,Second,2323
+ B. J. Geraci,Second,2324
+ D. Garlan,Second,2325
+ I. Morrey,Second,2326
+ P. G. Sorenson,Second,2327
+ J. I. A. Siddiqi,Second,2328
+ A. G. Sutcliffe,Second,2329
+ J. D. Palmer,Second,2330
+ R. M. Rankin,Second,2331
+ G. Willumsen,Second,2332
+ R. Strens,Second,2333
+ J. C. DeFoe,Second,2334
+ B. Fields,Second,2335
+ G. D. Abowd,Second,2336
+ C. Schahczenski,Second,2337
+ P. Sonksen,Second,2338
+ C. W. Finkelstein,Second,2339
+ P. Bose,Second,2340
+ C. L. Burns,Second,2341
+ E. R. Byrne,Second,2342
+ M. G. Christel,Second,2343
+ R. H. Thayer,Second,2344
+ W. T. Tsai,Second,2345
+ Chyan-Goei Chung,Second,2346
+ M. Campanai,Second,2347
+Ian Nery Bandeira,Second,2348
+Fethi A. Rabhi,Second,2349
+Carla Silva,Second,2350
+I. Garcia,Second,2351
+Gregory Gay,Second,2352
+Begoña Moros,Second,2353
+Aida Mustapha,Second,2354
+Jose Ignacio Panach,Second,2355
+Eric Yu,Second,2356
+Iris Groher,Second,2357
+Melanie Schmedes,Second,2358
+Tim Pietz,Second,2359
+Eduardo Silva,Second,2360
+Colin Werner,Second,2361
+Jin Yang Hu,Second,2362
+Nico Hauff,Second,2363
+Oliver Karras,Second,2364
+Shabnam Hassani,Second,2365
+Paola Spoletini,Second,2366
+Xingru Chen,Second,2367
+Renato de Freitas Bulcão-Neto,Second,2368
+P. Busetta,Second,2369
+David Garlan,Second,2370
+Jannik Fischbach,Second,2371
+Prachi Rathod,Second,2372
+Wasja Brunotte,Second,2373
+Rita Pereira,Second,2374
+Abel Menkveld,Second,2375
+Angelica Toffano Seidel Calazans,Second,2376
+Davide Fucci,Second,2377
+Rossana Maria de Castro Andrade,Second,2378
+Caroline Bird,Second,2379
+Tim Rietz,Second,2380
+Stefan Wagner,Second,2381
+Roni Stern,Second,2382
+Murtuza Shahzad,Second,2383
+Séverine Sentilles,Second,2384
+Francisca Pérez,Second,2385
+Julia Krause,Second,2386
+Marly Monteiro de Carvalho,Second,2387
+Alberto Falcone,Second,2388
+Jan-Philipp Steghöfer,Second,2389
+Dominik Bork,Second,2390
+Gleison Santos,Second,2391
+Thomas Mazzuchi,Second,2392
+Shahram Sarkani,Second,2393
+Marsha Chechik,Second,2394
+Tong Li,Second,2395
+Dhaker Kroumi,Second,2396
+Jennifer Brings,Second,2397
+Khadija Letrache,Second,2398
+Celia Chen,Second,2399
+Thomas Beach,Second,2400
+Alexander Borgida,Second,2401
+Shraddha Piparia,Second,2402
+Persefoni Mitropoulou,Second,2403
+Daniela Damian,Second,2404
+Marcos Kalinowski,Second,2405
+Robin Gandhi,Second,2406
+Maria Spichkova,Second,2407
+Surendra Sarnikar,Second,2408
+Luiz Eduardo G. Martins,Second,2409
+Ali Ebrahimnejad,Second,2410
+Li Yan,Second,2411
+Lucia Rapanotti,Second,2412
+Mark Kemelman,Second,2413
+E. Kedmi-Shahar,Second,2414
+Qiwen Zou,Second,2415
+Suntae Kim,Second,2416
+Rose F. Gamble,Second,2417
+Morgan C. Evans,Second,2418
+Kit Siu,Second,2419
+Mattias Nyberg,Second,2420
+Fatma Başak Aydemir,Second,2421
+Hyunsook Do,Second,2422
+Liping Zhao,Second,2423
+José A. Macías,Second,2424
+Marcos Antônio de Oliveira,Second,2425
+Dirk Riehle,Second,2426
+Alberto Rodrigues da Silva,Second,2427
+Mohammad Javad Amiri,Second,2428
+Richard Lai,Second,2429
+Paulo Rupino da Cunha,Second,2430
+Andrew Burton-Jones,Second,2431
+Robert Roncace,Second,2432
+Raúl Mazo,Second,2433
+Barbara Paech,Second,2434
+Yukako Iimura,Second,2435
+Thorsten Weyer,Second,2436
+Luiz Fernando Capretz,Second,2437
+Roberto Sebastiani,Second,2438
+Paolo Giorgini,Second,2439
+Homayun Motameni,Second,2440
+Aminah Yussuf,Second,2441
+Monjur Mourshed,Second,2442
+Matthias Tichy,Second,2443
+Sergio Firmenich,Second,2444
+Naveed Ikram,Second,2445
+Alex Dekhtyar,Second,2446
+Andy Zaidman,Second,2447
+Mathias Klier,Second,2448
+Jean-Pierre Jacquot,Second,2449
+Antonio Amescua,Second,2450
+John Terzakis,Second,2451
+Emmanuel Letier,Second,2452
+Xiaoyu Jin,Second,2453
+Rana Alkadhi,Second,2454
+Marcel Robeer,Second,2455
+Russell Lock,Second,2456
+Morayo Adedjouma,Second,2457
+Víctor Braberman,Second,2458
+Karsten Brathen,Second,2459
+Loris Penserini,Second,2460
+Abdelhak Boubetra,Second,2461
+Kai Petersen,Second,2462
+Dimitris Karagiannis,Second,2463
+Helen Sharp,Second,2464
+Bruno Feijó,Second,2465
+Jéssyka Vilela,Second,2466
+James S. Wasek,Second,2467
+Agnès Front,Second,2468
+Leo van der Wegen,Second,2469
+Vincenzo Gervasi,Second,2470
+Grant Williams,Second,2471
+Ivan Fléchais,Second,2472
+Raul Monge,Second,2473
+Halit Oğuztüzün,Second,2474
+Qing Wang,Second,2475
+Alain Abran,Second,2476
+Hezam Akram Abdul-Ghani,Second,2477
+Alvin Teh,Second,2478
+Alex Hardisty,Second,2479
+Jan Recker,Second,2480
+Abdelwaheb Trabelsi,Second,2481
+Nicola Zannone,Second,2482
+Raj Prasanna,Second,2483
+Eamonn O’Neill,Second,2484
+Balasangar Balasubramaniam,Second,2485
+Sugandha Lohar,Second,2486
+Xin Peng,Second,2487
+Nan Niu,Second,2488
+Jennifer Pérez,Second,2489
+Kim Wuyts,Second,2490
+Gustavo Rossi,Second,2491
+Ali Idri,Second,2492
+Marjo Kauppinen,Second,2493
+Eric-Oluf Svee,Second,2494
+Gary Chastek,Second,2495
+Kyo C. Kang,Second,2496
+Rodrigo Bonifácio,Second,2497
+J. Rodas,Second,2498
+Joachim Fox,Second,2499
+Jon G. Hall,Second,2500
+Hanan Hibshi,Second,2501
+Claudio Menghi,Second,2502
+Shirin Rad,Second,2503
+Faezeh Ensan,Second,2504
+Anastasios Koutoumanos,Second,2505
+Jan Marco Leimeister,Second,2506
+Barbara Weber,Second,2507
+SungYul Rhew,Second,2508
+Ali Naghi Mosleh Shirazi,Second,2509
+Kalevi Ekman,Second,2510
+Charles B. Keating,Second,2511
+Isabelle Côté,Second,2512
+Lin Liu,Second,2513
+Carmen Fernandez-Gago,Second,2514
+Haralambos Mouratidis,Second,2515
+Ananth Chiravuri,Second,2516
+Axel van Lamsweerde,Second,2517
+Amir Molzam Sharifloo,Second,2518
+Claudia Marcos,Second,2519
+Magali Seguran,Second,2520
+José M. Fuentes,Second,2521
+Muhammad Ali Babar,Second,2522
+Luis Olsina,Second,2523
+Márcia Lucena,Second,2524
+Yuri Sprockel,Second,2525
+James Miller,Second,2526
+Ebba Thora Hvannberg,Second,2527
+P. de Leenheer,Second,2528
+Neil Arthur McDougall Maiden,Second,2529
+Des Greer,Second,2530
+Mohammad A. Kuhail,Second,2531
+Igor Menzel,Second,2532
+Thiruvengadam Radhakrishnan,Second,2533
+Jorge M. Montagna,Second,2534
+Sheila A. McIlraith,Second,2535
+Anne de Roeck,Second,2536
+Hillel Rubin,Second,2537
+Lionel C. Briand,Second,2538
+Flávia C. Delicato,Second,2539
+Isaac Agudo,Second,2540
+Nancy Leveson,Second,2541
+Christoph Meinel,Second,2542
+Aurora Vizcaíno,Second,2543
+Marjan van den Akker,Second,2544
+Jorge J. Gómez-Sanz,Second,2545
+Guenther Ruhe,Second,2546
+James A. Miller,Second,2547
+Nancy A. Day,Second,2548
+Shareeful Islam,Second,2549
+Paul N. Otto,Second,2550
+Andrea Zisman,Second,2551
+Donald C. Gause,Second,2552
+Mark Harman,Second,2553
+Carson Woo,Second,2554
+José J. Pazos-Arias,Second,2555
+João Falcão e Cunha,Second,2556
+Paula Laurent,Second,2557
+Keith Phalp,Second,2558
+Yuhong Tian,Second,2559
+Joaquín Lasheras,Second,2560
+Mike Mannion,Second,2561
+Anne Persson,Second,2562
+José J. Pazos Arias,Second,2563
+Armin Eberlein,Second,2564
+Stéphane Faulkner,Second,2565
+Anjana Gosain,Second,2566
+Alison McKay,Second,2567
+Nikos Athanasakis,Second,2568
+Eyhab Al-Masri,Second,2569
+Brian Fitzgerald,Second,2570
+Aybüke Aurum,Second,2571
+Per Garre,Second,2572
+Daniel Jackson,Second,2573
+Matthias Weber,Second,2574
+Raffaella Settimi,Second,2575
+Joseph E. Urban,Second,2576
+Leandro Balby Marinho,Second,2577
+Ann Patterson-Hine,Second,2578
+Petra Knaup,Second,2579
+J. M. G. Heerkens,Second,2580
+Khadidjatou Ousmanou,Second,2581
+Martín López-Nores,Second,2582
+Stephen Fickas,Second,2583
+Roel J. Wieringa,Second,2584
+Hong Mei,Second,2585
+Robin C. Laney,Second,2586
+Robert Chatley,Second,2587
+Karl Cox,Second,2588
+Markku Sakkinen,Second,2589
+Claes Wohlin,Second,2590
+Jolita Ralyté,Second,2591
+Cinzia Anesi,Second,2592
+S. Manning,Second,2593
+Jens Peder Vium,Second,2594
+Daisuke Shinbara,Second,2595
+Antonia Albani,Second,2596
+Radhika Jain,Second,2597
+Patrick Barrow,Second,2598
+Yair Wand,Second,2599
+Brian Gault,Second,2600
+Alistair G. Sutcliffe,Second,2601
+Prabha Kumarakulasingam,Second,2602
+Markus K. Gröner,Second,2603
+Jorge Horacio Doorn,Second,2604
+Andreas L. Opdahl,Second,2605
+Lihyunn Lee,Second,2606
+Revital Danoch,Second,2607
+Joseph Catanio,Second,2608
+Chiara Francalanci,Second,2609
+D. Ramanee Peiris,Second,2610
+Julia B. Earp,Second,2611
+Mariangela Franch,Second,2612
+Paolo Paolini,Second,2613
+J. W. S. Liu,Second,2614
+Camille Salinesi,Second,2615
+Franch Mariangela,Second,2616
+Richard M. Greenough,Second,2617
+K. Daudjee,Second,2618
+Stefan Biffl,Second,2619
+Tom Graser,Second,2620
+Steven L. Cornford,Second,2621
+M. Poppleton,Second,2622
+Carl K. Chang,Second,2623
+S. Gnesi,Second,2624
+J.M. Akkermans,Second,2625
+N. Stokes,Second,2626
+J. A. Ortega,Second,2627
+Chris Roast,Second,2628
+P. A. Swatman,Second,2629
+Johnny Wong,Second,2630
+Betty H. C. Cheng,Second,2631
+Sanjai Rayadurgam,Second,2632
+Timothy Levin,Second,2633
+David N. Jansen,Second,2634
+Sjaak Brinkkemper,Second,2635
+John Leslie King,Second,2636
+Dimitris Panagiotakis,Second,2637
+Maria Grazia Fugini,Second,2638
+Ann M. Hickey,Second,2639
+Robert D. Macredie,Second,2640
+O. Pastor,Second,2641
+Hans-Werner Six,Second,2642
+Ilesh Dattani,Second,2643
+Jim Duggan,Second,2644
+Boaz Golany,Second,2645
+Kalle Lyytinen,Second,2646
+Manfred A. Jeusfeld,Second,2647
+Andreas Opdahl,Second,2648
+Martin Höst,Second,2649
+Ryan A. Carter,Second,2650
+Otto Vinter,Second,2651
+Guiseppi Forgionne,Second,2652
+I. Petrounias,Second,2653
+Dominique Rieu,Second,2654
+Suzanne Robertson,Second,2655
+J. A. Swan,Second,2656
+S. AlShawi,Second,2657
+E. W. Coakes,Second,2658
+Graciela D. S. Hadad,Second,2659
+Lingzi Jin,Second,2660
+Fred Mulder,Second,2661
+John A. Keane,Second,2662
+Patricio Letelier,Second,2663
+N. Prakash,Second,2664
+A. Economou,Second,2665
+J. Kuljis,Second,2666
+R. D. Macredie,Second,2667
+R. J. Paul,Second,2668
+D.A. Lamb,Second,2669
+Klaus Hörmann,Second,2670
+Andy Wellings,Second,2671
+John A. McDermid,Second,2672
+Marcelo Masera,Second,2673
+Per Beremark,Second,2674
+Joao A. Carvalho,Second,2675
+C. Ben Achour,Second,2676
+X. Tung Bui,Second,2677
+Colin Potts,Second,2678
+A. Guttman,Second,2679
+H. Briand,Second,2680
+J. A. McDermid,Second,2681
+Stefan Olsson,Second,2682
+J. A. Keane,Second,2683
+Brian A. Nixon,Second,2684
+M. Lefering,Second,2685
+G. Spanoudakis,Second,2686
+Graeme Shanks,Second,2687
+G. Saake,Second,2688
+Jon Hall,Second,2689
+Soizic Quintin,Second,2690
+S. Castano,Second,2691
+Kevin Lano,Second,2692
+Celeste Eusébio,Second,2693
+ A. Zeller,Third,2694
+ M. B. Hosseini,Third,2695
+ Y. Shivalingaiah,Third,2696
+ J. Jürjens,Third,2697
+ L. Briand,Third,2698
+ A. M. Skålvik,Third,2699
+ L. Fuentes,Third,2700
+ A. Cortesi,Third,2701
+ A. Dash,Third,2702
+ Y. -C. Tu,Third,2703
+ B. Wang,Third,2704
+ L. Ortolani,Third,2705
+ A. Singh,Third,2706
+ A. Pathan,Third,2707
+ B. Westphal,Third,2708
+ E. Kusmenko,Third,2709
+ S. Kugele,Third,2710
+ W. K. G. Assunção,Third,2711
+ T. Lambolais,Third,2712
+ X. Liu,Third,2713
+ J. Magalhães,Third,2714
+ L. Passaro,Third,2715
+ C. Ghezzi,Third,2716
+ J. Bärgman,Third,2717
+ X. Zhou,Third,2718
+ Y. Bu,Third,2719
+ Y. Deng,Third,2720
+ S. Dasgupta,Third,2721
+ M. Bacco,Third,2722
+ I. Aymaz,Third,2723
+ A. Murray,Third,2724
+ A. Sleimi,Third,2725
+ J. Hua,Third,2726
+ P. Arcaini,Third,2727
+ N. N. Arony,Third,2728
+ F. Herzog,Third,2729
+ P. Alarcon,Third,2730
+ D. Riehle,Third,2731
+ Y. Justino,Third,2732
+ V. Kulkarni,Third,2733
+ L. F. De Lima,Third,2734
+ M. Khare,Third,2735
+ A. M. Tjoa,Third,2736
+ G. Fainekos,Third,2737
+ C. Brecount,Third,2738
+ M. R. Luaces,Third,2739
+ J. Fischbach,Third,2740
+ J. C. S. D. P. Leite,Third,2741
+ M. Abdelrazek,Third,2742
+ X. Lian,Third,2743
+ V. Vieira,Third,2744
+ A. J. Cerqueira,Third,2745
+ R. Slavin,Third,2746
+ M. Hillen,Third,2747
+ K. Taveter,Third,2748
+ E. C. Groen,Third,2749
+ S. Storck,Third,2750
+ J. L. C. Guo,Third,2751
+ J. S. Becker,Third,2752
+ T. Speith,Third,2753
+ B. Tenbergen,Third,2754
+ J. Kausch,Third,2755
+ H. W. van de Venn,Third,2756
+ A. Mahler,Third,2757
+ B. van Hulst,Third,2758
+ P. Rose Anish,Third,2759
+ J. -L. Voirin,Third,2760
+ H. Bruneliere,Third,2761
+ F. M. Kifetew,Third,2762
+ J. Ralyté,Third,2763
+ Y. Yang,Third,2764
+ B. Penzenstadler,Third,2765
+ J. Harland,Third,2766
+ J. Steffen Becker,Third,2767
+ S. Cheng,Third,2768
+ C. Faut,Third,2769
+ A. Sardinha,Third,2770
+ M. Rath,Third,2771
+ N. Novielli,Third,2772
+ K. Blincoe,Third,2773
+ C. Jesdabodi,Third,2774
+ C. Palomares,Third,2775
+ N. Ernst,Third,2776
+ K. M. Oliveira,Third,2777
+ D. Mendez,Third,2778
+ V. Joshi,Third,2779
+ M. Li,Third,2780
+ A. Basovskiy,Third,2781
+ I. Namba,Third,2782
+ A. Arrieta,Third,2783
+ D. Giannakopoulou,Third,2784
+ Q. Zeng,Third,2785
+ K. Slocum,Third,2786
+ F. Ishikawa,Third,2787
+ L. Konwitschny,Third,2788
+ W. Zhou,Third,2789
+ S. Sagar,Third,2790
+ M. Jagadeesan,Third,2791
+ L. Yohannes,Third,2792
+ A. Q. Do,Third,2793
+ M. Kalinowski,Third,2794
+ J. Trujillo,Third,2795
+ M. Heimdahl,Third,2796
+ W. Utz,Third,2797
+ E. -B. Kang,Third,2798
+ V. Leppänen,Third,2799
+ S. Suppan,Third,2800
+ D. Derrier,Third,2801
+ M. Langer,Third,2802
+ K. Cooper,Third,2803
+ P. Mennig,Third,2804
+ D. Mougouei,Third,2805
+ X. Li,Third,2806
+ A. Roychowdhury,Third,2807
+ Y. Hou,Third,2808
+ J. Motger,Third,2809
+ R. A. Buchmann,Third,2810
+ M. Vitali,Third,2811
+ J. Hayes,Third,2812
+ Y. Jia,Third,2813
+ M. Koch,Third,2814
+ W. Yang,Third,2815
+ J. Kahler,Third,2816
+ A. Crapo,Third,2817
+ F. Sèdes,Third,2818
+ L. Duboc,Third,2819
+ M. Benedikt,Third,2820
+ E. L. G. Alves,Third,2821
+ N. Hasegawa,Third,2822
+ L. E. G. Martins,Third,2823
+ J. C. Sampaio do Prado Leite,Third,2824
+ M. McGuire,Third,2825
+ M. Atas,Third,2826
+ K. Hartig,Third,2827
+ J. Payne,Third,2828
+ C. Carlson,Third,2829
+ A. Cheema,Third,2830
+ S. Husodo,Third,2831
+ M. Hamilton,Third,2832
+ D. Mendez Fernandez,Third,2833
+ A. M. Alizadeh B.,Third,2834
+ A. K. Chopra,Third,2835
+ M. P. Hauer,Third,2836
+ M. Mirahkorli,Third,2837
+ M. Klein,Third,2838
+ N. A. Ernst,Third,2839
+ S. Teufl,Third,2840
+ A. K. Massey,Third,2841
+ E. T. S. Masson,Third,2842
+ A. Dwarakanath,Third,2843
+ C. Reuter,Third,2844
+ M. Piechotta,Third,2845
+ O. Hehlert,Third,2846
+ C. McMillan,Third,2847
+ S. Wadkar,Third,2848
+ M. Bauer,Third,2849
+ J. Svensson,Third,2850
+ M. Oriol,Third,2851
+ B. Donati,Third,2852
+ S. Baskin,Third,2853
+ J. Spears,Third,2854
+ F. Kifetew,Third,2855
+ K. K. F. Yuen,Third,2856
+ J. Le,Third,2857
+ B. H. Far,Third,2858
+ T. E. J. Vos,Third,2859
+ P. Ghazi,Third,2860
+ J. R. Reidenberg,Third,2861
+ E. Cardoso,Third,2862
+ T. Clear,Third,2863
+ P. Hübner,Third,2864
+ L. Newman,Third,2865
+ J. M. E. M. van der Werf,Third,2866
+ L. R. Pereira,Third,2867
+ M. Thiry,Third,2868
+ A. Garro,Third,2869
+ Z. Cao,Third,2870
+ L. C. Briand,Third,2871
+ M. Baslyman,Third,2872
+ I. Paschen,Third,2873
+ F. Dagnat,Third,2874
+ E. Ghassabani,Third,2875
+ R. Shahwar,Third,2876
+ A. Ghose,Third,2877
+ K. Fu,Third,2878
+ Z. Zhang,Third,2879
+ A. Goknil,Third,2880
+ J. Bengtsson,Third,2881
+ S. B. Broomell,Third,2882
+ P. R. Telangy,Third,2883
+ H. Hibshi,Third,2884
+ B. Adams,Third,2885
+ C. Gómez,Third,2886
+ S. Basu,Third,2887
+ D. Raneburger,Third,2888
+ K. Lundqvist,Third,2889
+ K. Phalp,Third,2890
+ J. Marco,Third,2891
+ H. Zhong,Third,2892
+ C. Winkler,Third,2893
+ M. S. Loft,Third,2894
+ S. Eder,Third,2895
+ J. Bürger,Third,2896
+ R. Aquanette,Third,2897
+ C. N. Bull,Third,2898
+ J. Slankas,Third,2899
+ J. Niu,Third,2900
+ A. Knauss,Third,2901
+ S. Yamada,Third,2902
+ M. Fiedler,Third,2903
+ M. Almorsy,Third,2904
+ Xinshang Yin,Third,2905
+ C. Claunch,Third,2906
+ D. Ratiu,Third,2907
+ B. Böttcher,Third,2908
+ A. Speck,Third,2909
+ J. B. Iversen,Third,2910
+ M. A. Sasse,Third,2911
+ V. Heimann,Third,2912
+ G. Rodriguez-Navas,Third,2913
+ J. Sabat,Third,2914
+ B. Berenbach,Third,2915
+ S. Honiden,Third,2916
+ M. Z. Eslami,Third,2917
+ T. Kuschke,Third,2918
+ S. Sen,Third,2919
+ T. Yue,Third,2920
+ R. G. A. Bults,Third,2921
+ M. Hiraoka,Third,2922
+ C. Nassimbwa,Third,2923
+ S. Sengupta,Third,2924
+ R. Klamma,Third,2925
+ N. Sadou,Third,2926
+ M. Salehie,Third,2927
+ H. Dogan,Third,2928
+ D. Richardson,Third,2929
+ S. Ramesh,Third,2930
+ J. Cabot,Third,2931
+ L. van den Bemd,Third,2932
+ P. Swire,Third,2933
+ B. A. Price,Third,2934
+ M. Cordy,Third,2935
+ J. I. Lathrop,Third,2936
+ J. Aranda,Third,2937
+ G. Poo-Caamaño,Third,2938
+ N. Cartwright,Third,2939
+ H. Naughton,Third,2940
+ R. Saad,Third,2941
+ S. S. Payyavula,Third,2942
+ J. Kealey,Third,2943
+ M. Poggianella,Third,2944
+ J. Atlee,Third,2945
+ H. Töhönen,Third,2946
+ J. Holden,Third,2947
+ J. C. Trujillo,Third,2948
+ M. Hirayama,Third,2949
+ T. Tommila,Third,2950
+ P. Clements,Third,2951
+ Y. Tananaka,Third,2952
+ M. Bortenschlager,Third,2953
+ H. Schmidt,Third,2954
+ A. Tedeschi,Third,2955
+ A. Gross,Third,2956
+ K. Karlsen,Third,2957
+ O. Sudmann,Third,2958
+ R. Wessman,Third,2959
+ S. Sohrabi,Third,2960
+ K. Sikkel,Third,2961
+ M. Pyhäjärvi,Third,2962
+ A. Vilavaara,Third,2963
+ F. Peng,Third,2964
+ H. Glathe,Third,2965
+ R. German,Third,2966
+ H. Takeuchi,Third,2967
+ S. Saito,Third,2968
+ W. Nowakowski,Third,2969
+ M. Jehle,Third,2970
+ V. Amaral,Third,2971
+ G. Poels,Third,2972
+ B. Mobasher,Third,2973
+ L. Peyton,Third,2974
+ I. Philippow,Third,2975
+ A. Gonzalez,Third,2976
+ R. Matulevicius,Third,2977
+ M. Zapletal,Third,2978
+ M. Roper,Third,2979
+ M. Recknagel,Third,2980
+ M. Eisenbarth,Third,2981
+ L. Lehtola,Third,2982
+ S. Jansen,Third,2983
+ F. Merz,Third,2984
+ M. Runonen,Third,2985
+ B. J. van Beijnum,Third,2986
+ A. Harwood,Third,2987
+ M. Jarke,Third,2988
+ J. Ros,Third,2989
+ O. Djebbi,Third,2990
+ K. Stapel,Third,2991
+ K. Akemine,Third,2992
+ K. Boucher,Third,2993
+ U. Stege,Third,2994
+ M. R. S. Borges,Third,2995
+ B. Al-Ani,Third,2996
+ S. A. Mansouri,Third,2997
+ B. Robinson,Third,2998
+ N. Ubayashi,Third,2999
+ D. S. Rosenblum,Third,3000
+ R. M. Mackey,Third,3001
+ O. de Bruijn,Third,3002
+ J. Palm,Third,3003
+ J. -N. Mazon,Third,3004
+ D. Bildhauer,Third,3005
+ T. Mannisto,Third,3006
+ S. Kamali,Third,3007
+ G. Wilson,Third,3008
+ D. Randall,Third,3009
+ B. Gonzalez-Baixauli,Third,3010
+ I. Kwan,Third,3011
+ Y. -H. Tan,Third,3012
+ I. Rychkova,Third,3013
+ M. Heindl,Third,3014
+ S. Sundaram,Third,3015
+ J. Vahaniitty,Third,3016
+ K. Peffers,Third,3017
+ R. Bharadwaj,Third,3018
+ A. Damasceno,Third,3019
+ M. Schwab,Third,3020
+ H. Driessen,Third,3021
+ P. Thiran,Third,3022
+ S. J. Wagle,Third,3023
+ N. Psycharis,Third,3024
+ A. d. P. A. Oliveira,Third,3025
+ X. Zou,Third,3026
+ G. Taentzer,Third,3027
+ F. Pettersson,Third,3028
+ P. -Y. Schobbens,Third,3029
+ J. -C. Trigaux,Third,3030
+ F. Klein,Third,3031
+ P. Oldorf,Third,3032
+ T. Brookes,Third,3033
+ W. Wahler,Third,3034
+ V. A. Heron,Third,3035
+ R. Nieuwenhuis,Third,3036
+ S. Konrad,Third,3037
+ M. A. Laguna,Third,3038
+ V. Pelechano,Third,3039
+ S. Avila,Third,3040
+ X. Lopez-Pelegrin,Third,3041
+ M. M. Sohlberg,Third,3042
+ Haiyan Zhao,Third,3043
+ Chuan Duan,Third,3044
+ M. Sohlberg,Third,3045
+ Bashar Nuseibeh,Third,3046
+ M. Godfrey,Third,3047
+ A. Matteo,Third,3048
+ A. Rastellini,Third,3049
+ D. C. Woodward,Third,3050
+ A. Patterson-Hine,Third,3051
+ A. Farroukh,Third,3052
+ T. Koenig,Third,3053
+ P. Pierini,Third,3054
+ T. Nagata,Third,3055
+ S. A. Petersen,Third,3056
+ D. J. Newman,Third,3057
+ R. Hall,Third,3058
+ J. R. Ruault,Third,3059
+ N. A. M. Maiden,Third,3060
+ R. Dssouli,Third,3061
+ A. Poth,Third,3062
+ M. Davison,Third,3063
+ C. S. Pattichis,Third,3064
+ R. J. Pooley,Third,3065
+ T. Schmidt,Third,3066
+ G. Callender,Third,3067
+ R. P. Fisk,Third,3068
+ Dae-Kyoo Kim,Third,3069
+ M. Koehler,Third,3070
+ J. D. Moffett,Third,3071
+ K. Kaijiri,Third,3072
+ J. Schildwacht,Third,3073
+ S. Poltrock,Third,3074
+ J. Kramer,Third,3075
+ W. Lukasik,Third,3076
+ S. P. Williams,Third,3077
+ S. K. Sundaram,Third,3078
+ S. Mukhopadhyay,Third,3079
+ H. C. Sharp,Third,3080
+ K. Goto,Third,3081
+ K. Nahrstedt,Third,3082
+ M. Pistore,Third,3083
+ G. Randazzo,Third,3084
+ J. Osborne,Third,3085
+ N. Prekas,Third,3086
+ M. Host,Third,3087
+ R. Neville,Third,3088
+ Y. Nishio,Third,3089
+ W. Pietsch,Third,3090
+ J. M. Thompson,Third,3091
+ J. . -F. Molderez,Third,3092
+ J. R. Connelly,Third,3093
+ Y. Maebashi,Third,3094
+ J. Perez,Third,3095
+ O. Aguilera,Third,3096
+ M. Miatidis,Third,3097
+ A. Reese,Third,3098
+ T. Aaltio,Third,3099
+ N. Leveson,Third,3100
+ M. Jazayeri,Third,3101
+ M. Rappl,Third,3102
+ M. Piattini,Third,3103
+ R. Corchuelo,Third,3104
+ F. Zimmer,Third,3105
+ H. May,Third,3106
+ Luncheng Lin,Third,3107
+ P. Torre Flores,Third,3108
+ D. Kretschmer,Third,3109
+ R. Bielefeld,Third,3110
+ P. Sody,Third,3111
+ F. Kiedaisch,Third,3112
+ B. Barragans-Martinez,Third,3113
+ G. Sethi,Third,3114
+ J. . -L. Roussel,Third,3115
+ N. Dardenne,Third,3116
+ B. Walter,Third,3117
+ J. D. Arthur,Third,3118
+ P. M. C. Gieles,Third,3119
+ J. Polak,Third,3120
+ M. Gibbel,Third,3121
+ L. Geyer,Third,3122
+ M. L. G. Shaw,Third,3123
+ J. R. Callahan,Third,3124
+ H. F. Lipson,Third,3125
+ M. M. Moseman,Third,3126
+ G. Mangla,Third,3127
+ K. Tracey,Third,3128
+ S. Viller,Third,3129
+ M. Rantzer,Third,3130
+ M. Wilikens,Third,3131
+ A. Carleton,Third,3132
+ K. Manning,Third,3133
+ R. Kacsich,Third,3134
+ D. Robertson,Third,3135
+ J. Shimoda,Third,3136
+ V. Kumar,Third,3137
+ B. N. Carey,Third,3138
+ D. C. Kung,Third,3139
+ L. A. Ness,Third,3140
+ J. Voss,Third,3141
+ R. Hibberd,Third,3142
+ J. P. Tremblay,Third,3143
+ C. T. Sennett,Third,3144
+ O. I. Lindland,Third,3145
+ P. Loucopoulos,Third,3146
+ J. Holtzman,Third,3147
+ M. Harrison,Third,3148
+ B. C. Meyers,Third,3149
+ E. Carson,Third,3150
+ E. Horowitz,Third,3151
+ W. E. Rzepka,Third,3152
+ S. M. Garcia,Third,3153
+ S. M. Stevens,Third,3154
+ P. Bjorke,Third,3155
+ P. Nesi,Third,3156
+Viktoria Stenkova,Third,3157
+João Araújo,Third,3158
+J. A. Calvo-Manzano,Third,3159
+Muhammad Arif Shah,Third,3160
+Carme Quer,Third,3161
+Oscar Pastor,Third,3162
+Maike Ahrens,Third,3163
+Davi Viana,Third,3164
+Adam Murray,Third,3165
+Vincent Langenfeld,Third,3166
+Seyed Mahdi Amiri,Third,3167
+Iswarya Malleswaran,Third,3168
+Michael Unterkalmsteiner,Third,3169
+Valdemar Vicente Graciano Neto,Third,3170
+A. Gabbasov,Third,3171
+Anas Shatnawi,Third,3172
+Daniel Mendez,Third,3173
+Timo Speith,Third,3174
+Miguel Goulão,Third,3175
+Sourav Debnath,Third,3176
+Abir Bouraffa,Third,3177
+Káthia Marçal de Oliveira,Third,3178
+Mingyang Li,Third,3179
+Xuanhui Liu,Third,3180
+Arnon Sturm,Third,3181
+Hamed Alhoori,Third,3182
+Efi Papatheocharous,Third,3183
+Carlos Cetina,Third,3184
+Nikolay Harutyunyan,Third,3185
+Alfredo Garro,Third,3186
+Paolo Bozzelli,Third,3187
+Amine Boufaied,Third,3188
+Bruno Gadelha,Third,3189
+Qixiang Zhou,Third,3190
+Lisa Krajinski,Third,3191
+Karim Keshavjee,Third,3192
+Mohammed Ramdani,Third,3193
+Yacine Rezgui,Third,3194
+Panos Constantopoulos,Third,3195
+Stefano Rizzi,Third,3196
+Eduardo Blanco,Third,3197
+Mara Nikolaidou,Third,3198
+Anna Perini,Third,3199
+Alessandro Garcia,Third,3200
+Jari Porras,Third,3201
+Tyson Bulmer,Third,3202
+Harvey Siy,Third,3203
+James Harland,Third,3204
+Omar El-Gayar,Third,3205
+Oday Aswad,Third,3206
+Valdivino A. de Santiago Júnior,Third,3207
+Jacqui Taylor,Third,3208
+Zongmin Ma,Third,3209
+Gemma Stringer,Third,3210
+Gregory Richards,Third,3211
+Bitian Fan,Third,3212
+Sooyong Park,Third,3213
+Margaret Hamilton,Third,3214
+Itzhak Aviv,Third,3215
+Rogardt Heldal,Third,3216
+Andrew W. Crapo,Third,3217
+Evellin Cardoso,Third,3218
+Ingrid Monteiro,Third,3219
+Shaghayegh Monfared,Third,3220
+Saeed Parsa,Third,3221
+Karl Reed,Third,3222
+Pavel Fomin,Third,3223
+José Matías Rivero,Third,3224
+Muhammad Usman,Third,3225
+Jody Larsen,Third,3226
+Sebastian Muschter,Third,3227
+Ray Dawson,Third,3228
+Ole Martin Mevassvik,Third,3229
+Abdallah Boukerram,Third,3230
+Manfred Schoelzke,Third,3231
+Mazeiar Salehie,Third,3232
+Farnaz Fotrousi,Third,3233
+Ig Ibert Bittencourt,Third,3234
+Enrique Campos-Nanez,Third,3235
+Beatrice van der Heijden,Third,3236
+Hadeer Nabil,Third,3237
+Jan Martijn E. M. van der Werf,Third,3238
+Stefania Gnesi,Third,3239
+Keiko Hashizume,Third,3240
+Ahmed Seffah,Third,3241
+Elisa Baniassad,Third,3242
+Andrew Jones,Third,3243
+Adel Mahfoudhi,Third,3244
+Assaad Moawad,Third,3245
+Malcolm King,Third,3246
+Kamalachelva Selvarajah,Third,3247
+William Goss,Third,3248
+Bihuan Chen,Third,3249
+Juan Garbajosa,Third,3250
+Juha Savolainen,Third,3251
+Wouter Joosen,Third,3252
+José Luis Fernández-Alemán,Third,3253
+Thi Than Loan Nguyen,Third,3254
+Harri Töhönen,Third,3255
+Constantinos Giannoulis,Third,3256
+Patrick Donohoe,Third,3257
+Leopoldo Teixeira,Third,3258
+Jürgen Ebert,Third,3259
+Ashwini Rao,Third,3260
+Keren Kenzi,Third,3261
+Cleo Sgouropoulou,Third,3262
+Axel Hoffmann,Third,3263
+Manfred Reichert,Third,3264
+ManSoo Hwang,Third,3265
+Ra’ed M. Jaradat,Third,3266
+Stephan Faßbender,Third,3267
+Javier Lopez,Third,3268
+Peter Meso,Third,3269
+Maxime Cordy,Third,3270
+J. Andrés Diaz-Pace,Third,3271
+Juan Llorens,Third,3272
+Pablo Becker,Third,3273
+Jaelson Castro,Third,3274
+Sigrun Gunnarsdottir,Third,3275
+Jorgen Engmann,Third,3276
+Peter Swire,Third,3277
+Siv Houmb,Third,3278
+Jochen Hoenicke,Third,3279
+Irene Garrigós,Third,3280
+Paul Jarvis,Third,3281
+Shirin Sohrabi,Third,3282
+Wei-Keat Kong,Third,3283
+Yvan Labiche,Third,3284
+Raphael Cóbe,Third,3285
+Lilian Mitrou,Third,3286
+Javier López,Third,3287
+Kristina Lunqvist,Third,3288
+Mario Piattini,Third,3289
+Juan Pavón,Third,3290
+Nazim H. Madhavji,Third,3291
+Nelly Bencomo,Third,3292
+Raimundas Matulevičius,Third,3293
+Maritta Heisel,Third,3294
+Lauren J. Hayward,Third,3295
+George Spanoudakis,Third,3296
+Awais Rashid,Third,3297
+Alain Wegmann,Third,3298
+S. Afshin Mansouri,Third,3299
+Raymond P. Fisk,Third,3300
+Kristine Karlsen,Third,3301
+Jarno Vähäniitty,Third,3302
+Jason Xabier Mansell,Third,3303
+Ana Fernández Vilas,Third,3304
+Behrouz H. Far,Third,3305
+Pierre-Yves Schobbens,Third,3306
+Henri Winand,Third,3307
+Sophia Ananiadou,Third,3308
+Zhixin Wang,Third,3309
+Bouchaib Bahli,Third,3310
+Ghassan Beydoun,Third,3311
+Stig B. M. Larsson,Third,3312
+Rohit Gheyi,Third,3313
+Xuchang Zou,Third,3314
+Gerald T. Mackulak,Third,3315
+Stacy Nelson,Third,3316
+McKay Moore Sohlberg,Third,3317
+Haiyan Zhao,Third,3318
+Jonathan D. Moffett,Third,3319
+Jeff Kramer,Third,3320
+Nancy Mead,Third,3321
+June Verner,Third,3322
+Jinichi Kawano,Third,3323
+Ilia Bider,Third,3324
+Mark Nissen,Third,3325
+Muhammad Anan,Third,3326
+Mira Balabam,Third,3327
+Ravi Paul,Third,3328
+Peter Gregor,Third,3329
+Pier Luigi Novi Inverardi,Third,3330
+Axel van Lamsweerde,Third,3331
+Novi Inverardi Pierluigi,Third,3332
+J. Dong,Third,3333
+Paul Grünbacher,Third,3334
+Jim Holt,Third,3335
+Jeffrey C. Wise,Third,3336
+G. Lami,Third,3337
+M. Toro,Third,3338
+Mildred L. G. Shaw,Third,3339
+Stefanie Kethers,Third,3340
+Mark Slagell,Third,3341
+William E. McUmber,Third,3342
+Mats P.E. Heimdahl,Third,3343
+Jeffery D. Wilson,Third,3344
+Janis A. Bubenko Jr,Third,3345
+George Fakas,Third,3346
+Matti Rossi,Third,3347
+Mario Winter,Third,3348
+Gordon Hughes,Third,3349
+Dov Dori,Third,3350
+Jaime de Melo Sabat Neto,Third,3351
+Aldo Dagnino,Third,3352
+Barin Nag,Third,3353
+Michel Tollenaere,Third,3354
+G. Fitzgerald,Third,3355
+Isidro Ramos,Third,3356
+A. Benjamen,Third,3357
+G. Shanks,Third,3358
+P. Markis,Third,3359
+T. Shepard,Third,3360
+Maud Schlich,Third,3361
+Marc Wilikens,Third,3362
+Ola Eklundh,Third,3363
+C. Cauvet,Third,3364
+John M. Carroll,Third,3365
+Jean-Marc Zeippen,Third,3366
+Federico Balaguer,Third,3367
+S. Schwer,Third,3368
+L. Arzi,Third,3369
+F. Barbier,Third,3370
+A. J. Vickers,Third,3371
+J. D. Reese,Third,3372
+M. Nagl,Third,3373
+Andrew Coombes,Third,3374
+V. De Antonellis,Third,3375
+Malak Baslyman,Third,3376
+Leonor Teixeira,Third,3377
+ T. Breaux,Fourth,3378
+ G. Brunori,Fourth,3379
+ P. Kulkarni,Fourth,3380
+ M. Saadatmand,Fourth,3381
+ H. Nqiri,Fourth,3382
+ A. Egyed,Fourth,3383
+ B. Xu,Fourth,3384
+ T. Hoang,Fourth,3385
+ L. Semini,Fourth,3386
+ A. Sharma,Fourth,3387
+ H. Geppert,Fourth,3388
+ A. Susi,Fourth,3389
+ J. B. Junior,Fourth,3390
+ N. Chawla,Fourth,3391
+ M. Jung,Fourth,3392
+ Y. S. Koh,Fourth,3393
+ E. L. Gomes,Fourth,3394
+ S. Soni,Fourth,3395
+ F. Silva,Fourth,3396
+ H. Potter,Fourth,3397
+ M. Unterkalmsteiner,Fourth,3398
+ M. Trapp,Fourth,3399
+ P. H. Teixeira Costa,Fourth,3400
+ A. Porter,Fourth,3401
+ M. Törnlund,Fourth,3402
+ H. J. Putzer,Fourth,3403
+ P. B. Sasu,Fourth,3404
+ J. van Veenhuizen,Fourth,3405
+ B. Suman,Fourth,3406
+ J. Foisil,Fourth,3407
+ J. Zdravkovic,Fourth,3408
+ R. Chaki,Fourth,3409
+ I. Stierand,Fourth,3410
+ D. Liu,Fourth,3411
+ S. Heng,Fourth,3412
+ D. Schmelter,Fourth,3413
+ I. Kamra,Fourth,3414
+ W. F. Tichy,Fourth,3415
+ R. Ara Shams,Fourth,3416
+ R. Yamamoto,Fourth,3417
+ W. Afzal,Fourth,3418
+ T. Pressburger,Fourth,3419
+ M. Jiang,Fourth,3420
+ L. Logrippo,Fourth,3421
+ D. Spies,Fourth,3422
+ Y. Zhang,Fourth,3423
+ Y. Mirani,Fourth,3424
+ V. Kharat,Fourth,3425
+ S. Akinli Kocak,Fourth,3426
+ L. Wen,Fourth,3427
+ W. Wang,Fourth,3428
+ A. Garcia,Fourth,3429
+ S. Rizzi,Fourth,3430
+ S. Çevikol,Fourth,3431
+ Q. Umer,Fourth,3432
+ F. Sedes,Fourth,3433
+ F. Rezabek,Fourth,3434
+ T. Miller,Fourth,3435
+ M. Zhang,Fourth,3436
+ D. Oster,Fourth,3437
+ F. Elberzhager,Fourth,3438
+ R. A. Shams,Fourth,3439
+ C. C. Venters,Fourth,3440
+ P. Pelliccione,Fourth,3441
+ Z. Niu,Fourth,3442
+ C. Kolski,Fourth,3443
+ C. Zhai,Fourth,3444
+ T. D. Jörundsson,Fourth,3445
+ R. Falcao,Fourth,3446
+ S. Nadal,Fourth,3447
+ H. Chamarthi,Fourth,3448
+ C. Venters,Fourth,3449
+ T. Krismayer,Fourth,3450
+ W. L. Andrade,Fourth,3451
+ R. Samer,Fourth,3452
+ E. Combs,Fourth,3453
+ R. Wohlrab,Fourth,3454
+ O. Albrecht,Fourth,3455
+ T. D. Krafft,Fourth,3456
+ V. Arnaoudova,Fourth,3457
+ J. Klein,Fourth,3458
+ I. S. Brito,Fourth,3459
+ S. Rudolph,Fourth,3460
+ D. Russell,Fourth,3461
+ S. Gopakumar,Fourth,3462
+ S. Heibl,Fourth,3463
+ N. Hammad,Fourth,3464
+ A. Michot,Fourth,3465
+ T. B. Norton,Fourth,3466
+ P. Mager,Fourth,3467
+ S. MacDonell,Fourth,3468
+ T. Quirchmayr,Fourth,3469
+ C. Khatwani,Fourth,3470
+ S. Maro,Fourth,3471
+ A. Hudson,Fourth,3472
+ D. Saccà,Fourth,3473
+ E. Uusitalo,Fourth,3474
+ J. Spilker,Fourth,3475
+ L. Lessard,Fourth,3476
+ S. Guerin,Fourth,3477
+ M. P. E. Heimdahl,Fourth,3478
+ R. J. Wieringa,Fourth,3479
+ B. Aumayr,Fourth,3480
+ Y. -G. Guéhéneuc,Fourth,3481
+ R. Ali,Fourth,3482
+ C. Li,Fourth,3483
+ M. S. Stissing,Fourth,3484
+ P. Hynninen,Fourth,3485
+ M. Fritzsche,Fourth,3486
+ A. Di Sandro,Fourth,3487
+ P. P. Swire,Fourth,3488
+ G. Ott,Fourth,3489
+ A. Borici,Fourth,3490
+ A. Oliveros,Fourth,3491
+ R. S. S. Guizzardi,Fourth,3492
+ M. Nüttgens,Fourth,3493
+ C. Hadler,Fourth,3494
+ S. Becker,Fourth,3495
+ P. Spörri,Fourth,3496
+ M. Schots,Fourth,3497
+ H. Lönn,Fourth,3498
+ D. L. Moody,Fourth,3499
+ M. van Sinderen,Fourth,3500
+ D. Yang,Fourth,3501
+ H. J. Hermens,Fourth,3502
+ T. Kitani,Fourth,3503
+ S. S. Tickodri-Togboa,Fourth,3504
+ S. Kyriakopoulou,Fourth,3505
+ L. Cavallaro,Fourth,3506
+ A. Willis,Fourth,3507
+ F. Mijnhardt,Fourth,3508
+ T. H. Klinge,Fourth,3509
+ S. Amornborvornwong,Fourth,3510
+ M. Alhaj,Fourth,3511
+ S. Padmanabhuni,Fourth,3512
+ P. Roberti,Fourth,3513
+ R. Torkar,Fourth,3514
+ C. Cares,Fourth,3515
+ J. Valkonen,Fourth,3516
+ A. Pickard,Fourth,3517
+ J. Noppen,Fourth,3518
+ E. Geisberger,Fourth,3519
+ D. Hatebur,Fourth,3520
+ V. N. L. Franqueira,Fourth,3521
+ R. Neill,Fourth,3522
+ C. Henke,Fourth,3523
+ A. Herrmann,Fourth,3524
+ J. Talvio,Fourth,3525
+ M. AbdElRazik,Fourth,3526
+ H. Blom,Fourth,3527
+ T. Nakamura,Fourth,3528
+ P. Patrício,Fourth,3529
+ Ó. Pastor,Fourth,3530
+ C. Huemer,Fourth,3531
+ J. Ferguson,Fourth,3532
+ W. Ma,Fourth,3533
+ B. van der Veldt,Fourth,3534
+ T. Gorges,Fourth,3535
+ L. Sandsjo,Fourth,3536
+ T. Rose,Fourth,3537
+ T. Yoshikawa,Fourth,3538
+ A. Schröter,Fourth,3539
+ J. Ren,Fourth,3540
+ K. Katamine,Fourth,3541
+ T. Wicks,Fourth,3542
+ S. Uckun,Fourth,3543
+ J. McNaught,Fourth,3544
+ C. Machuca,Fourth,3545
+ S. Lindstaedt,Fourth,3546
+ T. Nguyen,Fourth,3547
+ W. Candillon,Fourth,3548
+ D. Landmann,Fourth,3549
+ P. Julia,Fourth,3550
+ S. Biffl,Fourth,3551
+ A. Holbrook,Fourth,3552
+ M. Archer,Fourth,3553
+ A. Saidane,Fourth,3554
+ A. B. Murty,Fourth,3555
+ K. Papadiochos,Fourth,3556
+ O. Otojare,Fourth,3557
+ P. Solc,Fourth,3558
+ P. Ohman,Fourth,3559
+ U. Frank,Fourth,3560
+ N. Juristo,Fourth,3561
+ J. S. Jenkins,Fourth,3562
+ H. Mei,Fourth,3563
+ N. Zannone,Fourth,3564
+ J. Versendaal,Fourth,3565
+ Yijun Yu,Fourth,3566
+ T. Kojo,Fourth,3567
+ Xuchang Zou,Fourth,3568
+ Yuntian Fan,Fourth,3569
+ L. Dragone,Fourth,3570
+ J. C. Knight,Fourth,3571
+ C. R. Frost,Fourth,3572
+ A. Rudorfer,Fourth,3573
+ H. Jorgensen,Fourth,3574
+ D. Gause,Fourth,3575
+ J. Dick,Fourth,3576
+ M. . -O. Reiser,Fourth,3577
+ M. Reesor,Fourth,3578
+ N. J. Nunes,Fourth,3579
+ J. Magee,Fourth,3580
+ S. Howard,Fourth,3581
+ B. Cukic,Fourth,3582
+ M. Bittner,Fourth,3583
+ J. Taylor,Fourth,3584
+ K. Seki,Fourth,3585
+ M. Roveri,Fourth,3586
+ D. D. Cowan,Fourth,3587
+ Y. Moriwaki,Fourth,3588
+ M. Schluter,Fourth,3589
+ M. . -A. Storey,Fourth,3590
+ C. Schroder,Fourth,3591
+ A. Maccari,Fourth,3592
+ M. Toro,Fourth,3593
+ C. Herrmann,Fourth,3594
+ J. Schirmer,Fourth,3595
+ W. Krug,Fourth,3596
+ E. Tolzmann,Fourth,3597
+ K. Javvaji,Fourth,3598
+ A. Wojciechowski,Fourth,3599
+ E. M. Geurts,Fourth,3600
+ G. Molter,Fourth,3601
+ P. Zave,Fourth,3602
+ B. R. Gaines,Fourth,3603
+ G. J. Holzmann,Fourth,3604
+ D. E. Statezni,Fourth,3605
+ B. Sherman,Fourth,3606
+ B. Merrin,Fourth,3607
+ P. Haumer,Fourth,3608
+ H. Kaiya,Fourth,3609
+ K. Ota,Fourth,3610
+ L. B. Holder,Fourth,3611
+ D. W. Schultz,Fourth,3612
+ G. V. Zemanek,Fourth,3613
+ G. Buckberry,Fourth,3614
+ J. M. Punshon,Fourth,3615
+ A. Solvberg,Fourth,3616
+ V. DeAntonellis,Fourth,3617
+ C. L. McGowan,Fourth,3618
+ P. R. H. Place,Fourth,3619
+ B. Cohen,Fourth,3620
+ Ming-June Lee,Fourth,3621
+ J. L. Sidoran,Fourth,3622
+ R. M. Harwell,Fourth,3623
+ M. Traversi,Fourth,3624
+ K. Devathasan,Fifth,3625
+ P. Lindberg,Fifth,3626
+ B. Rumpe,Fifth,3627
+ P. L. Bernard,Fifth,3628
+ T. Turchi,Fifth,3629
+ C. Liu,Fifth,3630
+ T. Phan,Fifth,3631
+ L. M. Peres,Fifth,3632
+ K. Rohlfing,Fifth,3633
+ I. L. de Faria,Fifth,3634
+ E. T. Seidel Masson,Fifth,3635
+ M. Lindvall,Fifth,3636
+ Y. Ibrahim,Fifth,3637
+ T. Geipel,Fifth,3638
+ W. Reip,Fifth,3639
+ P. Lawhatre,Fifth,3640
+ Y. Kermarrec,Fifth,3641
+ A. Ibrahim,Fifth,3642
+ M. Zeller,Fifth,3643
+ S. Xu,Fifth,3644
+ D. Fucci,Fifth,3645
+ K. Biesialska,Fifth,3646
+ K. Baetens,Fifth,3647
+ J. Dann,Fifth,3648
+ A. Nurwidyantoro,Fifth,3649
+ E. Enoiu,Fifth,3650
+ M. Hejase,Fifth,3651
+ E. Vaz,Fifth,3652
+ D. Méndez,Fifth,3653
+ A. Post,Fifth,3654
+ A. Mendoza,Fifth,3655
+ G. Malmqvist,Fifth,3656
+ M. Staron,Fifth,3657
+ T. Xie,Fifth,3658
+ J. Varga,Fifth,3659
+ M. Durling,Fifth,3660
+ C. Becker,Fifth,3661
+ J. Nerlich,Fifth,3662
+ R. Kasauli,Fifth,3663
+ R. Metoyer,Fifth,3664
+ J. Eckhardt,Fifth,3665
+ K. F. Rezende,Fifth,3666
+ B. Kanagwa,Fifth,3667
+ S. Weber,Fifth,3668
+ R. Ferrai,Fifth,3669
+ S. Bürsner,Fifth,3670
+ C. Samarasinghe,Fifth,3671
+ A. Anjorin,Fifth,3672
+ G. Barton,Fifth,3673
+ A. Tundis,Fifth,3674
+ C. Guychard,Fifth,3675
+ W. Martin,Fifth,3676
+ R. B. Svensson,Fifth,3677
+ L. Provenzano,Fifth,3678
+ X. Wu,Fifth,3679
+ A. Widera,Fifth,3680
+ G. Guizzardi,Fifth,3681
+ B. Knudsen,Fifth,3682
+ E. Fuchs,Fifth,3683
+ D. Karlsson,Fifth,3684
+ C. Napolitano,Fifth,3685
+ E. K. Kayihura,Fifth,3686
+ C. Wagner,Fifth,3687
+ C. Haley,Fifth,3688
+ D. Mathur,Fifth,3689
+ A. Shahrokni,Fifth,3690
+ D. Cuddeback,Fifth,3691
+ F. Fleurey,Fifth,3692
+ K. Zachos,Fifth,3693
+ J. Geisler,Fifth,3694
+ M. Everdij,Fifth,3695
+ H. Werthner,Fifth,3696
+ M. Wood,Fifth,3697
+ Y. Shan,Fifth,3698
+ H. Tohonen,Fifth,3699
+ T. Kropf,Fifth,3700
+ L. Schaake,Fifth,3701
+ P. Drews,Fifth,3702
+ M. Hashimoto,Fifth,3703
+ R. Procter,Fifth,3704
+ P. Amthor,Fifth,3705
+ O. Perroud,Fifth,3706
+ G. Saval,Fifth,3707
+ R. Bonato,Fifth,3708
+ C. Federspiel,Fifth,3709
+ K. Mitteregger,Fifth,3710
+ A. M. Moreno,Fifth,3711
+ L. Bijlsma,Fifth,3712
+ J. Amaya,Fifth,3713
+ D. Tal,Fifth,3714
+ T. Suzuki,Fifth,3715
+ C. Nelson,Fifth,3716
+ M. Anastasiou,Fifth,3717
+ H. Akkermans,Fifth,3718
+ T. Ogino,Fifth,3719
+ H. Kleinwechter,Fifth,3720
+ M. Shepherd,Fifth,3721
+ P. Stadnik,Fifth,3722
+ J. Moffett,Fifth,3723
+ D. Kraft,Fifth,3724
+ Haijian Hu,Fifth,3725
+ S. R. Tockey,Fifth,3726
+ J. D. Smith,Fifth,3727
+ H. Huber,Fifth,3728
+ D. E. Oliver,Fifth,3729
+ L. Miller,Fifth,3730
+ T. D. Oyetoyan,Sixth,3731
+ J. Zhang,Sixth,3732
+ C. Venhoff,Sixth,3733
+ G. Dray,Sixth,3734
+ A. Ren,Sixth,3735
+ A. Malizia,Sixth,3736
+ J. Slater,Sixth,3737
+ M. Mohamad,Sixth,3738
+ P. Halady,Sixth,3739
+ M. Bonner,Sixth,3740
+ J. He,Sixth,3741
+ T. Huichapa,Sixth,3742
+ P. Goes,Sixth,3743
+ L. Joeckel,Sixth,3744
+ A. Agirre,Sixth,3745
+ P. -L. Garoche,Sixth,3746
+ O. Leifler,Sixth,3747
+ S. Pedell,Sixth,3748
+ D. Bohlender,Sixth,3749
+ J. Bodén,Sixth,3750
+ J. Dörr,Sixth,3751
+ S. Scholz,Sixth,3752
+ K. Barker,Sixth,3753
+ F. Lange,Sixth,3754
+ E. Vasserman,Sixth,3755
+ J. Mund,Sixth,3756
+ E. Braosi,Sixth,3757
+ M. Hisette,Sixth,3758
+ P. Busetta,Sixth,3759
+ M. Smith,Sixth,3760
+ J. Cambeiro,Sixth,3761
+ S. Bhatt,Sixth,3762
+ M. Pavlidis,Sixth,3763
+ K. Forsberg,Sixth,3764
+ A. Rasin,Sixth,3765
+ B. Liwång,Sixth,3766
+ A. Ngabirano,Sixth,3767
+ I. van de Weerd,Sixth,3768
+ D. M. Stull,Sixth,3769
+ A. Shamsaei,Sixth,3770
+ R. Feldt,Sixth,3771
+ W. -K. Kong,Sixth,3772
+ A. Solberg,Sixth,3773
+ A. Milne,Sixth,3774
+ W. Schafer,Sixth,3775
+ M. Aigner,Sixth,3776
+ J. Xu,Sixth,3777
+ A. Davis,Sixth,3778
+ R. Huis in't Veld,Sixth,3779
+ F. J. Hesseler,Sixth,3780
+ V. Meduri,Sixth,3781
+ G. Bedford,Sixth,3782
+ M. Leica,Sixth,3783
+ T. Wierczoch,Sixth,3784
+ J. Petersen,Sixth,3785
+ Jinchun Xia,Sixth,3786
+ H. B. Reubenstein,Sixth,3787
+ B. Sabor,Sixth,3788
+ A. B. Albu,Seventh,3789
+ J. Wallin,Seventh,3790
+ S. Forastier,Seventh,3791
+ J. Siebert,Seventh,3792
+ G. Sagardui,Seventh,3793
+ J. Schumann,Seventh,3794
+ J. Porras,Seventh,3795
+ T. Zhou,Seventh,3796
+ C. N. Valero,Seventh,3797
+ A. Abello,Seventh,3798
+ H. Yu,Seventh,3799
+ D. P. Magin,Seventh,3800
+ J. Tiihonen,Seventh,3801
+ P. Gildert,Seventh,3802
+ N. Pereira,Seventh,3803
+ P. Thill,Seventh,3804
+ D. Valerio,Seventh,3805
+ G. H. Travassos,Seventh,3806
+ M. Fritz,Seventh,3807
+ J. F. Ruiz,Seventh,3808
+ T. G. Bergquist,Seventh,3809
+ A. Aurum,Seventh,3810
+ M. Bernauer,Seventh,3811
+ T. Burda,Seventh,3812
+ V. Jones,Seventh,3813
+ M. Reke,Seventh,3814
+ I. Buchan,Seventh,3815
+ R. Riccucci,Seventh,3816
+ R. A. Qadir,Seventh,3817
+ P. Baron,Seventh,3818
+ T. Van Hung,Seventh,3819
+ M. Bourhaleb,Seventh,3820
+ T. P. Sweeney,Seventh,3821
+ C. Sætre,Eighth,3822
+ G. Horton,Eighth,3823
+ J. Ho,Eighth,3824
+ J. Heidrich,Eighth,3825
+ M. Arratibel,Eighth,3826
+ A. Ebert,Eighth,3827
+ P. Manolios,Eighth,3828
+ M. Nöbauer,Eighth,3829
+ J. C. Carver,Eighth,3830
+ R. Odegard,Eighth,3831
+ S. Fernandez,Eighth,3832
+ V. Cortellessa,Eighth,3833
+ E. R. Henderson,Eighth,3834
+ S. A. Behnam,Eighth,3835
+ B. Klinger,Eighth,3836
+ H. Hermens,Eighth,3837
+ G. Vanwormhoudt,Eighth,3838
+ O. Ben Khadra,Eighth,3839
+ T. Bertram,Eighth,3840
+ S. White,Eighth,3841
+ S. Crowe,Ninth,3842
+ O. Sellin,Ninth,3843
+ M. Meiners,Ninth,3844
+ A. D. Siria,Ninth,3845
+ G. Richards,Ninth,3846
+ M. Mayr,Ninth,3847
+ T. Scherz,Tenth,3848
+ O. Schmidt,Tenth,3849
+ T. Zimmermann,Tenth,3850
+ R. Mizani,Tenth,3851
+ L. Haitz,Eleventh,3852
+ M. Windisch,Eleventh,3853

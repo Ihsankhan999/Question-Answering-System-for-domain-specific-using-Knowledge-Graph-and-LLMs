@@ -1,0 +1,141 @@
+.app{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+  height: 100vh;
+}
+
+.rounded-border {
+  border: 1px solid #FED7AA;
+  border-radius: 5px;
+  border-bottom-right-radius: 0px !important;
+  background-color: #FFF7ED;
+}
+
+.Container-color {
+  border: 1px solid #E5E7EB;
+
+}
+
+.answer-bg {
+  background-color: #F9FAFB;
+  border: 2px solid #F9FAFB;
+  border-radius: 10px;
+  border-bottom-left-radius: 0px !important;
+}
+
+.btn-custome {
+  background-color: #FDC588;
+  outline: none;
+  padding: 6px;
+  border: 2px solid #FEC88F;
+  border-radius: 70px;
+  width: 70px;
+}
+
+.chat-bot {
+  display: flex;
+  flex-direction: column;
+  height: 75vh;
+  overflow-y: auto;
+
+}
+
+.chat-bot::-webkit-scrollbar {
+  width: 8px;
+}
+
+.chat-bot::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.chat-bot::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+.chat-bot::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.question-send {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: end;
+}
+
+
+.Container {
+  position: relative;
+  padding-bottom: 60px; 
+}
+
+.ask-question {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: white; 
+  padding: 10px 0;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+.send-button{
+  width: 100px;
+  background-color: #FECA93;
+  outline: none;
+  padding: 10px;
+  border: 1px solid #8d4c07;
+  border-radius: 5px;
+  font-size: 20px;
+  font-family: Poppins;
+  color:#EA580C;
+}
+.question{
+border: 1px solid #EA580C ;
+border-radius: 14px;
+border-bottom-right-radius: 0px !important;
+background-color: #FFF7ED;
+
+}
+.btn-col{
+  display: flex;
+  justify-content: center;
+  padding-right: 30px;
+}
+.input{
+  height: 50px !important;
+}
+
+.input-col{
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 90px;
+}
+
+.welcome-message {
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust the opacity and color as needed */
+}
+.img-cover {
+  width: 75%;
+  height: 30%;
+
+}
+
+.img-container {
+  width: 100%;
+  height: 80%;
+  overflow: none; /* Enable scrolling if image exceeds container size */
+}

@@ -1,0 +1,51 @@
+LOAD CSV WITH HEADERS FROM 'file:///paper_nodes.csv' AS row
+CREATE (:Paper {
+    Title: row.Title,
+    URL: row.URL,
+    Date_of_Publication: row.Date_of_Publication,
+    PDF: row.PDF,
+    Abstract: row.Abstract,
+    Citations: toInteger(row.Citations), // Assuming Citations is an integer
+    DOI: row.DOI,
+    PID: row.PID
+});
+
+LOAD CSV WITH HEADERS FROM 'file:///author_nodes.csv' AS row
+CREATE (:Author {
+    Author_Name: row.Author_Name,
+    Role: row.Role,
+    AID: row.AID
+});
+
+LOAD CSV WITH HEADERS FROM 'file:///PArel.csv' AS row
+MATCH (a:Author {AID: row.AID})
+MATCH (p:Paper {PID: row.PID})
+MERGE (a)-[r:RELATIONSHIP_TYPE {type: row.RelationshipType}]->(p);
+
+MATCH (a:Author)-[r]->(p:Paper)
+RETURN a, r, p;
+
+LOAD CSV WITH HEADERS FROM 'file:///institute_nodes.csv' AS row
+CREATE (:Institute {
+    Institute_Name: row.Institute_Name, 
+    IID: row.IID
+});
+
+
+LOAD CSV WITH HEADERS FROM 'file:///AIrel.csv' AS row
+MATCH (a:Author {AID: row.AID})
+MATCH (i:Institute {IID:row.IID})
+MERGE (a)-[r:RELATIONSHIP_TYPE {type: row.RelationshipType}]->(i);
+
+MATCH (i:Institute)
+DETACH DELETE i;
+
+MATCH (n)
+OPTIONAL MATCH (n)-[r]->(m)
+RETURN n, r, m
+
+// Load data from CSV file and create Major nodes
+LOAD CSV WITH HEADERS FROM 'file:///major_nodes.csv' AS row
+CREATE (ma:Major {MID: toInteger(row.MID), Name: row.Major_Name})
+
+ 

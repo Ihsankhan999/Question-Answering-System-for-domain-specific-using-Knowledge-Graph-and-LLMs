@@ -1,0 +1,1251 @@
+PID,Title,MID,Major_Name,RelationshipType
+1,Do We Publish Credible Evidence?,1,Requirements Engineering,CategorizedAs
+2,A Paradigm Shift in the Automotive Industry and its Requirements,1,Requirements Engineering,CategorizedAs
+3,Search-Based Software Engineering in the Era of Modern Software Systems,1,Requirements Engineering,CategorizedAs
+4,User Driven Functionality Deletion for Mobile Apps,1,Requirements Engineering,CategorizedAs
+5,Mobile Application Privacy Risk Assessments from User-authored Scenarios,1,Requirements Engineering,CategorizedAs
+6,A Requirements-Driven Platform for Validating Field Operations of Small Uncrewed Aerial Vehicles,1,Requirements Engineering,CategorizedAs
+7,A Comparative Evaluation of Requirement Template Systems,1,Requirements Engineering,CategorizedAs
+8,ML-Based Compliance Verification of Data Processing Agreements against GDPR,1,Requirements Engineering,CategorizedAs
+9,Synthesized Data Quality Requirements and Roadmap for Improving Reusability of In-Situ Marine Data,1,Requirements Engineering,CategorizedAs
+10,All Eyes on Traceability: An Interview Study on Industry Practices and Eye Tracking Potential,1,Requirements Engineering,CategorizedAs
+11,Analysis and optimisation of SPL products using goal models,1,Requirements Engineering,CategorizedAs
+12,Zero-shot Learning for Named Entity Recognition in Software Specification Documents,1,Requirements Engineering,CategorizedAs
+13,A Data-Driven Approach for Finding Requirements Relevant Feedback from TikTok and YouTube,1,Requirements Engineering,CategorizedAs
+14,Quantifying Requirements Technical Debt: A Systematic Mapping Study and a Conceptual Model,1,Requirements Engineering,CategorizedAs
+15,Prompting Creative Requirements via Traceable and Adversarial Examples in Deep Learning,1,Requirements Engineering,CategorizedAs
+16,An Experiment on the Effects of Using Color to Visualize Requirements Analysis Tasks,1,Requirements Engineering,CategorizedAs
+17,Eliciting the Double-edged Impact of Digitalisation: a Case Study in Rural Areas,1,Requirements Engineering,CategorizedAs
+18,A Transformer-based Approach for Abstractive Summarization of Requirements from Obligations in Software Engineering Contracts,1,Requirements Engineering,CategorizedAs
+19,RClassify: Combining NLP and ML to Classify Rules from Requirements Specifications Documents,1,Requirements Engineering,CategorizedAs
+20,Shaping a GAIA-X Data Ecosystem through Innovation Modeling,1,Requirements Engineering,CategorizedAs
+21,Requirements Classification for Smart Allocation: A Case Study in the Railway Industry,1,Requirements Engineering,CategorizedAs
+22,Leveraging Natural Language Processing for a Consistency Checking Toolchain of Automotive Requirements,1,Requirements Engineering,CategorizedAs
+23,Traceability Evaluation in Requirements Engineering According to Automotive SPICE,1,Requirements Engineering,CategorizedAs
+24,Taming Cross-Tool Traceability in the Wild,1,Requirements Engineering,CategorizedAs
+25,Requirements Analysis of Variability Constraints in a Configurable Flight Software System,1,Requirements Engineering,CategorizedAs
+26,Digital Design - Shaping a Sustainable Digital Future Requires a New Holistic Design Approach,1,Requirements Engineering,CategorizedAs
+27,Application of the Sustainability Awareness Framework in Agile Software Development,1,Requirements Engineering,CategorizedAs
+28,Boosting GUI Prototyping with Diffusion Models,1,Requirements Engineering,CategorizedAs
+29,Visualizations for User-supported State Space Exploration of Goal Models,1,Requirements Engineering,CategorizedAs
+30,"Accountable Design for Individual, Societal, and Regulated Values in the UAV Domain",1,Requirements Engineering,CategorizedAs
+31,ARCADE: A Framework for Integrated Management of Safety Assurance Information,1,Requirements Engineering,CategorizedAs
+32,Multi-Modal Emotion Recognition for Enhanced Requirements Engineering: A Novel Approach,1,Requirements Engineering,CategorizedAs
+33,Can Videos be Used to Communicate Non-functional Requirements? An Early Empirical Investigation,1,Requirements Engineering,CategorizedAs
+34,Requirements Engineering Knowledge as a Foundation for a Sustainability-Aware Scrum Framework,1,Requirements Engineering,CategorizedAs
+35,Towards Legal Contract Formalization with Controlled Natural Language Templates,1,Requirements Engineering,CategorizedAs
+36,Discovering Runtime Requirements from User Interactions: Ideas and Preliminary Studies,1,Requirements Engineering,CategorizedAs
+37,Handling Uncertainty in the Development of Conversational Assistants with RELAXed User Stories,1,Requirements Engineering,CategorizedAs
+38,Inconsistency Detection in Natural Language Requirements using ChatGPT: a Preliminary Evaluation,1,Requirements Engineering,CategorizedAs
+39,Understanding Fairness Requirements for ML-based Software,1,Requirements Engineering,CategorizedAs
+40,Managing Human Factors in Automated Vehicle Development: Towards Challenges and Practices,1,Requirements Engineering,CategorizedAs
+41,PersonaGen: A Tool for Generating Personas from User Feedback,1,Requirements Engineering,CategorizedAs
+42,NFRNet-LT:Improving Accuracy in Extracting Long-tailed Non-functional Requirements,1,Requirements Engineering,CategorizedAs
+43,Towards Locating Requirements within Agile Development Artifacts,1,Requirements Engineering,CategorizedAs
+44,PF4MD: A Microservice Decomposition Tool Combining Problem Frames,1,Requirements Engineering,CategorizedAs
+45,NL2PD: A Tool for Problem Diagram Generation from Requirements in Natural Language,1,Requirements Engineering,CategorizedAs
+46,"A Tool for Security Risk Assessment for APT Attacks: using Scenarios, Security Requirements, and Evidence",1,Requirements Engineering,CategorizedAs
+47,AutoReco: A Tool for Recommending Requirements for their Non-Conformance with Requirement Templates (RTs),1,Requirements Engineering,CategorizedAs
+48,ModeLLer - A Prototype to Support Requirements Elicitation in Co-Design Environments,1,Requirements Engineering,CategorizedAs
+49,ILLOD Replication Package: An Open-Source Framework for Abbreviation-Expansion Pair Detection and Term Consolidation in Requirements,1,Requirements Engineering,CategorizedAs
+50,An Investigation of Requirements Engineering Teaching in Higher Education in Switzerland,1,Requirements Engineering,CategorizedAs
+51,Requirements Engineering for Explainable AI,1,Requirements Engineering,CategorizedAs
+52,Enhancing Startup Success Rates: Towards a Pragmatic Framework for Product Managers (PFPM),1,Requirements Engineering,CategorizedAs
+53,Leveraging User Feedback for Requirements Through Trend and Narrative Analysis,1,Requirements Engineering,CategorizedAs
+54,A Requirements-Driven Conceptual Modeling Framework for Responsible AI,1,Requirements Engineering,CategorizedAs
+55,Enhancing Requirements Elicitation through App Stores Mining: Health Monitoring App Case Study,1,Requirements Engineering,CategorizedAs
+56,A Case Study of Building Shared Understanding of Non-Functional Requirements in a Remote Software Organization,1,Requirements Engineering,CategorizedAs
+57,A Divide & Concur Approach to Collaborative Goal Modeling with Merge in Early-RE,1,Requirements Engineering,CategorizedAs
+58,Automated Detection of Typed Links in Issue Trackers,1,Requirements Engineering,CategorizedAs
+59,Automated Question Answering for Improved Understanding of Compliance Requirements: A Multi-Document Study,1,Requirements Engineering,CategorizedAs
+60,Automatic Terminology Extraction and Ranking for Feature Modeling,1,Requirements Engineering,CategorizedAs
+61,CADE: The Missing Benchmark in Evaluating Dataset Requirements of AI-enabled Software,1,Requirements Engineering,CategorizedAs
+62,Enriching Vision Videos with Text: An Eye Tracking Study,1,Requirements Engineering,CategorizedAs
+63,Hierarchical Assessment of Safety Requirements for Configurations of Autonomous Driving Systems,1,Requirements Engineering,CategorizedAs
+64,Legal Accountability as Software Quality: A U.S. Data Processing Perspective,1,Requirements Engineering,CategorizedAs
+65,Mining User Feedback For Software Engineering: Use Cases and Reference Architecture,1,Requirements Engineering,CategorizedAs
+66,Narratives: the Unforeseen Influencer of Privacy Concerns,1,Requirements Engineering,CategorizedAs
+67,Requirements on Explanations: A Quality Framework for Explainability,1,Requirements Engineering,CategorizedAs
+68,RESAM: Requirements Elicitation and Specification for Deep-Learning Anomaly Models with Applications to UAV Flight Controllers,1,Requirements Engineering,CategorizedAs
+69,The Benefits of Pre-Requirements Specification Traceability,1,Requirements Engineering,CategorizedAs
+70,The Implications of ‘Soft’ Requirements,1,Requirements Engineering,CategorizedAs
+71,What’s Inside a Cluster of Software User Feedback: A Study of Characterisation Methods,1,Requirements Engineering,CategorizedAs
+72,Creating Consistent Privacy Notices by Translating Code Segments into Privacy Captions,1,Requirements Engineering,CategorizedAs
+73,Developing A Privacy Risk Analysis Framework for Heterogeneous IoT Network,1,Requirements Engineering,CategorizedAs
+74,Documenting Regulatory Requirements Decision-Making as a Compliance Concern,1,Requirements Engineering,CategorizedAs
+75,Evidence-driven Data Requirements Engineering and Data Uncertainty Assessment of Machine Learning-based Safety-critical Systems,1,Requirements Engineering,CategorizedAs
+76,Towards a Decision Support Tool to Prescribe Recreation for Older Adults in Social Isolation (RxOSI),1,Requirements Engineering,CategorizedAs
+77,A Box Analogy Technique (BoAT) for Agile-based Modelling of Business Processes,1,Requirements Engineering,CategorizedAs
+78,DizSpec: Digitalization of Requirements Specification Documents to Automate Traceability and Impact Analysis,1,Requirements Engineering,CategorizedAs
+79,AnnoteREI! A Tool for Transcribing and Annotating Requirements Elicitation Interviews,1,Requirements Engineering,CategorizedAs
+80,A Tool For Software Requirement Allocation Using Artificial Intelligence Planning,1,Requirements Engineering,CategorizedAs
+81,A User-friendly Semi-automatic iStar Modeling Approach,1,Requirements Engineering,CategorizedAs
+82,BiStar: A Template-Based iStar Modeling Tool Combining Graphical and Textual Modeling,1,Requirements Engineering,CategorizedAs
+83,NL2RT: A Tool to Translate Natural Language Text into Requirements Templates (RTs),1,Requirements Engineering,CategorizedAs
+84,PrivacyStory: Tool Support for Extracting Privacy Requirements from User Stories,1,Requirements Engineering,CategorizedAs
+85,PyFoReL: A Domain-Specific Language for Formal Requirements in Temporal Logic,1,Requirements Engineering,CategorizedAs
+86,SafeWalk: a Simulation Tool Kit for Exploring Software Requirements in a Safety-Critical Product Line,1,Requirements Engineering,CategorizedAs
+87,Towards an automatic requirements classification in a new Spanish dataset,1,Requirements Engineering,CategorizedAs
+88,A Chatbot for the Elicitation of Contextual Information from User Feedback,1,Requirements Engineering,CategorizedAs
+89,A Live Extensible Ontology of Quality Factors for Textual Requirements,1,Requirements Engineering,CategorizedAs
+90,Back to the Roots: Linking User Stories to Requirements Elicitation Conversations,1,Requirements Engineering,CategorizedAs
+91,Done is better than perfect: Iterative Adaptation via Multi-grained Requirement Relaxation,1,Requirements Engineering,CategorizedAs
+92,Explainability in a Time of Socially Responsible Software,1,Requirements Engineering,CategorizedAs
+93,Requirements Engineering for Safety-Critical Molecular Programs,1,Requirements Engineering,CategorizedAs
+94,Retraining a BERT Model for Transfer Learning in Requirements Engineering: A Preliminary Study,1,Requirements Engineering,CategorizedAs
+95,Teaching and learning Requirements Engineering concepts: Peer-review skills vs. problem solving skills,1,Requirements Engineering,CategorizedAs
+96,Telling Us Your Needs with Your Eyes,1,Requirements Engineering,CategorizedAs
+97,What’s up with Requirements Engineering for Artificial Intelligence Systems?,1,Requirements Engineering,CategorizedAs
+98,Non-functional Requirements for Machine Learning: Understanding Current Use and Challenges in Industry,1,Requirements Engineering,CategorizedAs
+99,What can Open Domain Model Tell Us about the Missing Software Requirements: A Preliminary Study,1,Requirements Engineering,CategorizedAs
+100,The practical role of context modeling in the elicitation of context-aware functionalities: a survey,1,Requirements Engineering,CategorizedAs
+101,Perspectives on Regulatory Compliance in Software Engineering,1,Requirements Engineering,CategorizedAs
+102,Agile Teams’ Perception in Privacy Requirements Elicitation: LGPD’s compliance in Brazil,1,Requirements Engineering,CategorizedAs
+103,Ambiguity and Generality in Natural Language Privacy Policies,1,Requirements Engineering,CategorizedAs
+104,Towards Achieving Trust Through Transparency and Ethics,1,Requirements Engineering,CategorizedAs
+105,TEM: A Transparency Engineering Methodology Enabling Users’ Trust Judgement,1,Requirements Engineering,CategorizedAs
+106,The Rise and Fall of COVID-19 Contact-Tracing Apps: when NFRs Collide with Pandemic,1,Requirements Engineering,CategorizedAs
+107,The Role of Linguistic Relativity on the Identification of Sustainability Requirements: An Empirical Study,1,Requirements Engineering,CategorizedAs
+108,Mining Reddit as a New Source for Software Requirements,1,Requirements Engineering,CategorizedAs
+109,Classifying User Requirements from Online Feedback in Small Dataset Environments using Deep Learning,1,Requirements Engineering,CategorizedAs
+110,Unsupervised Topic Discovery in User Comments,1,Requirements Engineering,CategorizedAs
+111,From Screenplays to Podcasts - New Perspectives on Improving Requirements Communication in Interdisciplinary Teams,1,Requirements Engineering,CategorizedAs
+112,Automated Traceability for Domain Modelling Decisions Empowered by Artificial Intelligence,1,Requirements Engineering,CategorizedAs
+113,Design Decisions in the Construction of Traceability Information Models for Safe Automotive Systems,1,Requirements Engineering,CategorizedAs
+114,"Exploring Explainability: A Definition, a Model, and a Knowledge Catalogue",1,Requirements Engineering,CategorizedAs
+115,On the impact of using different templates on creating and understanding user stories,1,Requirements Engineering,CategorizedAs
+116,On the Role of User Feedback in Software Evolution: a Practitioners’ Perspective,1,Requirements Engineering,CategorizedAs
+117,From Ideas to Expressed Needs: an Empirical Study on the Evolution of Requirements during Elicitation,1,Requirements Engineering,CategorizedAs
+118,Environment-Driven Abstraction Identification for Requirements-Based Testing,1,Requirements Engineering,CategorizedAs
+119,A Survey of Instructional Approaches in the Requirements Engineering Education Literature,1,Requirements Engineering,CategorizedAs
+120,DDE process: A requirements engineering approach for machine learning in automated driving,1,Requirements Engineering,CategorizedAs
+121,RASAECO: Requirements Analysis of Software for the AECO Industry,1,Requirements Engineering,CategorizedAs
+122,Evaluation of a Stakeholder Satisfaction-oriented Method for Prioritising Change Requests,1,Requirements Engineering,CategorizedAs
+123,Lessons Learned from Customizing and Applying ACTA to Design a Novel Device for Emergency Medical Care,1,Requirements Engineering,CategorizedAs
+124,CrowdRE in a Governmental Setting: Lessons from Two Case Studies,1,Requirements Engineering,CategorizedAs
+125,A Pipeline for Automating Labeling to Prediction in Classification of NFRs,1,Requirements Engineering,CategorizedAs
+126,Towards the Integration of Cybersecurity Risk Assessment into Model-based Requirements Engineering,1,Requirements Engineering,CategorizedAs
+127,Refining User Stories via Example Mapping: An Empirical Investigation,1,Requirements Engineering,CategorizedAs
+128,ELFIEP: Evolutionary Lifecycle Framework for Industrial Engineering Practice : A Ten Year Journey of Requirements Inspection Systems Design Methodology (RISDM),1,Requirements Engineering,CategorizedAs
+129,Applying Model-based Requirements Engineering in Three Large European Collaborative Projects: An Experience Report,1,Requirements Engineering,CategorizedAs
+130,Representing Human Barriers in Requirements Engineering: The Case of Electronic Health Records,1,Requirements Engineering,CategorizedAs
+131,Towards a typology of questions for requirements elicitation interviews,1,Requirements Engineering,CategorizedAs
+132,Text Mining for Standardized Quality Criteria of Natural-Language IT-Requirements,1,Requirements Engineering,CategorizedAs
+133,Combining risk and variability modelling for requirements analysis in SAS engineering,1,Requirements Engineering,CategorizedAs
+134,Data-Driven Agile Requirements Elicitation through the Lenses of Situational Method Engineering,1,Requirements Engineering,CategorizedAs
+135,Information on Potential Vulnerabilities for New Requirements: Does It Help Writing Secure Code?,1,Requirements Engineering,CategorizedAs
+136,Zoom4PF: A Tool for Refining Static and Dynamic Domain Descriptions in Problem Frames,1,Requirements Engineering,CategorizedAs
+137,Putting software requirements under the microscope: automated extraction of their semantic elements,1,Requirements Engineering,CategorizedAs
+138,SusAF Welcomes SusApp: Tool Support for the Sustainability Awareness Framework,1,Requirements Engineering,CategorizedAs
+139,Co-AI: A Colab-Based Tool for Abstraction Identification,1,Requirements Engineering,CategorizedAs
+140,Smart3E: Enabling End Users to Express Their Needs for Smart Homes,1,Requirements Engineering,CategorizedAs
+141,DBRG: Description-Based Non-Quality Requirements Generator,1,Requirements Engineering,CategorizedAs
+142,Impact of Organisational Culture on the Requirement Engineering Activities,1,Requirements Engineering,CategorizedAs
+143,DoMoBOT: A Modelling Bot for Automated and Traceable Domain Modelling,1,Requirements Engineering,CategorizedAs
+144,Analysing Privacy Conflicts in Web-Based Systems,1,Requirements Engineering,CategorizedAs
+145,Human-Centric Elicitation of Context-Oriented Personal Data Categories: An Exploratory Study in An Educational Institution,1,Requirements Engineering,CategorizedAs
+146,NFRNet: A Deep Neural Network for Automatic Classification of Non-Functional Requirements,1,Requirements Engineering,CategorizedAs
+147,ArTu: A Tool for Generating Goal Models from User Stories,1,Requirements Engineering,CategorizedAs
+148,A Tool for Security Requirements Recommendation using Case-Based Problem Domain Ontology,1,Requirements Engineering,CategorizedAs
+149,ARF: Automatic Requirements Formalisation Tool,1,Requirements Engineering,CategorizedAs
+150,CARO: A Conflict-Aware Requirement Ordering Tool for DevOps,1,Requirements Engineering,CategorizedAs
+151,The MobSTr Dataset – An Exemplar for Traceability and Model-based Safety Assessment,1,Requirements Engineering,CategorizedAs
+152,MRDQA: A Deep Multimodal Requirement Document Quality Analyzer,1,Requirements Engineering,CategorizedAs
+153,Enhancing NL Requirements Formalisation Using a Quality Checking Model,1,Requirements Engineering,CategorizedAs
+154,Pri-AwaRE: Tool Support for priority-aware decision-making under uncertainty,1,Requirements Engineering,CategorizedAs
+155,RV-SLC: A Tool for Regression Validation of Safety and Liveness Constraints on Goal Models in DevOps Environment,1,Requirements Engineering,CategorizedAs
+156,Unifying Behavior Driven Development Templates,1,Requirements Engineering,CategorizedAs
+157,An Idea Generation Tool for Designing Behavior Change Games,1,Requirements Engineering,CategorizedAs
+158,From Sustainability in Requirements Engineering to a Sustainability-Aware Scrum Framework,1,Requirements Engineering,CategorizedAs
+159,Human-centric Requirements Engineering for Artificial Intelligence Software Systems,1,Requirements Engineering,CategorizedAs
+160,A Web Accessibility Requirements Framework for Agile Development,1,Requirements Engineering,CategorizedAs
+161,Requirements prioritization based on multiple criteria using Artificial Intelligence techniques,1,Requirements Engineering,CategorizedAs
+162,Towards the development of the cybersecurity concept according to ISO/SAE 21434 using model-based systems engineering,1,Requirements Engineering,CategorizedAs
+163,A comprehensive approach to identifying key stakeholders in complicated software ecosystems,1,Requirements Engineering,CategorizedAs
+164,Towards A Theory of Shared Understanding of Non-Functional Requirements in Continuous Software Engineering,1,Requirements Engineering,CategorizedAs
+165,Agile Requirements Engineering: From User Stories to Software Architectures,1,Requirements Engineering,CategorizedAs
+166,Software sustainability requirements: a unified method for improving requirements process for software development,1,Requirements Engineering,CategorizedAs
+167,Requirements Reuse for Exploring Stakeholder Needs,1,Requirements Engineering,CategorizedAs
+168,Requirements Engineering in the DevOps Era,1,Requirements Engineering,CategorizedAs
+169,Privacy Requirements Specification in Agile Software Development : RE’2021 Tutorial,1,Requirements Engineering,CategorizedAs
+170,Human Values in Requirements Engineering : RE’21 Tutorial,1,Requirements Engineering,CategorizedAs
+171,MARE: an Active Learning Approach for Requirements Classification,1,Requirements Engineering,CategorizedAs
+172,Requirements engineering for moral considerations in algorithmic systems : RE’20 Conference Keynote,1,Requirements Engineering,CategorizedAs
+173,Ethics @ Scale: Governing Responsible Innovation in the Cloud RE’20 Conference Keynote,1,Requirements Engineering,CategorizedAs
+174,RE @ runtime : the challenge of change RE’20 Conference Keynote,1,Requirements Engineering,CategorizedAs
+175,Business Analysis Agility: how business analysis works with agile development RE’20 Industry Day Keynote,1,Requirements Engineering,CategorizedAs
+176,Cutting through the Jungle: Disambiguating Model-based Traceability Terminology,1,Requirements Engineering,CategorizedAs
+177,Trace Link Recovery using Semantic Relation Graphs and Spreading Activation,1,Requirements Engineering,CategorizedAs
+178,The Way it Makes you Feel Predicting Users’ Engagement during Interviews with Biofeedback and Supervised Learning,1,Requirements Engineering,CategorizedAs
+179,Same Same but Different: Finding Similar User Feedback Across Multiple Platforms and Languages,1,Requirements Engineering,CategorizedAs
+180,Voice of the Users: A Demographic Study of Software Feedback Behaviour,1,Requirements Engineering,CategorizedAs
+181,Which App Features Are Being Used? Learning App Feature Usages from Interaction Data,1,Requirements Engineering,CategorizedAs
+182,Requirements Dependency Extraction by Integrating Active Learning with Ontology-Based Retrieval,1,Requirements Engineering,CategorizedAs
+183,The Lack of Shared Understanding of Non-Functional Requirements in Continuous Software Engineering: Accidental or Essential?,1,Requirements Engineering,CategorizedAs
+184,How developers believe Invisibility impacts NFRs related to User Interaction,1,Requirements Engineering,CategorizedAs
+185,OASIS: Weakening User Obligations for Security-critical Systems,1,Requirements Engineering,CategorizedAs
+186,Data-driven Risk Management for Requirements Engineering: An Automated Approach based on Bayesian Networks,1,Requirements Engineering,CategorizedAs
+187,An AI-assisted Approach for Checking the Completeness of Privacy Policies Against GDPR,1,Requirements Engineering,CategorizedAs
+188,Extracting and Classifying Requirements from Software Engineering Contracts,1,Requirements Engineering,CategorizedAs
+189,Automated Recommendation of Templates for Legal Requirements,1,Requirements Engineering,CategorizedAs
+190,NoRBERT: Transfer Learning for Requirements Classification,1,Requirements Engineering,CategorizedAs
+191,A Deep Context-wise Method for Coreference Detection in Natural Language Requirements,1,Requirements Engineering,CategorizedAs
+192,Continual Human Value Analysis in Software Development: A Goal Model Based Approach,1,Requirements Engineering,CategorizedAs
+193,Digital Discrimination in Sharing Economy A Requirements Engineering Perspective,1,Requirements Engineering,CategorizedAs
+194,Inspectors Academy : Pedagogical Design for Requirements Inspection Training,1,Requirements Engineering,CategorizedAs
+195,Theory as a Source of Software Requirements,1,Requirements Engineering,CategorizedAs
+196,Quality Requirements Elicitation by Ideation of Product Quality Risks with Design Thinking,1,Requirements Engineering,CategorizedAs
+197,Cyber Digital Twin Simulator for Automatic Gathering and Prioritization of Security Controls’ Requirements,1,Requirements Engineering,CategorizedAs
+198,Requirements-Driven Method to Determine Quality Characteristics and Measurements for Machine Learning Software and Its Evaluation,1,Requirements Engineering,CategorizedAs
+199,Requirements Management in Automotive: an Empirical Study on Process Improvement Areas,1,Requirements Engineering,CategorizedAs
+200,Towards a Taxonomy for Eliciting Design-Operation Continuum Requirements of Cyber-Physical Systems,1,Requirements Engineering,CategorizedAs
+201,An Analysis of Requirements-Related Problems that Occurred in an organization Using a Mature Requirements Engineering Process,1,Requirements Engineering,CategorizedAs
+202,"The Ten Lockheed Martin Cyber-Physical Challenges: Formalized, Analyzed, and Explained",1,Requirements Engineering,CategorizedAs
+203,On the Pragmatics of Requirements Engineering Practices in a Startup Ecosystem,1,Requirements Engineering,CategorizedAs
+204,Early Requirements Traceability with Domain-Specific Taxonomies - A Pilot Experiment,1,Requirements Engineering,CategorizedAs
+205,Towards Semantically Guided Traceability,1,Requirements Engineering,CategorizedAs
+206,Towards Queryable and Traceable Domain Models,1,Requirements Engineering,CategorizedAs
+207,What Users Think about Predictive Analytics? A Survey on NFRs,1,Requirements Engineering,CategorizedAs
+208,Evidence-driven Requirements Engineering for Uncertainty of Machine Learning-based Systems,1,Requirements Engineering,CategorizedAs
+209,Towards a General Solution for Layout of Visual Goal Models with Actors,1,Requirements Engineering,CategorizedAs
+210,ShapeRE: Towards a Multi-Dimensional Representation for Requirements of Sustainable Software,1,Requirements Engineering,CategorizedAs
+211,Symboleo: Towards a Specification Language for Legal Contracts,1,Requirements Engineering,CategorizedAs
+212,Teaching Requirements Engineering for All: A Preliminary Report,1,Requirements Engineering,CategorizedAs
+213,Reaching the Unreachable : A Method for Early Stage Software Startups to Reach Inaccessible Stakeholders within Large Corporation,1,Requirements Engineering,CategorizedAs
+214,Automated Goal Model Extraction from User Stories Using NLP,1,Requirements Engineering,CategorizedAs
+215,Towards Causality Extraction from Requirements,1,Requirements Engineering,CategorizedAs
+216,Does our culture influence requirements engineering activities? Vietnamese practitioners’ view,1,Requirements Engineering,CategorizedAs
+217,"Requirements in the loop : A computer-aided analysis of consistency, completeness, and correctness of requirements",1,Requirements Engineering,CategorizedAs
+218,NERO: A Text-based Tool for Content Annotation and Detection of Smells in Feature Requests,1,Requirements Engineering,CategorizedAs
+219,Requirements-Collector: Automating Requirements Specification from Elicitation Sessions and User Feedback,1,Requirements Engineering,CategorizedAs
+220,Utilising Perspectives to Improve Completeness in Industrial Requirements Specifications,1,Requirements Engineering,CategorizedAs
+221,Identifying Use Case Elements from Textual Specification: A Preliminary Study,1,Requirements Engineering,CategorizedAs
+222,Improving the Quality of Requirements in Middleware Requirements Specifications,1,Requirements Engineering,CategorizedAs
+223,Priority-Awareness of Non-Functional Requirements under Uncertainty,1,Requirements Engineering,CategorizedAs
+224,Security & Safety by Model-based Requirements Engineering,1,Requirements Engineering,CategorizedAs
+225,Blockchain-oriented Requirements Engineering: A Framework,1,Requirements Engineering,CategorizedAs
+226,Towards Automatic Capturing of Traceability Links by Combining Eye Tracking and Interaction Data,1,Requirements Engineering,CategorizedAs
+227,Reducing Ambiguity in Requirements Elicitation via Gamification,1,Requirements Engineering,CategorizedAs
+228,Towards the Specification and Verification of Legal Contracts,1,Requirements Engineering,CategorizedAs
+229,Towards socio-technical requirements engineering for regulatory compliance,1,Requirements Engineering,CategorizedAs
+230,Requirements We Live By,1,Requirements Engineering,CategorizedAs
+231,"Uncertain Requirements, Assurance and Machine Learning",1,Requirements Engineering,CategorizedAs
+232,Human Values in Software: A New Paradigm for Requirements Engineering?,1,Requirements Engineering,CategorizedAs
+233,The Next Step in Requirements Management: Artificial Intelligence,1,Requirements Engineering,CategorizedAs
+234,Do we Really Know What we are Building? Raising Awareness of Potential Sustainability Effects of Software Systems in Requirements Engineering,1,Requirements Engineering,CategorizedAs
+235,Can a Conversation Paint a Picture? Mining Requirements In Software Forums,1,Requirements Engineering,CategorizedAs
+236,"Learning Requirements Elicitation Interviews with Role-Playing, Self-Assessment and Peer-Review",1,Requirements Engineering,CategorizedAs
+237,Optimizing for Recall in Automatic Requirements Classification: An Empirical Study,1,Requirements Engineering,CategorizedAs
+238,A Machine Learning-Based Approach for Demarcating Requirements in Textual Specifications,1,Requirements Engineering,CategorizedAs
+239,Analysis of Requirements-Related Arguments in User Forums,1,Requirements Engineering,CategorizedAs
+240,The Role of Environment Assertions in Requirements-Based Testing,1,Requirements Engineering,CategorizedAs
+241,An Approach for Reviewing Security-Related Aspects in Agile Requirements Specifications of Web Applications,1,Requirements Engineering,CategorizedAs
+242,Detecting Bad Smells in Use Case Descriptions,1,Requirements Engineering,CategorizedAs
+243,"Visualization Requirements for Business Intelligence Analytics: A Goal-Based, Iterative Framework",1,Requirements Engineering,CategorizedAs
+244,Predicting How to Test Requirements: An Automated Approach,1,Requirements Engineering,CategorizedAs
+245,Extracting and Analyzing Context Information in User-Support Conversations on Twitter,1,Requirements Engineering,CategorizedAs
+246,Requirements Classification with Interpretable Machine Learning and Dependency Parsing,1,Requirements Engineering,CategorizedAs
+247,How do Practitioners Capture and Utilize User Feedback During Continuous Software Engineering?,1,Requirements Engineering,CategorizedAs
+248,Analysing Gender Differences in Building Social Goal Models: A Quasi-Experiment,1,Requirements Engineering,CategorizedAs
+249,Requirements Reference Models Revisited: Accommodating Hierarchy in System Design,1,Requirements Engineering,CategorizedAs
+250,Automated Recommendation of Software Refactorings Based on Feature Requests,1,Requirements Engineering,CategorizedAs
+251,A Metamodeling Approach to Support the Engineering of Modeling Method Requirements,1,Requirements Engineering,CategorizedAs
+252,Extraction of System States from Natural Language Requirements,1,Requirements Engineering,CategorizedAs
+253,Do End-Users Want Explanations? Analyzing the Role of Explainability as an Emerging Aspect of Non-Functional Requirements,1,Requirements Engineering,CategorizedAs
+254,Scalable Analysis of Real-Time Requirements,1,Requirements Engineering,CategorizedAs
+255,Arithmetic Semantics of Feature and Goal Models for Adaptive Cyber-Physical Systems,1,Requirements Engineering,CategorizedAs
+256,Clustering for Traceability Managing in System Specifications,1,Requirements Engineering,CategorizedAs
+257,"The General Data Protection Regulation: Requirements, Architectures, and Constraints",1,Requirements Engineering,CategorizedAs
+258,Requirements Engineering Method for Infrastructure Automation and Cloud Projects,1,Requirements Engineering,CategorizedAs
+259,On the Requirements for Serious Games Geared Towards Software Developers in the Industry,1,Requirements Engineering,CategorizedAs
+260,Motivational Modelling in Software for Homelessness: Lessons from an Industrial Study,1,Requirements Engineering,CategorizedAs
+261,Automating Consistency Verification of Safety Requirements for Railway Interlocking Systems,1,Requirements Engineering,CategorizedAs
+262,A Query System for Extracting Requirements-Related Information from Legal Texts,1,Requirements Engineering,CategorizedAs
+263,Big Data Analytics on Cyber Attack Graphs for Prioritizing Agile Security Requirements,1,Requirements Engineering,CategorizedAs
+264,Requirements Elicitation with a Service Canvas for Packaged Enterprise Systems,1,Requirements Engineering,CategorizedAs
+265,Design Thinking in a Nutshell for Eliciting Requirements of a Business Process: A Case Study of a Design Thinking Workshop,1,Requirements Engineering,CategorizedAs
+266,LadderBot: A Requirements Self-Elicitation System,1,Requirements Engineering,CategorizedAs
+267,Explainability as a Non-Functional Requirement,1,Requirements Engineering,CategorizedAs
+268,BakeRE: A Serious Educational Game on the Specification and Analysis of User Stories,1,Requirements Engineering,CategorizedAs
+269,"Don't Worry, Be Happy – Exploring Users' Emotions During App Usage for Requirements Engineering",1,Requirements Engineering,CategorizedAs
+270,Gender and User Feedback: An Exploratory Study,1,Requirements Engineering,CategorizedAs
+271,Non-Functional Requirements for Machine Learning: Challenges and New Directions,1,Requirements Engineering,CategorizedAs
+272,Towards Effective Assessment for Social Engineering Attacks,1,Requirements Engineering,CategorizedAs
+273,New RE Dimensions for Digital Ecosystems - Initial Results from an Expert Interview Study,1,Requirements Engineering,CategorizedAs
+274,Towards Integrating Human Values into Software: Mapping Principles and Rights of GDPR to Values,1,Requirements Engineering,CategorizedAs
+275,Environment-Centric Safety Requirements for Autonomous Unmanned Systems,1,Requirements Engineering,CategorizedAs
+276,Data-Driven Elicitation and Optimization of Dependencies between Requirements,1,Requirements Engineering,CategorizedAs
+277,Consent Verification Under Evolving Privacy Policies,1,Requirements Engineering,CategorizedAs
+278,Requirement Mining in Software Product Forums,1,Requirements Engineering,CategorizedAs
+279,Behaviour-Driven Requirements Engineering for Agile Product Line Engineering,1,Requirements Engineering,CategorizedAs
+280,Mining Requirements Arguments from user Forums,1,Requirements Engineering,CategorizedAs
+281,Towards Human Values Traceability in Software: A Goal Modeling Approach,1,Requirements Engineering,CategorizedAs
+282,Designing a Conversational Requirements Elicitation System for End-Users,1,Requirements Engineering,CategorizedAs
+283,An Approach to Design Trust-Aware Goal Model and Provenance Model for Intelligent Adaptive Systems,1,Requirements Engineering,CategorizedAs
+284,"An Agile Method of Representing, Organizing, and (Re) Prioritizing Requirements in a Large Enterprise",1,Requirements Engineering,CategorizedAs
+285,Mitigating Challenges in the Elicitation and Analysis of Transparency Requirements,1,Requirements Engineering,CategorizedAs
+286,Handling Socio-Technical Barriers Involved in Crowd-Based Requirements Elicitation,1,Requirements Engineering,CategorizedAs
+287,Requirements Intelligence with OpenReq Analytics,1,Requirements Engineering,CategorizedAs
+288,RM2PT: Requirements Validation through Automatic Prototyping,1,Requirements Engineering,CategorizedAs
+289,CARGo: A Prototype for Contextual Annotation and Reconciliation of Goal Models,1,Requirements Engineering,CategorizedAs
+290,T-Star: A Text-Based iStar Modeling Tool,1,Requirements Engineering,CategorizedAs
+291,OpenReq Issue Link Map: A Tool to Visualize Issue Links in Jira,1,Requirements Engineering,CategorizedAs
+292,Software Reuse and Reusability Based on Requirements: Feature Modelling vs. Case-Based Reasoning,1,Requirements Engineering,CategorizedAs
+293,RE4CPS: Requirements Engineering for Cyber-Physical Systems,1,Requirements Engineering,CategorizedAs
+294,Using Metamodeling for Requirements Engineering: A Best-Practice with ADOxx,1,Requirements Engineering,CategorizedAs
+295,Security Requirements Engineering: From TARA to PenTest,1,Requirements Engineering,CategorizedAs
+296,Usable and Secure Requirements Engineering with CAIRIS,1,Requirements Engineering,CategorizedAs
+297,Requirements Engineering Challenges in the First 1000 Days of a Venture Capital-Backed US Startup,1,Requirements Engineering,CategorizedAs
+298,Strategies for Data and Computation Movements in Fog Computing,1,Requirements Engineering,CategorizedAs
+299,Specifying Requirements through Interaction Design,1,Requirements Engineering,CategorizedAs
+300,Towards an Ontology of Requirements Engineering Approaches,1,Requirements Engineering,CategorizedAs
+301,Disruptive Change in Requirements Engineering Research,1,Requirements Engineering,CategorizedAs
+302,Requirements Engineering in the Age of Societal-Scale Cyber-Physical Systems: The Case of Automated Driving,1,Requirements Engineering,CategorizedAs
+303,The Next Release Problem Revisited: A New Avenue for Goal Models,1,Requirements Engineering,CategorizedAs
+304,The Manager Perspective on Requirements Impact on Automotive Systems Development Speed,1,Requirements Engineering,CategorizedAs
+305,A Qualitative Study on using GuideGen to Keep Requirements and Acceptance Tests Aligned,1,Requirements Engineering,CategorizedAs
+306,Enhancing Automated Requirements Traceability by Resolving Polysemy,1,Requirements Engineering,CategorizedAs
+307,Vetting Automatically Generated Trace Links: What Information is Useful to Human Analysts?,1,Requirements Engineering,CategorizedAs
+308,Modeling User Concerns in the App Store: A Case Study on the Rise and Fall of Yik Yak,1,Requirements Engineering,CategorizedAs
+309,Customer Rating Reactions Can Be Predicted Purely using App Features,1,Requirements Engineering,CategorizedAs
+310,Catalog of Invisibility Requirements for UbiComp and IoT Applications,1,Requirements Engineering,CategorizedAs
+311,RE and Society - A Perspective on RE in Times of Smart Cities and Smart Rural Areas,1,Requirements Engineering,CategorizedAs
+312,On Systems of Systems Engineering: A Requirements Engineering Perspective and Research Agenda,1,Requirements Engineering,CategorizedAs
+313,Automated Extraction of Semantic Legal Metadata using Natural Language Processing,1,Requirements Engineering,CategorizedAs
+314,The Grace Period Has Ended: An Approach to Operationalize GDPR Requirements,1,Requirements Engineering,CategorizedAs
+315,Mining Android App Descriptions for Permission Requirements Recommendation,1,Requirements Engineering,CategorizedAs
+316,Semantic Incompleteness in Privacy Policy Goals,1,Requirements Engineering,CategorizedAs
+317,App Review Analysis Via Active Learning: Reducing Supervision Effort without Compromising Classification Accuracy,1,Requirements Engineering,CategorizedAs
+318,Learning from Mistakes: An Empirical Study of Elicitation Interviews Performed by Novices,1,Requirements Engineering,CategorizedAs
+319,Efficiency and Effectiveness of Requirements Elicitation Techniques for Children,1,Requirements Engineering,CategorizedAs
+320,Towards Ubiquitous RE: A Perspective on Requirements Engineering in the Era of Digital Transformation,1,Requirements Engineering,CategorizedAs
+321,FAME: Supporting Continuous Requirements Elicitation by Combining User Feedback and Monitoring,1,Requirements Engineering,CategorizedAs
+322,On the Impact of Semantic Transparency on Understanding and Reviewing Social Goal Models,1,Requirements Engineering,CategorizedAs
+323,An Experimental Comparison of Two Navigation Techniques for Requirements Modeling Tools,1,Requirements Engineering,CategorizedAs
+324,Morse: Reducing the Feature Interaction Explosion Problem using Subject Matter Knowledge as Abstract Requirements,1,Requirements Engineering,CategorizedAs
+325,"Discovering, Analyzing, and Managing Safety Stories in Agile Projects",1,Requirements Engineering,CategorizedAs
+326,Understanding Challenging Situations in Agile Quality Requirements Engineering and Their Solution strategies: Insights from a Case Study,1,Requirements Engineering,CategorizedAs
+327,Towards Development of Complete and Conflict-Free Requirements,1,Requirements Engineering,CategorizedAs
+328,Industrial Requirements Classification for Redundancy and Inconsistency Detection in SEMIOS,1,Requirements Engineering,CategorizedAs
+329,Tailoring Requirements Negotiation to Sustainability,1,Requirements Engineering,CategorizedAs
+330,Requirements Engineering for Consensus-Oriented Technical Specifications,1,Requirements Engineering,CategorizedAs
+331,Supporting Diagnosis of Requirements Violations in Systems of Systems,1,Requirements Engineering,CategorizedAs
+332,Integrating Requirements Specification and Model-Based Testing in Agile Development,1,Requirements Engineering,CategorizedAs
+333,Focusing Requirements Elicitation by Using a UX Measurement Method,1,Requirements Engineering,CategorizedAs
+334,Assessment of Safety Processes in Requirements Engineering,1,Requirements Engineering,CategorizedAs
+335,CaRE: A Refinement Calculus for Requirements Engineering Based on Argumentation Semantics,1,Requirements Engineering,CategorizedAs
+336,Crowd-Focused Semi-Automated Requirements Engineering for Evolution Towards Sustainability,1,Requirements Engineering,CategorizedAs
+337,Reflection on Evolutionary Decision Making with Goal Modeling Via Empirical Studies,1,Requirements Engineering,CategorizedAs
+338,Software Transparency as a Key Requirement for Self-Driving Cars,1,Requirements Engineering,CategorizedAs
+339,Speculative Requirements: Design Fiction and RE,1,Requirements Engineering,CategorizedAs
+340,The Ability of Engineers to Extract Requirements from Models,1,Requirements Engineering,CategorizedAs
+341,The Use of Design Thinking for Requirements Engineering: An Ongoing Case Study in the Field of Innovative Software-Intensive Systems,1,Requirements Engineering,CategorizedAs
+342,Towards Utility-Based Prioritization of Requirements in Open Source Environments,1,Requirements Engineering,CategorizedAs
+343,Automatic Glossary Term Extraction from Large-Scale Requirements Specifications,1,Requirements Engineering,CategorizedAs
+344,Requirement Engineering of Software Product Lines: Extracting Variability Using NLP,1,Requirements Engineering,CategorizedAs
+345,The REquirements TRacing On Target (RETRO).NET Dataset,1,Requirements Engineering,CategorizedAs
+346,Towards a Corpus of Requirements Documents Enriched with Semantic Frame Annotations,1,Requirements Engineering,CategorizedAs
+347,Utilizing Product Usage Data for Requirements Evaluation,1,Requirements Engineering,CategorizedAs
+348,RE Cares’18: First RE Cares Workshop and Event - RE Cares About Giving Back to Alberta,1,Requirements Engineering,CategorizedAs
+349,Data Driven Requirements Engineering: Implications for the Community,1,Requirements Engineering,CategorizedAs
+350,Modeling Adaptive Socio-Cyber-Physical Systems with Goals and SysML,1,Requirements Engineering,CategorizedAs
+351,An Ontology Based Collaborative Recommender System for Security Requirements Elicitation,1,Requirements Engineering,CategorizedAs
+352,Assessing Security Risk and Requirements for Systems of Systems,1,Requirements Engineering,CategorizedAs
+353,Automated Validation of Requirement Reviews: A Machine Learning Approach,1,Requirements Engineering,CategorizedAs
+354,Cross-Functional Teams That Grok It: The Collective Empathic Understanding of Product Requirements,1,Requirements Engineering,CategorizedAs
+355,Decision Support for Smart Ecosystem Evolution,1,Requirements Engineering,CategorizedAs
+356,Towards a Security Requirements Management Framework for Open-Source Software,1,Requirements Engineering,CategorizedAs
+357,Towards Goal-Oriented Process Mining,1,Requirements Engineering,CategorizedAs
+358,BloomingLeaf: A Formal Tool for Requirements Evolution Over Time,1,Requirements Engineering,CategorizedAs
+359,Dynamic Visual Analytics for Elicitation Meetings with ELICA,1,Requirements Engineering,CategorizedAs
+360,FlexiView Experimental Tool: Fair and Detailed Usability Tests for Requirements Modeling Tools,1,Requirements Engineering,CategorizedAs
+361,Multi-user Input in Determining Answer Sets (MIDAS),1,Requirements Engineering,CategorizedAs
+362,piStar Tool – A Pluggable Online Tool for Goal Modeling,1,Requirements Engineering,CategorizedAs
+363,SuSoftPro: Sustainability Profiling for Software,1,Requirements Engineering,CategorizedAs
+364,T-Reqs: Tool Support for Managing Requirements in Large-Scale Agile System Development,1,Requirements Engineering,CategorizedAs
+365,DT4RE: Design Thinking for Requirements Engineering: A Tutorial on Human-Centered and Structured Requirements Elicitation,1,Requirements Engineering,CategorizedAs
+366,Agile Requirements Engineering with User Stories,1,Requirements Engineering,CategorizedAs
+367,Reconciling Requirements and Continuous Integration in an Agile Context,1,Requirements Engineering,CategorizedAs
+368,"Software Reuse and Reusability Based on Requirements: Product Lines, Cases and Feature-Similarity Models",1,Requirements Engineering,CategorizedAs
+369,Writing Requirements for Molecular Programs,1,Requirements Engineering,CategorizedAs
+370,Mining Twitter Feeds for Software User Requirements,1,Requirements Engineering,CategorizedAs
+371,A Little Bird Told Me: Mining Tweets for Requirements and Software Evolution,1,Requirements Engineering,CategorizedAs
+372,SAFE: A Simple Approach for Feature Extraction from App Descriptions and App Reviews,1,Requirements Engineering,CategorizedAs
+373,Canary: Extracting Requirements-Related Information from Online Discussions,1,Requirements Engineering,CategorizedAs
+374,A Framework for Improving the Verifiability of Visual Notation Design Grounded in the Physics of Notations,1,Requirements Engineering,CategorizedAs
+375,Using Argumentation to Explain Ambiguity in Requirements Elicitation Interviews,1,Requirements Engineering,CategorizedAs
+376,Mining User Rationale from Software Reviews,1,Requirements Engineering,CategorizedAs
+377,Feedback Gathering from an Industrial Point of View,1,Requirements Engineering,CategorizedAs
+378,Users — The Hidden Software Product Quality Experts?: A Study on How App Users Report Quality Aspects in Online Reviews,1,Requirements Engineering,CategorizedAs
+379,What Requirements Knowledge Do Developers Need to Manage Change in Safety-Critical Systems?,1,Requirements Engineering,CategorizedAs
+380,What Questions do Requirements Engineers Ask?,1,Requirements Engineering,CategorizedAs
+381,"Datasets from Fifteen Years of Automated Requirements Traceability Research: Current State, Characteristics, and Quality",1,Requirements Engineering,CategorizedAs
+382,The Trouble with Security Requirements,1,Requirements Engineering,CategorizedAs
+383,Safety-Focused Security Requirements Elicitation for Medical Device Software,1,Requirements Engineering,CategorizedAs
+384,Reinforcing Security Requirements with Multifactor Quality Measurement,1,Requirements Engineering,CategorizedAs
+385,“SHORT”er Reasoning About Larger Requirements Models,1,Requirements Engineering,CategorizedAs
+386,Modeling and Reasoning with Changing Intentions: An Experiment,1,Requirements Engineering,CategorizedAs
+387,Does Goal-Oriented Requirements Engineering Achieve Its Goal?,1,Requirements Engineering,CategorizedAs
+388,New Frontiers for Requirements Engineering,1,Requirements Engineering,CategorizedAs
+389,How Much Undocumented Knowledge is there in Agile Software Development?: Case Study on Industrial Project Using Issue Tracking System and Version Control System,1,Requirements Engineering,CategorizedAs
+390,Software Requirements Analyst Profile: A Descriptive Study of Brazil and Mexico,1,Requirements Engineering,CategorizedAs
+391,Improving the Identification of Hedonic Quality in User Requirements — A Controlled Experiment,1,Requirements Engineering,CategorizedAs
+392,Usability Insights for Requirements Engineering Tools: A User Study with Practitioners in Aeronautics,1,Requirements Engineering,CategorizedAs
+393,Detecting Vague Words & Phrases in Requirements Documents in a Multilingual Environment,1,Requirements Engineering,CategorizedAs
+394,A Case Study on Evaluating the Relevance of Some Rules for Writing Requirements Through an Online Survey,1,Requirements Engineering,CategorizedAs
+395,A Case Study on a Specification Approach Using Activity Diagrams in Requirements Documents,1,Requirements Engineering,CategorizedAs
+396,A Formalization Method to Process Structured Natural Language to Logic Expressions to Detect Redundant Specification and Test Statements,1,Requirements Engineering,CategorizedAs
+397,Do Words Make a Difference? An Empirical Study on the Impact of Taxonomies on the Classification of Requirements,1,Requirements Engineering,CategorizedAs
+398,Requirements Capture and Analysis in ASSERT(TM),1,Requirements Engineering,CategorizedAs
+399,Mining Associations Between Quality Concerns and Functional Requirements,1,Requirements Engineering,CategorizedAs
+400,Legal Markup Generation in the Large: An Experience Report,1,Requirements Engineering,CategorizedAs
+401,An Evaluation of Constituency-Based Hyponymy Extraction from Privacy Policies,1,Requirements Engineering,CategorizedAs
+402,Gamifying Collaborative Prioritization: Does Pointsification Work?,1,Requirements Engineering,CategorizedAs
+403,Behind Points and Levels — The Influence of Gamification Algorithms on Requirements Prioritization,1,Requirements Engineering,CategorizedAs
+404,Task Interruptions in Requirements Engineering: Reality Versus Perceptions!,1,Requirements Engineering,CategorizedAs
+405,Requirements Engineering Challenges in Large-Scale Agile System Development,1,Requirements Engineering,CategorizedAs
+406,What do Support Analysts Know About Their Customers? On the Study and Prediction of Support Ticket Escalations in Large Software Organizations,1,Requirements Engineering,CategorizedAs
+407,Piggybacking on an Autonomous Hauler: Business Models Enabling a System-of-Systems Approach to Mapping an Underground Mine,1,Requirements Engineering,CategorizedAs
+408,How do Practitioners Perceive the Relevance of Requirements Engineering Research? An Ongoing Study,1,Requirements Engineering,CategorizedAs
+409,Optimized Functionality for Super Mobile Apps,1,Requirements Engineering,CategorizedAs
+410,A Data Purpose Case Study of Privacy Policies,1,Requirements Engineering,CategorizedAs
+411,Interview Review: Detecting Latent Ambiguities to Improve the Requirements Elicitation Process,1,Requirements Engineering,CategorizedAs
+412,Pushing Boundaries of RE: Requirement Elicitation for Non-human Users,1,Requirements Engineering,CategorizedAs
+413,Crowd Sourcing the Creation of Personae Non Gratae for Requirements-Phase Threat Modeling,1,Requirements Engineering,CategorizedAs
+414,A Gamified Tutorial for Learning About Security Requirements Engineering,1,Requirements Engineering,CategorizedAs
+415,Exploiting User Feedback in Tool-Supported Multi-criteria Requirements Prioritization,1,Requirements Engineering,CategorizedAs
+416,Juggling Preferences in a World of Uncertainty,1,Requirements Engineering,CategorizedAs
+417,Identifying Conflicting Requirements in Systems of Systems,1,Requirements Engineering,CategorizedAs
+418,A Visual Narrative Path from Switching to Resuming a Requirements Engineering Task,1,Requirements Engineering,CategorizedAs
+419,UCAnalyzer: A Tool to Analyze Use Case Textual Descriptions,1,Requirements Engineering,CategorizedAs
+420,Let’s Hear it from RETTA: A Requirements Elicitation Tool for TrAffic Management Systems,1,Requirements Engineering,CategorizedAs
+421,ECrits — Visualizing Support Ticket Escalation Risk,1,Requirements Engineering,CategorizedAs
+422,Deploying a Template and Pattern Library for Improved Reuse of Requirements Across Projects,1,Requirements Engineering,CategorizedAs
+423,ARRoW: Tool Support for Automatic Runtime Reappraisal of Weights,1,Requirements Engineering,CategorizedAs
+424,Choosing Requirements for Experimentation with User Interfaces of Requirements Modeling Tools,1,Requirements Engineering,CategorizedAs
+425,CoSTest: A Tool for Validation of Requirements at Model Level,1,Requirements Engineering,CategorizedAs
+426,DMGame: A Gamified Collaborative Requirements Prioritisation Tool,1,Requirements Engineering,CategorizedAs
+427,Canary: An Interactive and Query-Based Approach to Extract Requirements from Online Forums,1,Requirements Engineering,CategorizedAs
+428,A Demonstration of Respecify: A Requirements Authoring Tool Harnessing CNL,1,Requirements Engineering,CategorizedAs
+429,The Right-Hand Side Problem: Research Topics in RE,1,Requirements Engineering,CategorizedAs
+430,Requirements Elicitation: A Look at the Future Through the Lenses of the Past,1,Requirements Engineering,CategorizedAs
+431,The Vision: Requirements Engineering in Society,1,Requirements Engineering,CategorizedAs
+432,Requirements Engineering Since the Year One Thousand,1,Requirements Engineering,CategorizedAs
+433,"RE at 50, with a Focus on the Last 25 Years",1,Requirements Engineering,CategorizedAs
+434,RE Data Challenge: Requirements Identification with Word2Vec and TensorFlow,1,Requirements Engineering,CategorizedAs
+435,Automatically Classifying Functional and Non-functional Requirements Using Supervised Machine Learning,1,Requirements Engineering,CategorizedAs
+436,What Works Better? A Study of Classifying Requirements,1,Requirements Engineering,CategorizedAs
+437,PURE: A Dataset of Public Requirements Documents,1,Requirements Engineering,CategorizedAs
+438,A Domain-Independent Model for Identifying Security Requirements,1,Requirements Engineering,CategorizedAs
+439,Toward Automating Crowd RE,1,Requirements Engineering,CategorizedAs
+440,The IlmSeven Dataset,1,Requirements Engineering,CategorizedAs
+441,Towards a Bayesian Decision Model for Release Planning in Incremental Development,1,Requirements Engineering,CategorizedAs
+442,An Approach to Support the Specification of Agile Artifacts in the Development of Safety-Critical Systems,1,Requirements Engineering,CategorizedAs
+443,Reusable Goal Models,1,Requirements Engineering,CategorizedAs
+444,Towards an Adaptive Framework for Goal-Oriented Strategic Decision-Making,1,Requirements Engineering,CategorizedAs
+445,Dealing with Conflicts Between Non-functional Requirements of UbiComp and IoT Applications,1,Requirements Engineering,CategorizedAs
+446,Awareness Driven Software Reengineering,1,Requirements Engineering,CategorizedAs
+447,Verifying Cyber-Physical System Behavior in the Context of Cyber-Physical System-Networks,1,Requirements Engineering,CategorizedAs
+448,Improving the Elicitation of Delightful Context-Aware Features: A Data-Based Approach,1,Requirements Engineering,CategorizedAs
+449,RE in the Age of Continuous Deployment,1,Requirements Engineering,CategorizedAs
+450,"Panel: Context-Dependent Evaluation of Tools for NL RE Tasks: Recall vs. Precision, and Beyond",1,Requirements Engineering,CategorizedAs
+451,"Delivering Customer Value in the Age of Autonomous, Continuously Evolving Systems",1,Requirements Engineering,CategorizedAs
+452,Requirements for Molecular Programmed Nanosystems (Keynote),1,Requirements Engineering,CategorizedAs
+453,Urban Computing: Tackling Urban Challenges Using Big Data,1,Requirements Engineering,CategorizedAs
+454,Requirements Engineering for the Digital Transformation: Industry Panel,1,Requirements Engineering,CategorizedAs
+455,Requirements Engineering Visualization: A Systematic Literature Review,1,Requirements Engineering,CategorizedAs
+456,A Serious Game for Eliciting Social Engineering Security Requirements,1,Requirements Engineering,CategorizedAs
+457,A Theory of Vagueness and Privacy Risk Perception,1,Requirements Engineering,CategorizedAs
+458,Stimulating Stakeholders' Imagination: New Creativity Triggers for Eliciting Novel Requirements,1,Requirements Engineering,CategorizedAs
+459,Challenging Incompleteness of Performance Requirements by Sentence Patterns,1,Requirements Engineering,CategorizedAs
+460,Ambiguity Cues in Requirements Elicitation Interviews,1,Requirements Engineering,CategorizedAs
+461,Trace++: A Traceability Approach to Support Transitioning to Agile Software Engineering,1,Requirements Engineering,CategorizedAs
+462,An Exploratory Study on User Interaction Challenges When Handling Interconnected Requirements Artifacts of Various Sizes,1,Requirements Engineering,CategorizedAs
+463,Looking into the Crystal Ball: Requirements Evolution over Time,1,Requirements Engineering,CategorizedAs
+464,A Needle in a Haystack: What Do Twitter Users Say about Software?,1,Requirements Engineering,CategorizedAs
+465,Goal-Oriented Requirements Engineering: A Systematic Literature Map,1,Requirements Engineering,CategorizedAs
+466,An Exploratory Study on Handling Requirements and Acceptance Test Documentation in Industry,1,Requirements Engineering,CategorizedAs
+467,Managing Requirements Change the Informal Way: When Saying ‘No’ is Not an Option,1,Requirements Engineering,CategorizedAs
+468,NANE: Identifying Misuse Cases Using Temporal Norm Enactments,1,Requirements Engineering,CategorizedAs
+469,Supporting Requirements Elicitation by Tool-Supported Video Analysis,1,Requirements Engineering,CategorizedAs
+470,Mining Requirements Knowledge from Collections of Domain Documents,1,Requirements Engineering,CategorizedAs
+471,Software Feature Request Detection in Issue Tracking Systems,1,Requirements Engineering,CategorizedAs
+472,Acquiring Creative Requirements from the Crowd: Understanding the Influences of Personality and Creative Potential in Crowd RE,1,Requirements Engineering,CategorizedAs
+473,Advancing Repeated Research in Requirements Engineering: A Theoretical Replication of Viewpoint Merging,1,Requirements Engineering,CategorizedAs
+474,Automated Extraction of Conceptual Models from User Stories via NLP,1,Requirements Engineering,CategorizedAs
+475,What is the Impact of Bad Layout in the Understandability of Social Goal Models?,1,Requirements Engineering,CategorizedAs
+476,Collaborative Traceability Management: Challenges and Opportunities,1,Requirements Engineering,CategorizedAs
+477,Requirements Engineering for Retrofittable Subsea Equipment,1,Requirements Engineering,CategorizedAs
+478,TraceBoK: Toward a Software Requirements Traceability Body of Knowledge,1,Requirements Engineering,CategorizedAs
+479,ResDevOps: A Software Engineering Framework for Achieving Long-Lasting Complex Systems,1,Requirements Engineering,CategorizedAs
+480,Privacy Requirements: Findings and Lessons Learned in Developing a Privacy Platform,1,Requirements Engineering,CategorizedAs
+481,Requirements Engineering for Health Data Analytics: Challenges and Possible Directions,1,Requirements Engineering,CategorizedAs
+482,Listens Learned (8 Lessons Learned Applying EARS),1,Requirements Engineering,CategorizedAs
+483,Requirements Elicitation and Derivation of Security Policy Templates—An Industrial Case Study,1,Requirements Engineering,CategorizedAs
+484,Experiences in the Development and Usage of a Privacy Requirements Framework,1,Requirements Engineering,CategorizedAs
+485,Model-Based Simulation of Legal Requirements: Experience from Tax Policy Simulation,1,Requirements Engineering,CategorizedAs
+486,A Two-Stage Inspection Method for Automotive Software Systems and Its Practical Applications,1,Requirements Engineering,CategorizedAs
+487,RAMP: Requirements Authors Mentoring Program,1,Requirements Engineering,CategorizedAs
+488,Towards Improved Requirements Engineering with SysML and the User Requirements Notation,1,Requirements Engineering,CategorizedAs
+489,Requirements Engineering as Innovation Journalism: A Research Preview,1,Requirements Engineering,CategorizedAs
+490,AnalyticGraph.com: Toward Next Generation Requirements Modeling and Reasoning Tools,1,Requirements Engineering,CategorizedAs
+491,Continuous Requirements Engineering Using Model Federation,1,Requirements Engineering,CategorizedAs
+492,Towards a Marketplace of Visual Elements for Notation Design,1,Requirements Engineering,CategorizedAs
+493,Complete Traceability for Requirements in Satisfaction Arguments,1,Requirements Engineering,CategorizedAs
+494,Acceptance Requirements and Their Gamification Solutions,1,Requirements Engineering,CategorizedAs
+495,Empowering Requirements Elicitation Interviews with Vocal and Biofeedback Analysis,1,Requirements Engineering,CategorizedAs
+496,Is It a New Feature or Simply “Don't Know Yet”?: On Automated Redundant OSS Feature Requests Identification,1,Requirements Engineering,CategorizedAs
+497,Beyond Awareness Requirements,1,Requirements Engineering,CategorizedAs
+498,Towards Modelling and Analysis of Spatial and Temporal Requirements,1,Requirements Engineering,CategorizedAs
+499,Application of Artifact-Based RE in Fortified Cards,1,Requirements Engineering,CategorizedAs
+500,i*ToNuSMV: A Prototype for Enabling Model Checking of i* Models,1,Requirements Engineering,CategorizedAs
+501,Generating Testing Codes for Behavior-Driven Development from Problem Diagrams: A Tool-Based Approach,1,Requirements Engineering,CategorizedAs
+502,SCCMT: A Stigmergy-Based Collaborative Conceptual Modeling Tool,1,Requirements Engineering,CategorizedAs
+503,A Modular Requirements Engineering Framework for Web-Based Toolchain Integration,1,Requirements Engineering,CategorizedAs
+504,Capra: A Configurable and Extendable Traceability Management Tool,1,Requirements Engineering,CategorizedAs
+505,Mobility Requirements Engineering Tool (MoRE),1,Requirements Engineering,CategorizedAs
+506,RE-PREF: Support for REassessment of PREFerences of Non-functional Requirements for Better Decision-Making in Self-Adaptive Systems,1,Requirements Engineering,CategorizedAs
+507,Towards a Regulator-Oriented Regulatory Intelligence Framework,1,Requirements Engineering,CategorizedAs
+508,Towards an Approach to Stimulate Architectural Thinking during Requirements Engineering Phase,1,Requirements Engineering,CategorizedAs
+509,Quality-Impact Assessment of Software Systems,1,Requirements Engineering,CategorizedAs
+510,Evaluation of Requirements Models,1,Requirements Engineering,CategorizedAs
+511,Exact Analysis for Next Release Problem,1,Requirements Engineering,CategorizedAs
+512,Definition of a Behavior-Driven Model for Requirements Specification and Testing of Interactive Systems,1,Requirements Engineering,CategorizedAs
+513,Requirements Traceability Technologies Selection for Industry,1,Requirements Engineering,CategorizedAs
+514,The Generation and Evolution of Adaptation Rules in Requirements Driven Self-Adaptive Systems,1,Requirements Engineering,CategorizedAs
+515,You versus users - who owns your roadmap? (keynote),1,Requirements Engineering,CategorizedAs
+516,Can you intentionally design a product that is Cool? (keynote),1,Requirements Engineering,CategorizedAs
+517,"Requirements, behaviours, and software engineering (keynote)",1,Requirements Engineering,CategorizedAs
+518,Change impact analysis for Natural Language requirements: An NLP approach,1,Requirements Engineering,CategorizedAs
+519,Requirements engineering: The quest for the dependent variable,1,Requirements Engineering,CategorizedAs
+520,Ambiguity as a resource to disclose tacit knowledge,1,Requirements Engineering,CategorizedAs
+521,An information theoretic approach for extracting and tracing non-functional requirements,1,Requirements Engineering,CategorizedAs
+522,From requirements elicitation to variability analysis using repertory grid: A cognitive approach,1,Requirements Engineering,CategorizedAs
+523,Goal and Preference Identification through natural language,1,Requirements Engineering,CategorizedAs
+524,Selecting creativity techniques for creative requirements: An evaluation of four techniques using creativity workshops,1,Requirements Engineering,CategorizedAs
+525,"Feature lifecycles as they spread, migrate, remain, and die in App Stores",1,Requirements Engineering,CategorizedAs
+526,What you ask is what you get: Understanding architecturally significant functional requirements,1,Requirements Engineering,CategorizedAs
+527,A requirements monitoring model for systems of systems,1,Requirements Engineering,CategorizedAs
+528,Handling knowledge uncertainty in risk-based requirements engineering,1,Requirements Engineering,CategorizedAs
+529,"Bug report, feature request, or simply praise? On automatically classifying app reviews",1,Requirements Engineering,CategorizedAs
+530,Forging high-quality User Stories: Towards a discipline for Agile Requirements,1,Requirements Engineering,CategorizedAs
+531,Exposing the susceptibility of off-nominal behaviors in reactive system requirements,1,Requirements Engineering,CategorizedAs
+532,Assessment of risk perception in security requirements composition,1,Requirements Engineering,CategorizedAs
+533,Resolving goal conflicts via argumentation-based analysis of competing hypotheses,1,Requirements Engineering,CategorizedAs
+534,Detecting repurposing and over-collection in multi-party privacy requirements specifications,1,Requirements Engineering,CategorizedAs
+535,A quality model for the systematic assessment of requirements traceability,1,Requirements Engineering,CategorizedAs
+536,Sketching and notation creation with FlexiSketch Team: Evaluating a new means for collaborative requirements elicitation,1,Requirements Engineering,CategorizedAs
+537,Inherent characteristics of traceability artifacts less is more,1,Requirements Engineering,CategorizedAs
+538,Trace links explained: An automated approach for generating rationales,1,Requirements Engineering,CategorizedAs
+539,Handling non-functional requirements in Model-Driven Development: An ongoing industrial survey,1,Requirements Engineering,CategorizedAs
+540,Scalable modeling and analysis of requirements preferences: A qualitative approach using CI-Nets,1,Requirements Engineering,CategorizedAs
+541,Rationalization of goal models in GRL using formal argumentation,1,Requirements Engineering,CategorizedAs
+542,Cognitive factors in inconsistency management,1,Requirements Engineering,CategorizedAs
+543,Using real options to manage Technical Debt in Requirements Engineering,1,Requirements Engineering,CategorizedAs
+544,QuantUn: Quantification of uncertainty for the reassessment of requirements,1,Requirements Engineering,CategorizedAs
+545,Towards reuse in safety risk analysis based on product line requirements,1,Requirements Engineering,CategorizedAs
+546,An environment-driven ontological approach to requirements elicitation for safety-critical systems,1,Requirements Engineering,CategorizedAs
+547,Goals at risk? Machine learning at support of early assessment,1,Requirements Engineering,CategorizedAs
+548,Democratic mass participation of users in Requirements Engineering?,1,Requirements Engineering,CategorizedAs
+549,Exploiting online human knowledge in Requirements Engineering,1,Requirements Engineering,CategorizedAs
+550,Towards engineering transparency as a requirement in socio-technical systems,1,Requirements Engineering,CategorizedAs
+551,Towards a general formal framework of Coherence Management in RE,1,Requirements Engineering,CategorizedAs
+552,SACRE: A tool for dealing with uncertainty in contextual requirements at runtime,1,Requirements Engineering,CategorizedAs
+553,ReqPat: Efficient documentation of high-quality requirements using controlled natural language,1,Requirements Engineering,CategorizedAs
+554,Holistic security requirements analysis: An attacker's perspective,1,Requirements Engineering,CategorizedAs
+555,"Breeze: A modeling tool for designing, analyzing, and improving software architecture",1,Requirements Engineering,CategorizedAs
+556,StakeCloud Tool: From cloud consumers' search queries to new service requirements,1,Requirements Engineering,CategorizedAs
+557,An enhanced requirements gathering interface for open source software development environments,1,Requirements Engineering,CategorizedAs
+558,Supporting quantitative assessment of requirements in Goal Orientation,1,Requirements Engineering,CategorizedAs
+559,Web tool for Goal modelling and statechart derivation,1,Requirements Engineering,CategorizedAs
+560,Challenges of Requirements Engineering in AUTOSAR ecosystems,1,Requirements Engineering,CategorizedAs
+561,Reuse of architecturally derived Standards Requirements,1,Requirements Engineering,CategorizedAs
+562,Systematic elicitation of mode models for multifunctional systems,1,Requirements Engineering,CategorizedAs
+563,Requirements problems in the development of a new user interface for healthcare equipment,1,Requirements Engineering,CategorizedAs
+564,Experience requirements in video games definition and testability,1,Requirements Engineering,CategorizedAs
+565,Agile requirements engineering with prototyping: A case study,1,Requirements Engineering,CategorizedAs
+566,The myth of bad passive voice and weak words an empirical investigation in the automotive industry,1,Requirements Engineering,CategorizedAs
+567,Understanding changes in use cases: A case study,1,Requirements Engineering,CategorizedAs
+568,Using the requirements specification to infer the implicit test status of requirements,1,Requirements Engineering,CategorizedAs
+569,The need of complementing plan-driven requirements engineering with emerging communication: Experiences from Volvo Car Group,1,Requirements Engineering,CategorizedAs
+570,Incorporating preferences from multiple stakeholders in software requirements selection an interactive search-based approach,1,Requirements Engineering,CategorizedAs
+571,How can corpus linguistics help improve requirements writing? Specifications of a space project as a case study,1,Requirements Engineering,CategorizedAs
+572,The Personal Information Security Assistant,1,Requirements Engineering,CategorizedAs
+573,Security Assurance Requirements Engineering (STARE) for trustworthy service level agreements,1,Requirements Engineering,CategorizedAs
+574,A magnet-and-spring based visualization technique for enhancing the manipulation of requirements artifacts,1,Requirements Engineering,CategorizedAs
+575,A language for writing system specifications in an aeronautical context,1,Requirements Engineering,CategorizedAs
+576,Ready-Set-Transfer! Technology transfer in the requirements engineering domain,1,Requirements Engineering,CategorizedAs
+577,Technology transfer - Requirements Engineering research to industrial practice an open (ended) debate,1,Requirements Engineering,CategorizedAs
+578,Now more than ever: Privacy and security are required (keynote),1,Requirements Engineering,CategorizedAs
+579,How practitioners approach gameplay requirements? An exploration into the context of massive multiplayer online role-playing games,1,Requirements Engineering,CategorizedAs
+580,Therapist-centered requirements: A multi-method approach of requirement gathering to support rehabilitation gaming,1,Requirements Engineering,CategorizedAs
+581,Towards a situation awareness design to improve visually impaired orientation in unfamiliar buildings: Requirements elicitation study,1,Requirements Engineering,CategorizedAs
+582,Supporting early decision-making in the presence of uncertainty,1,Requirements Engineering,CategorizedAs
+583,Integrating exception handling in goal models,1,Requirements Engineering,CategorizedAs
+584,Protos: Foundations for engineering innovative sociotechnical systems,1,Requirements Engineering,CategorizedAs
+585,Automated detection and resolution of legal cross references: Approach and a study of Luxembourg's legislation,1,Requirements Engineering,CategorizedAs
+586,Goal-oriented compliance with multiple regulations,1,Requirements Engineering,CategorizedAs
+587,Identifying and classifying ambiguity for regulatory requirements,1,Requirements Engineering,CategorizedAs
+588,An Approach for Decision Support on the Uncertainty in Feature Model Evolution,1,Requirements Engineering,CategorizedAs
+589,Maintaining requirements for long-living software systems by incorporating security knowledge,1,Requirements Engineering,CategorizedAs
+590,Rationalism with a dose of empiricism: Case-based reasoning for requirements-driven self-adaptation,1,Requirements Engineering,CategorizedAs
+591,TiQi: Towards natural language trace queries,1,Requirements Engineering,CategorizedAs
+592,Traceability-enabled refactoring for managing just-in-time requirements,1,Requirements Engineering,CategorizedAs
+593,Supporting traceability through affinity mining,1,Requirements Engineering,CategorizedAs
+594,How Do Users Like This Feature? A Fine Grained Sentiment Analysis of App Reviews,1,Requirements Engineering,CategorizedAs
+595,Scaling requirements extraction to the crowd: Experiments with privacy policies,1,Requirements Engineering,CategorizedAs
+596,Discovering affect-laden requirements to achieve system acceptance,1,Requirements Engineering,CategorizedAs
+597,Hidden in plain sight: Automatically identifying security requirements from natural language artifacts,1,Requirements Engineering,CategorizedAs
+598,Managing security requirements patterns using feature diagram hierarchies,1,Requirements Engineering,CategorizedAs
+599,Engineering topology aware adaptive security: Preventing requirements violations at runtime,1,Requirements Engineering,CategorizedAs
+600,Openness and requirements: Opportunities and tradeoffs in software ecosystems,1,Requirements Engineering,CategorizedAs
+601,RISDM: A requirements inspection systems design methodology: Perspective-based design of the pragmatic quality model and question set to SRS,1,Requirements Engineering,CategorizedAs
+602,Tackling the requirements jigsaw puzzle,1,Requirements Engineering,CategorizedAs
+603,Automated support for combinational creativity in requirements engineering,1,Requirements Engineering,CategorizedAs
+604,Automated extraction and visualization of quality concerns from requirements specifications,1,Requirements Engineering,CategorizedAs
+605,Language Extended Lexicon points: Estimating the size of an application using its language,1,Requirements Engineering,CategorizedAs
+606,The role of legal expertise in interpretation of legal requirements and definitions,1,Requirements Engineering,CategorizedAs
+607,Evaluating the business value of information technology: Case study on game management system,1,Requirements Engineering,CategorizedAs
+608,"Non-functional requirements as qualities, with a spice of ontology",1,Requirements Engineering,CategorizedAs
+609,Quality requirements elicitation based on inquiry of quality-impact relationships,1,Requirements Engineering,CategorizedAs
+610,Nòmos 3: Reasoning about regulatory compliance of requirements,1,Requirements Engineering,CategorizedAs
+611,GUITAR: An ontology-based automated requirements analysis tool,1,Requirements Engineering,CategorizedAs
+612,Simulation-based requirements discovery for smart driver assistive technologies,1,Requirements Engineering,CategorizedAs
+613,EAM: Ecosystemability assessment method,1,Requirements Engineering,CategorizedAs
+614,Combined goal and feature model reasoning with the User Requirements Notation and jUCMNav,1,Requirements Engineering,CategorizedAs
+615,Decisively: Application of Quantitative Analysis and Decision Science in Agile Requirements Engineering,1,Requirements Engineering,CategorizedAs
+616,VARED: Verification and analysis of requirements and early designs,1,Requirements Engineering,CategorizedAs
+617,Structured multi-view modeling by tabular notation,1,Requirements Engineering,CategorizedAs
+618,Efficient visual notations for efficient stakeholder communication,1,Requirements Engineering,CategorizedAs
+619,Symbolic verification of requirements in VRS system,1,Requirements Engineering,CategorizedAs
+620,Business Application Modeler: A process model Validation and Verification tool,1,Requirements Engineering,CategorizedAs
+1473,A systematic literature review of requirements engineering education,1,Requirements Engineering,CategorizedAs
+1474,Privacy requirements elicitation: a systematic literature review and perception analysis of IT practitioners,1,Requirements Engineering,CategorizedAs
+1475,A knowledge-driven approach for designing data analytics platforms,1,Requirements Engineering,CategorizedAs
+1476,Philanthropic conference-based requirements engineering in time of pandemic and beyond,1,Requirements Engineering,CategorizedAs
+1477,Evaluating a privacy requirements specification method by using a mixed-method approach: results and lessons learned,1,Requirements Engineering,CategorizedAs
+1478,Measuring and improving software requirements elicitation in a small-sized software organization: a lightweight implementation of ISO/IEC/IEEE 15939:2017—systems and software engineering—measurement process,1,Requirements Engineering,CategorizedAs
+1479,Non-functional requirements for machine learning: understanding current use and challenges among practitioners,1,Requirements Engineering,CategorizedAs
+1480,Requirements management in DevOps environments: a multivocal mapping study,1,Requirements Engineering,CategorizedAs
+1481,A hybrid technique using minimal spanning tree and analytic hierarchical process to prioritize functional requirements for parallel software development,1,Requirements Engineering,CategorizedAs
+1482,The state-of-practice in requirements specification: an extended interview study at 12 companies,1,Requirements Engineering,CategorizedAs
+1483,Including business strategy in model-driven methods: an experiment,1,Requirements Engineering,CategorizedAs
+1484,WEBAPIK: a body of structured knowledge on designing web APIs,1,Requirements Engineering,CategorizedAs
+1485,Requirements engineering for sustainable software systems: a systematic mapping study,1,Requirements Engineering,CategorizedAs
+1486,"Requirements quality research: a harmonized theory, evaluation, and roadmap",1,Requirements Engineering,CategorizedAs
+1487,When details are difficult to portray: enriching vision videos,1,Requirements Engineering,CategorizedAs
+1488,On understanding and predicting issue links,1,Requirements Engineering,CategorizedAs
+1489,What do we know about requirements management in software ecosystems?,1,Requirements Engineering,CategorizedAs
+1490,The role of informal communication in building shared understanding of non-functional requirements in remote continuous software engineering,1,Requirements Engineering,CategorizedAs
+1491,Why don’t we trace? A study on the barriers to software traceability in practice,1,Requirements Engineering,CategorizedAs
+1492,Editorial for the REFSQ’23 special issue,1,Requirements Engineering,CategorizedAs
+1493,Systematic adaptation and investigation of the understandability of a formal pattern language,1,Requirements Engineering,CategorizedAs
+1494,Requirements and software engineering for automotive perception systems: an interview study,1,Requirements Engineering,CategorizedAs
+1495,Turning asynchronicity into an opportunity: asynchronous communication for shared understanding with vision videos,1,Requirements Engineering,CategorizedAs
+1496,Improving requirements completeness: automated assistance through large language models,1,Requirements Engineering,CategorizedAs
+1497,An empirical investigation of challenges of specifying training data and runtime monitors for critical software with machine learning and their relation to architectural decisions,1,Requirements Engineering,CategorizedAs
+1498,Editorial,1,Requirements Engineering,CategorizedAs
+1499,An approach for performance requirements verification and test environments generation,1,Requirements Engineering,CategorizedAs
+1500,Aligning requirements and testing through metamodeling and patterns: design and evaluation,1,Requirements Engineering,CategorizedAs
+1501,Specifying requirements for collection and analysis of online user feedback,1,Requirements Engineering,CategorizedAs
+1502,A negotiation support system for defining utility functions for multi-stakeholder self-adaptive systems,1,Requirements Engineering,CategorizedAs
+1503,On the relationship between similar requirements and similar software,1,Requirements Engineering,CategorizedAs
+1504,"Causality in requirements artifacts: prevalence, detection, and impact",1,Requirements Engineering,CategorizedAs
+1505,Editorial,1,Requirements Engineering,CategorizedAs
+1506,Testing software’s changing features with environment-driven abstraction identification,1,Requirements Engineering,CategorizedAs
+1507,Explainable software systems: from requirements analysis to system evaluation,1,Requirements Engineering,CategorizedAs
+1508,Assessing user stories: the influence of template differences and gender-related problem-solving styles,1,Requirements Engineering,CategorizedAs
+1509,Crowd-based requirements elicitation via pull feedback: method and case studies,1,Requirements Engineering,CategorizedAs
+1510,Guidelines adopted by agile teams in privacy requirements elicitation after the Brazilian general data protection law (LGPD) implementation,1,Requirements Engineering,CategorizedAs
+1511,How do requirements evolve during elicitation? An empirical study combining interviews and app store analysis,1,Requirements Engineering,CategorizedAs
+1512,Correction to: Empirical research on requirements quality: a systematic mapping study,1,Requirements Engineering,CategorizedAs
+1513,Correction to: On the relationship between similar requirements and similar software,1,Requirements Engineering,CategorizedAs
+1514,Catalog of invisibility correlations for UbiComp and IoT applications,1,Requirements Engineering,CategorizedAs
+1515,Detecting coreferent entities in natural language requirements,1,Requirements Engineering,CategorizedAs
+1516,Theory as a source of software and system requirements,1,Requirements Engineering,CategorizedAs
+1517,Voice of the users: an extended study of software feedback engagement,1,Requirements Engineering,CategorizedAs
+1518,Stakeholder identification for a structured release planning approach in the automotive domain,1,Requirements Engineering,CategorizedAs
+1519,An impact-driven approach to predict user stories instability,1,Requirements Engineering,CategorizedAs
+1520,Empirical research on requirements quality: a systematic mapping study,1,Requirements Engineering,CategorizedAs
+1521,How assurance case development and requirements engineering interplay: a study with practitioners,1,Requirements Engineering,CategorizedAs
+1522,"A multi-level semantic web for hard-to-specify domain concept, Pedestrian, in ML-based software",1,Requirements Engineering,CategorizedAs
+1523,A systematic literature review of empirical research on quality requirements,1,Requirements Engineering,CategorizedAs
+1524,A use case driven approach to game modeling,1,Requirements Engineering,CategorizedAs
+1525,Leveraging BPMN particularities to improve traceability links recovery among requirements and BPMN models,1,Requirements Engineering,CategorizedAs
+1526,A validation of QDAcity-RE for domain modeling using qualitative data analysis,1,Requirements Engineering,CategorizedAs
+1527,Exploring the challenges and benefits for scaling agile project management to large projects: a review,1,Requirements Engineering,CategorizedAs
+1528,Formal requirements modeling for cyber-physical systems engineering: an integrated solution based on FORM-L and Modelica,1,Requirements Engineering,CategorizedAs
+1529,TracIMo: a traceability introduction methodology and its evaluation in an Agile development team,1,Requirements Engineering,CategorizedAs
+1530,Correction to: Risk‑aware business process management using multi‑view modeling: method and tool,1,Requirements Engineering,CategorizedAs
+1531,Correction to: Is it possible to disregard obsolete requirements? A family of experiments in software effort estimation,1,Requirements Engineering,CategorizedAs
+1532,A framework for evaluating and improving requirements specifications based on the developers and testers perspective,1,Requirements Engineering,CategorizedAs
+1533,Interspecies information systems,1,Requirements Engineering,CategorizedAs
+1534,A quantitative comparison of the effects of modeling approaches on system verification using a controlled challenge problem,1,Requirements Engineering,CategorizedAs
+1535,Network structure and requirements crowdsourcing for OSS projects,1,Requirements Engineering,CategorizedAs
+1536,Risk-aware business process management using multi-view modeling: method and tool,1,Requirements Engineering,CategorizedAs
+1537,Formal reasoning for analyzing goal models that evolve over time,1,Requirements Engineering,CategorizedAs
+1538,Toward practical adoption of i* framework: an automatic two-level layout approach,1,Requirements Engineering,CategorizedAs
+1539,A Game-theoretic approach to analyze interacting actors in GRL goal models,1,Requirements Engineering,CategorizedAs
+1540,Is it possible to disregard obsolete requirements? a family of experiments in software effort estimation,1,Requirements Engineering,CategorizedAs
+1541,A GRL-compliant iStar extension for collaborative cyber-physical systems,1,Requirements Engineering,CategorizedAs
+1542,The state-of-practice in requirements elicitation: an extended interview study at 12 companies,1,Requirements Engineering,CategorizedAs
+1543,Modeling machine learning requirements from three perspectives: a case report from the healthcare domain,1,Requirements Engineering,CategorizedAs
+1544,Assisted requirements selection by clustering,1,Requirements Engineering,CategorizedAs
+1545,DAREF: MDA framework for modelling data warehouse requirements and deducing the multidimensional schema,1,Requirements Engineering,CategorizedAs
+1546,Automatically detecting feature requests from development emails by leveraging semantic sequence mining,1,Requirements Engineering,CategorizedAs
+1547,RAPID: a knowledge-based assistant for designing web APIs,1,Requirements Engineering,CategorizedAs
+1548,Robust requirements gathering for ontologies in smart water systems,1,Requirements Engineering,CategorizedAs
+1549,A retrospective on Telos as a metamodeling language for requirements engineering,1,Requirements Engineering,CategorizedAs
+1550,Requirements-driven data warehouse design based on enhanced pivot tables,1,Requirements Engineering,CategorizedAs
+1551,Model elements identification using neural networks: a comprehensive study,1,Requirements Engineering,CategorizedAs
+1552,Safety requirements for symbiotic human–robot collaboration systems in smart factories: a pairwise comparison approach to explore requirements dependencies,1,Requirements Engineering,CategorizedAs
+1553,Modeling functional requirements using tacit knowledge: a design science research methodology informed approach,1,Requirements Engineering,CategorizedAs
+1554,Preface to the requirements engineering special issue on selected papers from RE’19,1,Requirements Engineering,CategorizedAs
+1555,Explainability as a non-functional requirement: challenges and recommendations,1,Requirements Engineering,CategorizedAs
+1556,An efficient approach for reviewing security-related aspects in agile requirements specifications of web applications,1,Requirements Engineering,CategorizedAs
+1557,Requirements engineering for sustainability: an awareness framework for designing software systems for a better tomorrow,1,Requirements Engineering,CategorizedAs
+1558,SaPeer and ReverseSaPeer: teaching requirements elicitation interviews with role-playing and role reversal,1,Requirements Engineering,CategorizedAs
+1559,Author Correction: Customer support ticket escalation prediction using feature engineering,1,Requirements Engineering,CategorizedAs
+1560,Correction to: Modular norm models: practical representation and analysis of contractual rights and obligations,1,Requirements Engineering,CategorizedAs
+1561,Modular norm models: practical representation and analysis of contractual rights and obligations,1,Requirements Engineering,CategorizedAs
+1562,Cultural influence on requirements engineering activities: a systematic literature review and analysis,1,Requirements Engineering,CategorizedAs
+1563,A socio-technical-based process for questionnaire development in requirements elicitation via interviews,1,Requirements Engineering,CategorizedAs
+1564,Expanding the nature and scope of requirements for service systems through Service-Dominant Logic: the case of a telemonitoring service,1,Requirements Engineering,CategorizedAs
+1565,Software requirements testing approaches: a systematic literature review,1,Requirements Engineering,CategorizedAs
+1566,Parallel multi-objective artificial bee colony algorithm for software requirement optimization,1,Requirements Engineering,CategorizedAs
+1567,Reconstructing the past: the case of the Spadina Expressway,1,Requirements Engineering,CategorizedAs
+1568,GARUSO: a gamification approach for involving stakeholders outside organizational reach in requirements engineering,1,Requirements Engineering,CategorizedAs
+1569,Engineering digital motivation in businesses: a modelling and analysis framework,1,Requirements Engineering,CategorizedAs
+1570,Structural similarity measure between UML class diagrams based on UCG,1,Requirements Engineering,CategorizedAs
+1571,Reducing ambiguity during enterprise design,1,Requirements Engineering,CategorizedAs
+1572,Requirements analysis gamification in legacy system replacement projects,1,Requirements Engineering,CategorizedAs
+1573,Extracting core requirements for software product lines,1,Requirements Engineering,CategorizedAs
+1574,A method for analyzing stakeholders’ influence on an open source software ecosystem’s requirements engineering process,1,Requirements Engineering,CategorizedAs
+1575,From event logs to goals: a systematic literature review of goal-oriented process mining,1,Requirements Engineering,CategorizedAs
+1576,"Collaborative traceability management: a multiple case study from the perspectives of organization, process, and culture",1,Requirements Engineering,CategorizedAs
+1577,Known and unknown requirements in healthcare,1,Requirements Engineering,CategorizedAs
+1578,Performance-driven software development: an incremental refinement approach for high-quality requirement engineering,1,Requirements Engineering,CategorizedAs
+1579,Improving the identification of functional system requirements when novice analysts create use case diagrams: the benefits of applying conceptual mental models,1,Requirements Engineering,CategorizedAs
+1580,A systematic literature mapping of goal and non-goal modelling methods for legal and regulatory compliance,1,Requirements Engineering,CategorizedAs
+1581,Recommending software features for mobile applications based on user interface comparison,1,Requirements Engineering,CategorizedAs
+1582,Automatic recommendation to omitted steps in use case specification,1,Requirements Engineering,CategorizedAs
+1583,Sustainability requirements for eLearning systems: a systematic literature review and analysis,1,Requirements Engineering,CategorizedAs
+1584,A requirements engineering methodology for knowledge management solutions: integrating technical and social aspects,1,Requirements Engineering,CategorizedAs
+1585,"Editorial, special issue RE 2018",1,Requirements Engineering,CategorizedAs
+1586,A framework for designing cloud forensic-enabled services (CFeS),1,Requirements Engineering,CategorizedAs
+1587,The impact of requirements on systems development speed: a multiple-case study in automotive,1,Requirements Engineering,CategorizedAs
+1588,"Semantic hierarchies for extracting, modeling, and connecting compliance requirements in information security control standards",1,Requirements Engineering,CategorizedAs
+1589,Identifying incompleteness in privacy policy goals using semantic frames,1,Requirements Engineering,CategorizedAs
+1590,Teaching requirements elicitation interviews: an empirical study of learning from mistakes,1,Requirements Engineering,CategorizedAs
+1591,Automating requirements analysis and test case generation,1,Requirements Engineering,CategorizedAs
+1592,Providing tool support for specifying safety-critical systems by enforcing syntactic contract conditions,1,Requirements Engineering,CategorizedAs
+1593,Goal-oriented requirements engineering: an extended systematic mapping study,1,Requirements Engineering,CategorizedAs
+1594,Addressing the state explosion problem when visualizing off-nominal behaviors in a set of reactive requirements,1,Requirements Engineering,CategorizedAs
+1595,Eliciting user requirements for e-collaboration systems: a proposal for a multi-perspective modeling approach,1,Requirements Engineering,CategorizedAs
+1596,A set of prescribed activities for enhancing requirements engineering in the development of usable e-Government applications,1,Requirements Engineering,CategorizedAs
+1597,Understanding what is important in iStar extension proposals: the viewpoint of researchers,1,Requirements Engineering,CategorizedAs
+1598,The QDAcity-RE method for structural domain modeling using qualitative data analysis,1,Requirements Engineering,CategorizedAs
+1599,RSL-IL4Privacy: a domain-specific language for the rigorous specification of privacy policies,1,Requirements Engineering,CategorizedAs
+1600,An empirical study on the use of i* by non-technical stakeholders: the case of strategic dependency diagrams,1,Requirements Engineering,CategorizedAs
+1601,A multifactor approach for elicitation of Information requirements of data warehouses,1,Requirements Engineering,CategorizedAs
+1602,Automatic test cases generation from business process models,1,Requirements Engineering,CategorizedAs
+1603,Value-based requirements engineering: method and experience,1,Requirements Engineering,CategorizedAs
+1604,A method of requirements change analysis,1,Requirements Engineering,CategorizedAs
+1605,Mending the patchwork of requirements from multiple standards using participative goal modelling: a case in the food industry,1,Requirements Engineering,CategorizedAs
+1606,"Improving the representation of roles in conceptual modeling: theory, method, and evidence",1,Requirements Engineering,CategorizedAs
+1607,Goal model analysis of autonomy requirements for Unmanned Aircraft Systems,1,Requirements Engineering,CategorizedAs
+1608,Using the AMAN-DA method to generate security requirements: a case study in the maritime domain,1,Requirements Engineering,CategorizedAs
+1609,Editorial special issue RE 2017,1,Requirements Engineering,CategorizedAs
+1610,Discovering undocumented knowledge through visualization of agile software development activities,1,Requirements Engineering,CategorizedAs
+1611,Customer support ticket escalation prediction using feature engineering,1,Requirements Engineering,CategorizedAs
+1612,Improving the identification of hedonic quality in user requirements: a second controlled experiment,1,Requirements Engineering,CategorizedAs
+1613,On user rationale in software engineering,1,Requirements Engineering,CategorizedAs
+1614,Hazard Relation Diagrams: a diagrammatic representation to increase validation objectivity of requirements-based hazard mitigations,1,Requirements Engineering,CategorizedAs
+1615,Direct and mediating influences of user-developer perception gaps in requirements understanding on user participation,1,Requirements Engineering,CategorizedAs
+1616,Multi-objective reasoning with constrained goal models,1,Requirements Engineering,CategorizedAs
+1617,"Analysis of information quality requirements in business processes, revisited",1,Requirements Engineering,CategorizedAs
+1618,Four reference models for transparency requirements in information systems,1,Requirements Engineering,CategorizedAs
+1619,An approach for requirements prioritization based on tensor decomposition,1,Requirements Engineering,CategorizedAs
+1620,Continuous clarification and emergent requirements flows in open-commercial software ecosystems,1,Requirements Engineering,CategorizedAs
+1621,Requirements for cloud-based BIM governance solutions to facilitate team collaboration in construction projects,1,Requirements Engineering,CategorizedAs
+1622,Organisation and communication problems in automotive requirements engineering,1,Requirements Engineering,CategorizedAs
+1623,CrowdMock: an approach for defining and evolving web augmentation requirements,1,Requirements Engineering,CategorizedAs
+1624,Empirical research in requirements engineering: trends and opportunities,1,Requirements Engineering,CategorizedAs
+1625,Effective use of analysts’ effort in automated tracing,1,Requirements Engineering,CategorizedAs
+1626,A framework for quality assessment of just-in-time requirements: the case of open source feature requests,1,Requirements Engineering,CategorizedAs
+1627,How to manage IS requirements in complex public sector structures: toward an action design research approach,1,Requirements Engineering,CategorizedAs
+1628,Is role playing in Requirements Engineering Education increasing learning outcome?,1,Requirements Engineering,CategorizedAs
+1629,Validation of formal specifications through transformation and animation,1,Requirements Engineering,CategorizedAs
+1630,Understanding requirement prioritization artifacts: a systematic mapping study,1,Requirements Engineering,CategorizedAs
+1631,Dealing with software process requirements complexity: an information access proposal based on semantic technologies,1,Requirements Engineering,CategorizedAs
+1632,Viewpoint: effectiveness of focused mentoring to improve requirements engineering industrial practice,1,Requirements Engineering,CategorizedAs
+1633,Introduction to the RE’16 best papers special issue,1,Requirements Engineering,CategorizedAs
+1634,Advancing viewpoint merging in requirements engineering: a theoretical replication and explanatory study,1,Requirements Engineering,CategorizedAs
+1635,An exploratory study of Twitter messages about software applications,1,Requirements Engineering,CategorizedAs
+1636,Challenges of working with artifacts in requirements engineering and software engineering,1,Requirements Engineering,CategorizedAs
+1637,Extracting conceptual models from user stories with Visual Narrator,1,Requirements Engineering,CategorizedAs
+1638,A method of software requirements specification and validation for global software development,1,Requirements Engineering,CategorizedAs
+1639,Reusing functional software requirements in small-sized software enterprises: a model oriented to the catalog of requirements,1,Requirements Engineering,CategorizedAs
+1640,Repetition between stakeholder (user) and system requirements,1,Requirements Engineering,CategorizedAs
+1641,An automated framework for detection and resolution of cross references in legal texts,1,Requirements Engineering,CategorizedAs
+1642,Declaratively building behavior by means of scenario clauses,1,Requirements Engineering,CategorizedAs
+1643,Agile requirements handling in a service-oriented taxonomy of capabilities,1,Requirements Engineering,CategorizedAs
+1644,Engineering requirements for adaptive systems,1,Requirements Engineering,CategorizedAs
+1645,Green software requirements and measurement: random decision forests-based software energy consumption profiling,1,Requirements Engineering,CategorizedAs
+1646,Structuring automotive product lines and feature models: an exploratory study at Opel,1,Requirements Engineering,CategorizedAs
+1647,Modelling mobile app requirements for semantic traceability,1,Requirements Engineering,CategorizedAs
+1648,The role of distances in requirements communication: a case study,1,Requirements Engineering,CategorizedAs
+1649,Mapping quality requirements for pervasive mobile games,1,Requirements Engineering,CategorizedAs
+1650,Automating trade-off analysis of security requirements,1,Requirements Engineering,CategorizedAs
+1651,Workshop videos for requirements communication,1,Requirements Engineering,CategorizedAs
+1652,Applications of ontologies in requirements engineering: a systematic review of the literature,1,Requirements Engineering,CategorizedAs
+1653,Bayesian networks for enhancement of requirements engineering: a literature review,1,Requirements Engineering,CategorizedAs
+1654,Systems performance prediction using requirements quality attributes classification,1,Requirements Engineering,CategorizedAs
+1655,A framework for virtual organization requirements,1,Requirements Engineering,CategorizedAs
+1656,Designing and assessing a course on prioritization and importance assessment in strategic non-routine requirements engineering processes,1,Requirements Engineering,CategorizedAs
+1657,Introduction to the special issue of best papers from RE2015 conference,1,Requirements Engineering,CategorizedAs
+1658,On the automatic classification of app reviews,1,Requirements Engineering,CategorizedAs
+1659,Improving agile requirements: the Quality User Story framework and tool,1,Requirements Engineering,CategorizedAs
+1660,"Detecting, classifying, and tracing non-functional software requirements",1,Requirements Engineering,CategorizedAs
+1661,Ambiguity and tacit knowledge in requirements elicitation interviews,1,Requirements Engineering,CategorizedAs
+1662,Finding and resolving security misusability with misusability cases,1,Requirements Engineering,CategorizedAs
+1663,Reusable knowledge in security requirements engineering: a systematic mapping study,1,Requirements Engineering,CategorizedAs
+1664,Building a security reference architecture for cloud systems,1,Requirements Engineering,CategorizedAs
+1665,Attribute-based variability in feature models,1,Requirements Engineering,CategorizedAs
+1666,Analyzing and predicting software integration bugs using network analysis on requirements dependency network,1,Requirements Engineering,CategorizedAs
+1667,A questionnaire-based survey methodology for systematically validating goal-oriented models,1,Requirements Engineering,CategorizedAs
+1668,An ASPIRE-based method for quality requirements identification from business goals,1,Requirements Engineering,CategorizedAs
+1669,Using security robustness analysis for early-stage validation of functional security requirements,1,Requirements Engineering,CategorizedAs
+1670,Requirements for tools for comprehending highly specialized assembly language code and how to elicit these requirements,1,Requirements Engineering,CategorizedAs
+1671,SCRAM–CK: applying a collaborative requirements engineering process for designing a web based e-science toolkit,1,Requirements Engineering,CategorizedAs
+1672,Interactive goal model analysis for early requirements engineering,1,Requirements Engineering,CategorizedAs
+1673,Exploring cognitive style and task-specific preferences for process representations,1,Requirements Engineering,CategorizedAs
+1674,Artefact-based requirements engineering: the AMDiRE approach,1,Requirements Engineering,CategorizedAs
+1675,Incorporating usability requirements into model transformation technologies,1,Requirements Engineering,CategorizedAs
+1676,Conviviality-driven access control policy,1,Requirements Engineering,CategorizedAs
+1677,GDIA: Eliciting information requirements in emergency first response,1,Requirements Engineering,CategorizedAs
+1678,Establishing requirements for End-user Service Composition tools,1,Requirements Engineering,CategorizedAs
+1679,Patterns of continuous requirements clarification,1,Requirements Engineering,CategorizedAs
+1680,Introduction to the RE’14 special issue,1,Requirements Engineering,CategorizedAs
+1681,On building architecture-centric product line architecture,1,Requirements Engineering,CategorizedAs
+1682,TiQi: answering unstructured natural language trace queries,1,Requirements Engineering,CategorizedAs
+1683,Rationalism with a dose of empiricism: combining goal reasoning and case-based reasoning for self-adaptive software systems,1,Requirements Engineering,CategorizedAs
+1684,On the role of semantics in automated requirements tracing,1,Requirements Engineering,CategorizedAs
+1685,A model for tracing variability from features to product-line architectures: a case study in smart grids,1,Requirements Engineering,CategorizedAs
+1686,Leveraging topic modeling and part-of-speech tagging to support combinational creativity in requirements engineering,1,Requirements Engineering,CategorizedAs
+1687,Early modeling and validation of timed system requirements using Timed Use Case Maps,1,Requirements Engineering,CategorizedAs
+1688,A descriptive study of Microsoft’s threat modeling technique,1,Requirements Engineering,CategorizedAs
+1689,Early identification of crosscutting concerns with the Language Extended Lexicon,1,Requirements Engineering,CategorizedAs
+1690,Requirements engineering education: a systematic mapping study,1,Requirements Engineering,CategorizedAs
+1691,Uni-REPM: a framework for requirements engineering process assessment,1,Requirements Engineering,CategorizedAs
+1692,Roadmapping problems in practice: value creation from the perspective of the customers,1,Requirements Engineering,CategorizedAs
+1693,GaiusT: supporting the extraction of rights and obligations for regulatory compliance,1,Requirements Engineering,CategorizedAs
+1694,Capturing consumer preferences as requirements for software product lines,1,Requirements Engineering,CategorizedAs
+1695,Reuse of requirements reduced time to market at one industrial shop: a case study,1,Requirements Engineering,CategorizedAs
+1696,Requirements engineering in software product line engineering,1,Requirements Engineering,CategorizedAs
+1697,A holistic approach to feature modeling for product line requirements engineering,1,Requirements Engineering,CategorizedAs
+1698,"Evaluating scenario-based SPL requirements approaches: the case for modularity, stability and expressiveness",1,Requirements Engineering,CategorizedAs
+1699,"
+KMoS-RE: knowledge management on a strategy to requirements engineering",1,Requirements Engineering,CategorizedAs
+1700,Requirements-driven incremental adoption of variability management techniques and tools: an industrial experience report,1,Requirements Engineering,CategorizedAs
+1701,On the systematic transformation of requirements to specifications,1,Requirements Engineering,CategorizedAs
+1702,Introduction to the RE’13 special issue,1,Requirements Engineering,CategorizedAs
+1703,"Eddy, a formal language for specifying and analyzing data flow specifications for conflicting privacy requirements",1,Requirements Engineering,CategorizedAs
+1704,On requirement verification for evolving Statecharts specifications,1,Requirements Engineering,CategorizedAs
+1705,Visual requirements analytics: a framework and case study,1,Requirements Engineering,CategorizedAs
+1706,Supporting requirements to code traceability through refactoring,1,Requirements Engineering,CategorizedAs
+1707,The role of domain knowledge in requirements elicitation via interviews: an exploratory study,1,Requirements Engineering,CategorizedAs
+1708,Dynamic decision models for staged software product line configuration,1,Requirements Engineering,CategorizedAs
+1709,"PBURC: a patterns-based, unsupervised requirements clustering framework for distributed agile software development",1,Requirements Engineering,CategorizedAs
+1710,A requirements data model for product service systems,1,Requirements Engineering,CategorizedAs
+1711,Time patterns for process-aware information systems,1,Requirements Engineering,CategorizedAs
+1712,Erratum to: Metrics for measuring the consistencies of requirements with objectives and constraints,1,Requirements Engineering,CategorizedAs
+1713,Defining qualitative assessing parameters of Iran banks website,1,Requirements Engineering,CategorizedAs
+1714,Topsy-turvy requirements,1,Requirements Engineering,CategorizedAs
+1715,Metrics for measuring the consistencies of requirements with objectives and constraints,1,Requirements Engineering,CategorizedAs
+1716,CORAMOD: a checklist-oriented model-based requirements analysis approach,1,Requirements Engineering,CategorizedAs
+1717,Guidelines for using UML association classes and their effect on domain understanding in requirements engineering,1,Requirements Engineering,CategorizedAs
+1718,System requirements engineering in complex situations,1,Requirements Engineering,CategorizedAs
+1719,Comparing the impact of the OO-DFD and the Use Case methods for modeling functional requirements on comprehension and quality of models: a controlled experiment,1,Requirements Engineering,CategorizedAs
+1720,Erratum to: A pattern-based method for establishing a cloud-specific information security management system,1,Requirements Engineering,CategorizedAs
+1721,"Requirements Engineering for Security, Privacy and Services in Cloud Environments",1,Requirements Engineering,CategorizedAs
+1722,A pattern-based method for establishing a cloud-specific information security management system,1,Requirements Engineering,CategorizedAs
+1723,A framework for enabling trust requirements in social cloud applications,1,Requirements Engineering,CategorizedAs
+1724,Evaluating cloud deployment scenarios based on security and privacy requirements,1,Requirements Engineering,CategorizedAs
+1725,The illusion of requirements in software development,1,Requirements Engineering,CategorizedAs
+1726,Evaluating the effectiveness of the security quality requirements engineering (SQUARE) method: a case study using smart grid advanced metering infrastructure,1,Requirements Engineering,CategorizedAs
+1727,Effect of personality type on structured tool comprehension performance,1,Requirements Engineering,CategorizedAs
+1728,Comparison and evaluation of goal-oriented satisfaction analysis techniques,1,Requirements Engineering,CategorizedAs
+1729,Quantifying the impact of requirements definition and management process maturity on project outcome in large business application development,1,Requirements Engineering,CategorizedAs
+1730,Introduction to the RE’12 special issue,1,Requirements Engineering,CategorizedAs
+1731,Managing requirements uncertainty with partial models,1,Requirements Engineering,CategorizedAs
+1732,A cross-domain empirical study and legal evaluation of the requirements water marking method,1,Requirements Engineering,CategorizedAs
+1733,Assessing requirements-related risks through probabilistic goals and obstacles,1,Requirements Engineering,CategorizedAs
+1734,Features meet scenarios: modeling and consistency-checking scenario-based product line specifications,1,Requirements Engineering,CategorizedAs
+1735,Uncovering quality-attribute concerns in use case specifications via early aspect mining,1,Requirements Engineering,CategorizedAs
+1736,Requirements engineering within a large-scale security-oriented research project: lessons learned,1,Requirements Engineering,CategorizedAs
+1737,A framework to measure and improve the quality of textual requirements,1,Requirements Engineering,CategorizedAs
+1738,Uni-REPM: validated and improved,1,Requirements Engineering,CategorizedAs
+1739,Adaptive socio-technical systems: a requirements-based approach,1,Requirements Engineering,CategorizedAs
+1740,"Quality requirements engineering for systems and software architecting: methods, approaches, and tools",1,Requirements Engineering,CategorizedAs
+1741,An integrated strategy to systematically understand and manage quality in use for web applications,1,Requirements Engineering,CategorizedAs
+1742,Deriving software architectural models from requirements models for adaptive systems: the STREAM-A approach,1,Requirements Engineering,CategorizedAs
+1743,Setting quality targets for coming releases with QUPER: an industrial case study,1,Requirements Engineering,CategorizedAs
+1744,Constructing high quality use case models: a systematic review of current practices,1,Requirements Engineering,CategorizedAs
+1745,The effectiveness of an optimized EPMcreate as a creativity enhancement technique for Web site requirements elicitation,1,Requirements Engineering,CategorizedAs
+1746,Comparing task practicing and prototype fidelities when applying scenario acting to elicit requirements,1,Requirements Engineering,CategorizedAs
+1747,Using conceptual models to explore business-ICT alignment in networked value constellations,1,Requirements Engineering,CategorizedAs
+1748,Exploring the impact of software requirements on system-wide goals: a method using satisfaction arguments and i* goal modelling,1,Requirements Engineering,CategorizedAs
+1749,Introduction to the RE’11 special issue: requirements in motion,1,Requirements Engineering,CategorizedAs
+1750,Towards an understanding of the causes and effects of software requirements change: two case studies,1,Requirements Engineering,CategorizedAs
+1751,Power and politics in requirements engineering: embracing the dark side?,1,Requirements Engineering,CategorizedAs
+1752,A legal cross-references taxonomy for reasoning about compliance requirements,1,Requirements Engineering,CategorizedAs
+1753,Early failure prediction in feature request management systems: an extended study,1,Requirements Engineering,CategorizedAs
+1754,Introduction to the REFSQ 2011 special issue,1,Requirements Engineering,CategorizedAs
+1755,Task descriptions versus use cases,1,Requirements Engineering,CategorizedAs
+1756,Enhancing security requirements engineering by organizational learning,1,Requirements Engineering,CategorizedAs
+1757,Automotive behavioral requirements expressed in a specification pattern system: a case study at BOSCH,1,Requirements Engineering,CategorizedAs
+1758,Industry needs and research directions in requirements engineering for embedded systems,1,Requirements Engineering,CategorizedAs
+1759,WebSpec: a visual language for specifying interaction and navigation requirements in web applications,1,Requirements Engineering,CategorizedAs
+1760,On eliciting requirements from end-users in the ICT4D domain,1,Requirements Engineering,CategorizedAs
+1761,Experience with user-centred requirements engineering,1,Requirements Engineering,CategorizedAs
+1762,Modeling stakeholders for information systems design processes,1,Requirements Engineering,CategorizedAs
+1763,Introduction to the RE’10 special issue Requirements Engineering in a multi-faceted World,1,Requirements Engineering,CategorizedAs
+1764,Representing and reasoning about preferences in requirements engineering,1,Requirements Engineering,CategorizedAs
+1765,Analysing anaphoric ambiguity in natural language requirements,1,Requirements Engineering,CategorizedAs
+1766,Application of swarm techniques to requirements tracing,1,Requirements Engineering,CategorizedAs
+1767,Relevance-based abstraction identification: technique and evaluation,1,Requirements Engineering,CategorizedAs
+1768,Utilizing Event-B for domain engineering: a critical analysis,1,Requirements Engineering,CategorizedAs
+1769,Supporting agile software development through active documentation,1,Requirements Engineering,CategorizedAs
+1770,Goal-driven risk assessment in requirements engineering,1,Requirements Engineering,CategorizedAs
+1771,A systematic review of transformation approaches between user requirements and analysis models,1,Requirements Engineering,CategorizedAs
+1772,"Integrating ontologies, model driven, and CNL in a multi-viewed approach for requirements engineering",1,Requirements Engineering,CategorizedAs
+1773,"Digital privacy: theory, policies and technologies",1,Requirements Engineering,CategorizedAs
+1774,The “Panopticon” of search engines: the response of the European data protection framework,1,Requirements Engineering,CategorizedAs
+1775,A methodology for security assurance-driven system development,1,Requirements Engineering,CategorizedAs
+1776,Commitment analysis to operationalize software requirements from privacy policies,1,Requirements Engineering,CategorizedAs
+1777,A privacy threat analysis framework: supporting the elicitation and fulfillment of privacy requirements,1,Requirements Engineering,CategorizedAs
+1778,Semantic decoupling: reducing the impact of requirement changes,1,Requirements Engineering,CategorizedAs
+1779,An approach to capture authorisation requirements in business processes,1,Requirements Engineering,CategorizedAs
+1780,A goal-based framework for contextual requirements modeling and analysis,1,Requirements Engineering,CategorizedAs
+1781,A framework to improve communication during the requirements elicitation process in GSD projects,1,Requirements Engineering,CategorizedAs
+1782,An integrated approach for requirement selection and scheduling in software release planning,1,Requirements Engineering,CategorizedAs
+1783,On confusion between requirements and their representations,1,Requirements Engineering,CategorizedAs
+1784,Assessing traceability of software engineering artifacts,1,Requirements Engineering,CategorizedAs
+1785,Understanding the human context in requirements elicitation,1,Requirements Engineering,CategorizedAs
+1786,When-to-release decisions for features with time-dependent value functions,1,Requirements Engineering,CategorizedAs
+1787,Developing comprehensive acceptance tests from use cases and robustness diagrams,1,Requirements Engineering,CategorizedAs
+1788,Introduction to the RE’09 special issue,1,Requirements Engineering,CategorizedAs
+1789,A controlled experiment to assess the impact of system architectures on new system requirements,1,Requirements Engineering,CategorizedAs
+1790,RELAX: a language to address uncertainty in self-adaptive systems requirement,1,Requirements Engineering,CategorizedAs
+1791,Deconstructing the semantics of big-step modelling languages,1,Requirements Engineering,CategorizedAs
+1792,Modeling and detecting semantic-based interactions in aspect-oriented scenarios,1,Requirements Engineering,CategorizedAs
+1793,Visual syntax does matter: improving the cognitive effectiveness of the i* visual notation,1,Requirements Engineering,CategorizedAs
+1794,"Guest editorial: security requirements engineering: past, present and future",1,Requirements Engineering,CategorizedAs
+1795,"Eliciting security requirements and tracing them to design: an integration of Common Criteria, heuristics, and UMLsec",1,Requirements Engineering,CategorizedAs
+1796,A comparison of security requirements engineering methods,1,Requirements Engineering,CategorizedAs
+1797,Evaluating existing security and privacy requirements for legal compliance,1,Requirements Engineering,CategorizedAs
+1798,"A vulnerability-centric requirements engineering framework: analyzing security attacks, countermeasures, and requirements based on vulnerabilities",1,Requirements Engineering,CategorizedAs
+1799,A UML-based static verification framework for security,1,Requirements Engineering,CategorizedAs
+1800,Introduction to the RE’08 special issue,1,Requirements Engineering,CategorizedAs
+1801,Formal semantic conflict detection in aspect-oriented requirements,1,Requirements Engineering,CategorizedAs
+1802,Experiential learning approach for requirements engineering education,1,Requirements Engineering,CategorizedAs
+1803,"A search based approach to fairness analysis in requirement assignments to aid negotiation, mediation and decision making",1,Requirements Engineering,CategorizedAs
+1804,Technology transfer decision support in requirements engineering research: a systematic review of REj,1,Requirements Engineering,CategorizedAs
+1805,Investigating business-IT alignment through multi-disciplinary goal concepts,1,Requirements Engineering,CategorizedAs
+1806,Methodologies to evolve formal specifications through refinement and retrenchment in an analysis–revision cycle,1,Requirements Engineering,CategorizedAs
+1807,Requirements engineering for multi-channel services: the SEB method and its application to a multi-channel bank,1,Requirements Engineering,CategorizedAs
+1808,Guest Editor’s Introduction,1,Requirements Engineering,CategorizedAs
+1809,Exploring how to use scenarios to discover requirements,1,Requirements Engineering,CategorizedAs
+1810,Linking business and requirements engineering: is solution planning a missing activity in software product companies?,1,Requirements Engineering,CategorizedAs
+1811,Towards automated requirements prioritization and triage,1,Requirements Engineering,CategorizedAs
+1812,Validating software requirements with enactable use case descriptions,1,Requirements Engineering,CategorizedAs
+1813,Designing socio-technical systems: from stakeholder goals to social networks,1,Requirements Engineering,CategorizedAs
+1814,A semiotic analysis of unified modeling language graphical notations,1,Requirements Engineering,CategorizedAs
+1815,An integrated domain analysis approach for teleoperated systems,1,Requirements Engineering,CategorizedAs
+1816,Managing requirements inter-dependency for software product line derivation,1,Requirements Engineering,CategorizedAs
+1817,The case against a positivist philosophy of requirements engineering,1,Requirements Engineering,CategorizedAs
+1818,Method for stakeholder identification in interorganizational environments,1,Requirements Engineering,CategorizedAs
+1819,Portraying the practice of decision-making in requirements engineering: a case of large scale bespoke development,1,Requirements Engineering,CategorizedAs
+1820,Requirements for tools for ambiguity identification and measurement in natural language requirements specifications,1,Requirements Engineering,CategorizedAs
+1821,Composing requirements specifications from multiple prioritized sources,1,Requirements Engineering,CategorizedAs
+1822,Addressing privacy requirements in system design: the PriS method,1,Requirements Engineering,CategorizedAs
+1823,A cognitive semantics for the association construct,1,Requirements Engineering,CategorizedAs
+1824,A case study validation of a knowledge-based approach for the selection of requirements engineering techniques,1,Requirements Engineering,CategorizedAs
+1825,Clear justification of modeling decisions for goal-oriented requirements engineering,1,Requirements Engineering,CategorizedAs
+1826,Sensitivity analysis in the process of COTS mismatch-handling,1,Requirements Engineering,CategorizedAs
+1827,MOQARE: misuse-oriented quality requirements engineering,1,Requirements Engineering,CategorizedAs
+1828,An approach to engineering the requirements of data warehouses,1,Requirements Engineering,CategorizedAs
+1829,Advanced product planning: a comprehensive process for systemic definition of new product requirements,1,Requirements Engineering,CategorizedAs
+1830,Generating Natural Language specifications from UML class diagrams,1,Requirements Engineering,CategorizedAs
+1831,The future of information systems engineering,1,Requirements Engineering,CategorizedAs
+1832,Unified use case statecharts: case studies,1,Requirements Engineering,CategorizedAs
+1833,Design and implementation of a smart system for personalization and accurate selection of mobile services,1,Requirements Engineering,CategorizedAs
+1834,Cognitive complexity in data modeling: causes and recommendations,1,Requirements Engineering,CategorizedAs
+1835,Web-based systems design: a study of contemporary practices and an explanatory framework based on “method-in-action”,1,Requirements Engineering,CategorizedAs
+1836,Assessing critical functional and non-functional requirements for web-based procurement systems: a comprehensive survey,1,Requirements Engineering,CategorizedAs
+1837,MiHOS: an approach to support handling the mismatches between system requirements and COTS products,1,Requirements Engineering,CategorizedAs
+1838,A field study of the requirements engineering practice in Australian software industry,1,Requirements Engineering,CategorizedAs
+1839,Industry evaluation of the Requirements Abstraction Model,1,Requirements Engineering,CategorizedAs
+1840,Ten years of Australian workshop on requirements engineering,1,Requirements Engineering,CategorizedAs
+1841,"Business analysis and requirements engineering: the same, only different?",1,Requirements Engineering,CategorizedAs
+1842,Introduction to the RE’06 special issue,1,Requirements Engineering,CategorizedAs
+1843,Requirement progression in problem frames: deriving specifications from requirements,1,Requirements Engineering,CategorizedAs
+1844,Multi-level feature trees,1,Requirements Engineering,CategorizedAs
+1845,Automated classification of non-functional requirements ,1,Requirements Engineering,CategorizedAs
+1846,Analogy-based domain analysis approach to software reuse,1,Requirements Engineering,CategorizedAs
+1847,A domain model of Web recommender systems based on usage mining and collaborative filtering,1,Requirements Engineering,CategorizedAs
+1848,Using obstacle analysis to identify contingency requirements on an unpiloted aerial vehicle,1,Requirements Engineering,CategorizedAs
+1849,Requirements engineering in health care: the example of chemotherapy planning in paediatric oncology,1,Requirements Engineering,CategorizedAs
+1850,On generic method models,1,Requirements Engineering,CategorizedAs
+1851,The methodological soundness of requirements engineering papers: a conceptual framework and two case studies,1,Requirements Engineering,CategorizedAs
+1852,Articulation of information requirements for personalised knowledge construction,1,Requirements Engineering,CategorizedAs
+1853,Guidelines for the incremental identification of aspects in requirements specifications,1,Requirements Engineering,CategorizedAs
+1854,Introduction to the best research papers from RE’05,1,Requirements Engineering,CategorizedAs
+1855,View merging in the presence of incompleteness and inconsistency,1,Requirements Engineering,CategorizedAs
+1856,PC-RE: a method for personal and contextual requirements engineering with some experience,1,Requirements Engineering,CategorizedAs
+1857,A requirements engineering framework for cross-organizational ERP systems,1,Requirements Engineering,CategorizedAs
+1858,Feature-driven requirement dependency analysis and high-level software design,1,Requirements Engineering,CategorizedAs
+1859,The RE’04 conference,1,Requirements Engineering,CategorizedAs
+1860,Aybüke Aurum and Claes Wohlin (eds): Engineering and managing software requirements,1,Requirements Engineering,CategorizedAs
+1861,COTS tenders and integration requirements,1,Requirements Engineering,CategorizedAs
+1862,Using trust assumptions with security requirements,1,Requirements Engineering,CategorizedAs
+1863,Goal and scenario validation: a fluent combination,1,Requirements Engineering,CategorizedAs
+1864,Good requirements practices are neither necessary nor sufficient,1,Requirements Engineering,CategorizedAs
+1865,Requirements engineering paper classification and evaluation criteria: a proposal and a discussion,1,Requirements Engineering,CategorizedAs
+1866,Requirements engineering for e-business advantage,1,Requirements Engineering,CategorizedAs
+1867,Requirements quality control: a unifying framework,1,Requirements Engineering,CategorizedAs
+1868,Requirements Abstraction Model,1,Requirements Engineering,CategorizedAs
+1869,A requirements monitoring framework for enterprise systems,1,Requirements Engineering,CategorizedAs
+1870,Situational method engineering: combining assembly-based and roadmap-driven approaches,1,Requirements Engineering,CategorizedAs
+1871,Guest editorial: 10th anniversary workshop on Requirements Engineering: Foundation for Software Quality (REFSQ’2004),1,Requirements Engineering,CategorizedAs
+1872,Requirements researchers: are we really doing research?,1,Requirements Engineering,CategorizedAs
+1873,Agile or analytic? Book reviews: Cohn versus Lavi and Kudish,1,Requirements Engineering,CategorizedAs
+1874,Applying a pragmatics-based creativity-fostering technique to requirements elicitation,1,Requirements Engineering,CategorizedAs
+1875,Generating requirements from systems models using patterns: a case study,1,Requirements Engineering,CategorizedAs
+1876,Communication gaps in a tender process,1,Requirements Engineering,CategorizedAs
+1877,Improving the detection of requirements discordances among stakeholders,1,Requirements Engineering,CategorizedAs
+1878,Coordinated development of business processes and their support systems,1,Requirements Engineering,CategorizedAs
+1879,Is emotion relevant to requirements engineering?,1,Requirements Engineering,CategorizedAs
+1880,Basic notions regarding business processes and supporting information systems,1,Requirements Engineering,CategorizedAs
+1881,Measuring the fitness relationship,1,Requirements Engineering,CategorizedAs
+1882,Delta analysis with workflow logs: aligning business process prescriptions and their reality,1,Requirements Engineering,CategorizedAs
+1883,Business alignment: using process mining as a tool for Delta analysis and conformance testing,1,Requirements Engineering,CategorizedAs
+1884,Managing context in business process management systems,1,Requirements Engineering,CategorizedAs
+1885,Testing the predictive ability of a requirements pattern language,1,Requirements Engineering,CategorizedAs
+1886,Ontology based object-oriented domain modelling: fundamental concepts,1,Requirements Engineering,CategorizedAs
+1887,ISRE: immersive scenario-based requirements engineering with virtual prototypes,1,Requirements Engineering,CategorizedAs
+1888,Experience of using a lightweight formal specification method for a commercial embedded system product line,1,Requirements Engineering,CategorizedAs
+1889,Scenario advisor tool for requirements engineering,1,Requirements Engineering,CategorizedAs
+1890,Supporting scenario evolution,1,Requirements Engineering,CategorizedAs
+1891,Is object-oriented requirements engineering of interest?,1,Requirements Engineering,CategorizedAs
+1892,Scenario-based requirements analysis techniques for real-time software systems: a comparative evaluation,1,Requirements Engineering,CategorizedAs
+1893,The system reliability analyser tool,1,Requirements Engineering,CategorizedAs
+1894,An operational model for structuring the requirements generation process,1,Requirements Engineering,CategorizedAs
+1895,Scenario inspections,1,Requirements Engineering,CategorizedAs
+1896,Eliciting security requirements with misuse cases,1,Requirements Engineering,CategorizedAs
+1897,Are use case and class diagrams complementary in requirements analysis? An experimental study on use case and class diagrams in UML,1,Requirements Engineering,CategorizedAs
+1898,"Hierarchical entity-relationship diagrams: the model, method of creation and experimental evaluation",1,Requirements Engineering,CategorizedAs
+1899,A framework for empirical evaluation of conceptual modeling techniques,1,Requirements Engineering,CategorizedAs
+1900,The effect of the number of concepts on the readability of schemas: an empirical study with data models,1,Requirements Engineering,CategorizedAs
+1901,Relationship analysis in requirements engineering,1,Requirements Engineering,CategorizedAs
+1902,"Selecting CRM packages based on architectural, functional, and cost requirements: Empirical validation of a hierarchical ranking model",1,Requirements Engineering,CategorizedAs
+1903,Empirical comparisons of animation and narration in requirements validation,1,Requirements Engineering,CategorizedAs
+1904,Development of a computer-based interviewing tool to enhance the requirements gathering process,1,Requirements Engineering,CategorizedAs
+1905,A requirements taxonomy for reducing Web site privacy vulnerabilities,1,Requirements Engineering,CategorizedAs
+1906,Market research for requirements analysis using linguistic tools,1,Requirements Engineering,CategorizedAs
+1907,Introduction to the RE’03 Special Issue,1,Requirements Engineering,CategorizedAs
+1908,Goal-driven requirements analysis for hypermedia-intensive Web applications,1,Requirements Engineering,CategorizedAs
+1909,Acquiring and incorporating state-dependent timing requirements,1,Requirements Engineering,CategorizedAs
+1910,Deriving tabular event-based specifications from goal-oriented requirements models,1,Requirements Engineering,CategorizedAs
+1911,Specifying and analyzing early requirements in Tropos,1,Requirements Engineering,CategorizedAs
+1912,Eliciting gaps in requirements change,1,Requirements Engineering,CategorizedAs
+1913,A goal-driven and agent-based requirements engineering framework*,1,Requirements Engineering,CategorizedAs
+1914,Market research for requirements analysis using linguistic tools,1,Requirements Engineering,CategorizedAs
+1915,An exploratory study into whether to or not to include users in the development of industrial hypermedia applications,1,Requirements Engineering,CategorizedAs
+1916,User’s manual as a requirements specification: case studies,1,Requirements Engineering,CategorizedAs
+1917,Editorial: model-based requirements engineering,1,Requirements Engineering,CategorizedAs
+1918,Lightweight models for interpreting informal specifications,1,Requirements Engineering,CategorizedAs
+1919,An economic approach for improving requirements negotiation models with inspection,1,Requirements Engineering,CategorizedAs
+1920,Merging individual conceptual models of requirements ,1,Requirements Engineering,CategorizedAs
+1921,Arcade: early dynamic property evaluation of requirements using partitioned software architecture models,1,Requirements Engineering,CategorizedAs
+1922,Quantitative risk-based requirements reasoning,1,Requirements Engineering,CategorizedAs
+1923,Retrenching partial requirements into system definitions: a simple feature interaction case study,1,Requirements Engineering,CategorizedAs
+1924,RE'02: The birth of a new flagship conference in requirements engineering,1,Requirements Engineering,CategorizedAs
+1925,Requirements honesty,1,Requirements Engineering,CategorizedAs
+1926,Automating performance-related impact analysis through event based traceability,1,Requirements Engineering,CategorizedAs
+1927,RE challenges in multi-site software development organisations,1,Requirements Engineering,CategorizedAs
+1928,Applications of linguistic techniques for use case analysis,1,Requirements Engineering,CategorizedAs
+1929,More requirements engineering adventures with building contractors,1,Requirements Engineering,CategorizedAs
+1930,Hidden skills that support phased and agile requirements engineering,1,Requirements Engineering,CategorizedAs
+1931,Value-based requirements engineering: exploring innovative e-commerce ideas,1,Requirements Engineering,CategorizedAs
+1932,Web system requirements: an overview,1,Requirements Engineering,CategorizedAs
+1933,"Promoting software quality through a human, social and organisational requirements elicitation process",1,Requirements Engineering,CategorizedAs
+1934,Online First publication,1,Requirements Engineering,CategorizedAs
+1935,Interactions among dynamic sets of objects,1,Requirements Engineering,CategorizedAs
+1936,The influence of formal representation on solution specification,1,Requirements Engineering,CategorizedAs
+1937,Managing the requirements engineering process,1,Requirements Engineering,CategorizedAs
+1938,Guest editorial,1,Requirements Engineering,CategorizedAs
+1939,Requirements Engineering editorial,1,Requirements Engineering,CategorizedAs
+1940,An exploratory study of facilitation in distributed requirements engineering,1,Requirements Engineering,CategorizedAs
+1941,Structuring product family requirements for n-dimensional and hierarchical product lines,1,Requirements Engineering,CategorizedAs
+1942,Continuous requirements management for organisation networks: a (dis)trust-based approach,1,Requirements Engineering,CategorizedAs
+1943,"Guest Editorial: Requirements Engineering for Information Security
+",1,Requirements Engineering,CategorizedAs
+1944,"Guest Editorial: Special Issue on Model Checking in Requirements Engineering
+",1,Requirements Engineering,CategorizedAs
+1945,"Authorisation Requirements on a Budget
+",1,Requirements Engineering,CategorizedAs
+1946,"A Software Fault Tree Approach to Requirements Analysis of an Intrusion Detection System
+",1,Requirements Engineering,CategorizedAs
+1947,"Automatically Detecting and Visualising Errors in UML Diagrams
+",1,Requirements Engineering,CategorizedAs
+1948,"Toward Automation for Model-Checking Requirements Specifications with Numeric Constraints
+",1,Requirements Engineering,CategorizedAs
+1949,"An Approach to Security Requirements Engineering for a High Assurance System*
+",1,Requirements Engineering,CategorizedAs
+1950,"Requirements-Level Semantics and Model Checking of Object-Oriented Statecharts
+",1,Requirements Engineering,CategorizedAs
+1951,Domain Understanding is the Key to Successful System Development,1,Requirements Engineering,CategorizedAs
+1952,Release Planning in Market-Driven Software Product Development: Provoking an Understanding,1,Requirements Engineering,CategorizedAs
+1953,"Requirements Engineering and Technology Transfer: Obstacles, Incentives and Improvement Agenda",1,Requirements Engineering,CategorizedAs
+1954,Large-Scale Requirements Analysis Revisited: The need for Understanding the Political Ecology of Requirements Engineering,1,Requirements Engineering,CategorizedAs
+1955,Workflow Requirements Modelling Using XML,1,Requirements Engineering,CategorizedAs
+1956,WIRES: A Methodology for Developing Workflow Applications,1,Requirements Engineering,CategorizedAs
+1957,Requirements Researchers: Do We Practice What We Preach?,1,Requirements Engineering,CategorizedAs
+1958,Effective Communication in Requirements Elicitation: A Comparison of Methodologies,1,Requirements Engineering,CategorizedAs
+1959,Requirements Engineering-Based Conceptual Modelling,1,Requirements Engineering,CategorizedAs
+1960,Seventh International Workshop on Requirements Engineering: Foundation for Software Quality (REFSQ’01),1,Requirements Engineering,CategorizedAs
+1961,A Feasibility Study of Automated Natural Language Requirements Analysis in Market-Driven Development,1,Requirements Engineering,CategorizedAs
+1962,Rationale-Based Use Case Specification,1,Requirements Engineering,CategorizedAs
+1963,Round-Trip Prototyping Based on Integrated Functional and User Interface Requirements Specifications,1,Requirements Engineering,CategorizedAs
+1964,On Abstraction in Scenarios,1,Requirements Engineering,CategorizedAs
+1965,Requirements Reuse for Improving Information Systems Security: A Practitioner’s Approach,1,Requirements Engineering,CategorizedAs
+1966,Goal-Oriented Requirements Engineering: A Unifying Framework,1,Requirements Engineering,CategorizedAs
+1967,Requirements Determination: An Information Systems Specialist Perspective of Process Quality,1,Requirements Engineering,CategorizedAs
+1968,Erratum: Requirements Engineering (2001) 6: 75–96,1,Requirements Engineering,CategorizedAs
+1969,Back to Basics,1,Requirements Engineering,CategorizedAs
+1970,Engineering Methods from Method Requirements Specifications,1,Requirements Engineering,CategorizedAs
+1971,Using Influence Diagrams to Aid the Management of Software Change,1,Requirements Engineering,CategorizedAs
+1972,A Tool to Support Collaborative Software Requirements Management,1,Requirements Engineering,CategorizedAs
+1973,Modelling Off-the-Shelf Information Systems Requirements: An Ontological Approach,1,Requirements Engineering,CategorizedAs
+1974,Software Requirements Engineering: The Need for Systems Engineering and Literacy,1,Requirements Engineering,CategorizedAs
+1975,A Framework for Component Reuse in a Metamodelling-Based Software Development,1,Requirements Engineering,CategorizedAs
+1976,A Framework for Integrating Non-Functional Requirements into Conceptual Models,1,Requirements Engineering,CategorizedAs
+1977,Making Workflow Change Acceptable,1,Requirements Engineering,CategorizedAs
+1978,Sixth International Workshop on Requirements Engineering: Foundation for Software Quality (REFSQ”00),1,Requirements Engineering,CategorizedAs
+1979,From Non-Functional Requirements to Design through Patterns,1,Requirements Engineering,CategorizedAs
+1980,Coupling Use Cases and Class Models as a Means for Validation and Verification of Requirements Specifications,1,Requirements Engineering,CategorizedAs
+1981,An Industrial Case Study on Distributed Prioritisation in Market-Driven Requirements Engineering for Packaged Software,1,Requirements Engineering,CategorizedAs
+1982,Deriving Goals from a Use-Case Based Requirements Specification,1,Requirements Engineering,CategorizedAs
+1983,Preventing Requirement Defects: An Experiment in Process Improvement,1,Requirements Engineering,CategorizedAs
+1984,Jane Austen – Requirements in Another World,1,Requirements Engineering,CategorizedAs
+1985,A Method for Extracting and Stating Software Requirements that a User Interface Prototype Contains,1,Requirements Engineering,CategorizedAs
+1986,Specifying and Analysing System-Level Inter-Component Interfaces,1,Requirements Engineering,CategorizedAs
+1987,An Experimental Investigation into the Effectiveness of OOA for Specifying Requirements,1,Requirements Engineering,CategorizedAs
+1988,Time Aspects in Requirements Engineering: Or ‘Every Cloud Has A Silver Lining’,1,Requirements Engineering,CategorizedAs
+1989,Requirements Engineering: Is it ‘Mission Impossible’?,1,Requirements Engineering,CategorizedAs
+1990,Bridging the Gap Between Organisational Needs and ERP Functionality,1,Requirements Engineering,CategorizedAs
+1991,Modelling and Representation of Uncertain Temporal Information,1,Requirements Engineering,CategorizedAs
+1992,Patterns Approach to Product Information Systems Engineering,1,Requirements Engineering,CategorizedAs
+1993,Requirements Management: A Cinderella Story,1,Requirements Engineering,CategorizedAs
+1994,Healthcare Modelling through Role Activity Diagrams for Process-Based Information Systems Development,1,Requirements Engineering,CategorizedAs
+1995,Socio-Technical and Soft Approaches to Information Requirements Elicitation in the Post-Methodology Era,1,Requirements Engineering,CategorizedAs
+1996,There’s More to Information Systems Development than Structured Approaches: Information Requirements Analysis as a Socially Mediated Process,1,Requirements Engineering,CategorizedAs
+1997,Linguistic Problems with Requirements and Knowledge Elicitation,1,Requirements Engineering,CategorizedAs
+1998,Negotiating and Understanding Information Systems Requirements: The Use of Set Diagrams,1,Requirements Engineering,CategorizedAs
+1999,"Specifications in Context: Stakeholders, Systems and Modelling of Conflict",1,Requirements Engineering,CategorizedAs
+2000,A Socio-Technical Approach to Systems Design,1,Requirements Engineering,CategorizedAs
+2001,What’s Different about Requirements Engineering for Web Sites?,1,Requirements Engineering,CategorizedAs
+2002,A Scenario Construction Process,1,Requirements Engineering,CategorizedAs
+2003,A Unifying Framework for Representing Structural and Operational Aspects of Electricity Sector Deregulation,1,Requirements Engineering,CategorizedAs
+2004,Scenario Analysis in an Automated Tool for Requirements Engineering,1,Requirements Engineering,CategorizedAs
+2005,Is There Such a Thing as a User Requirement?,1,Requirements Engineering,CategorizedAs
+2006,Information Systems Curricula Evaluated by a Method Engineering Framework,1,Requirements Engineering,CategorizedAs
+2007,Formal Analysis of Memory Requirements,1,Requirements Engineering,CategorizedAs
+2008,Animating Formal Specifications with Inheritance in a DL-Based Framework,1,Requirements Engineering,CategorizedAs
+2009,A Multi-Model View of Process Modelling,1,Requirements Engineering,CategorizedAs
+2010,On the Architectonics of Requirements,1,Requirements Engineering,CategorizedAs
+2011,Practical Experience with Viewpoint-Oriented Requirements Specification,1,Requirements Engineering,CategorizedAs
+2012,Using Design Explanation within the Formal Object-Oriented Method,1,Requirements Engineering,CategorizedAs
+2013,Tracing Requirements Errors to Problems in the Requirements Engineering Process,1,Requirements Engineering,CategorizedAs
+2014,Guest Editorial: Managing Dynamic Requirements,1,Requirements Engineering,CategorizedAs
+2015,"Requirements Engineering, Soft Systems Methodology and Workforce Empowerment",1,Requirements Engineering,CategorizedAs
+2016,The Spiral of Change Model for Coping with Changing and Ongoing Requirements,1,Requirements Engineering,CategorizedAs
+2017,Engineering Requirements Through Use Cases in Complex Business Environment,1,Requirements Engineering,CategorizedAs
+2018,The Importance of Context in Information System Design: An Assessment of Participatory Design,1,Requirements Engineering,CategorizedAs
+2019,A Qualitative Scenario Approach to Managing Evolving Requirements,1,Requirements Engineering,CategorizedAs
+2020,LEO: The Incredible Story of the World‘s First Business Computer,1,Requirements Engineering,CategorizedAs
+2021,False Requirements Express Real Needs,1,Requirements Engineering,CategorizedAs
+2022,Seven-Layer Model of the Role of the Facilitator in Requirements Engineering,1,Requirements Engineering,CategorizedAs
+2023,A Methodology for Constructing User-Oriented Requirements Specifications for Large-Scale Systems Using Electronic Hypermedia,1,Requirements Engineering,CategorizedAs
+2024,Behavioural Views for Software Requirements Engineering,1,Requirements Engineering,CategorizedAs
+2025,"Use cases, UML visual modelling and the trivialisation of business requirements",1,Requirements Engineering,CategorizedAs
+2026,Guest editorial,1,Requirements Engineering,CategorizedAs
+2027,A discipline of description (keynote talk),1,Requirements Engineering,CategorizedAs
+2028,Requirements engineering in small and medium enterprises,1,Requirements Engineering,CategorizedAs
+2029,Requirements for a COTS software component: A case study,1,Requirements Engineering,CategorizedAs
+2030,Implementing a compliance manager,1,Requirements Engineering,CategorizedAs
+2031,Engineering as a co-operative inquiry: A framework,1,Requirements Engineering,CategorizedAs
+2032,A harmonised model for safety assessment and certification of safety-critical systems in the transportation industries,1,Requirements Engineering,CategorizedAs
+2033,Requirements engineering and industrial uptake,1,Requirements Engineering,CategorizedAs
+2034,Requirement decomposition and traceability,1,Requirements Engineering,CategorizedAs
+2035,Investigation of requirements documents written in natural language,1,Requirements Engineering,CategorizedAs
+2036,A market-driven requirements engineering process: Results from an industrial process improvement programme,1,Requirements Engineering,CategorizedAs
+2037,"Computer-based systems that support the structural, social, political and symbolic dimensions of work",1,Requirements Engineering,CategorizedAs
+2038,"Applications of natural language to information systems Edited by R.P. van de Riet, J.F.M. Burg and A.J. van der Vos",1,Requirements Engineering,CategorizedAs
+2039,Successful requirements management,1,Requirements Engineering,CategorizedAs
+2040,A proposal for a scenario classification framework,1,Requirements Engineering,CategorizedAs
+2041,Scenario-based requirements analysis,1,Requirements Engineering,CategorizedAs
+2042,Designing with scenarios: A critical review of current research and practice,1,Requirements Engineering,CategorizedAs
+2043,Guest Editorial: Interdisciplinary Uses of Scenarios,1,Requirements Engineering,CategorizedAs
+2044,Scenario Development and Practical Decision Making under Uncertainty: Application to Requirements Engineering,1,Requirements Engineering,CategorizedAs
+2045,Software and House Requirements Engineering: Lessons Learned in Combating Requirements Creep,1,Requirements Engineering,CategorizedAs
+2046,Scenario-Based Techniques for Supporting the Elaboration and the Validation of Formal Requirements,1,Requirements Engineering,CategorizedAs
+2047,Scenario Management: An Interdisciplinary Approach,1,Requirements Engineering,CategorizedAs
+2048,Scenario-Based Analysis of COTS Acquisition Impacts,1,Requirements Engineering,CategorizedAs
+2049,A Representational Framework for Scenarios of System Use,1,Requirements Engineering,CategorizedAs
+2050,Linguistic instruments in requirements engineering J. F. Burg,1,Requirements Engineering,CategorizedAs
+2051,Requirements engineering needs total systems engineering,1,Requirements Engineering,CategorizedAs
+2052,On the use of a formal requirements engineering language: The Generalized Railroad Crossing Problem,1,Requirements Engineering,CategorizedAs
+2053,Constructing and revising formal arguments in requirements engineering,1,Requirements Engineering,CategorizedAs
+2054,Enhancing a requirements baseline with scenarios,1,Requirements Engineering,CategorizedAs
+2055,Towards the engineering of requirements,1,Requirements Engineering,CategorizedAs
+2056,"Incremental requirements specification withLotos
+",1,Requirements Engineering,CategorizedAs
+2057,Modelling and engineering the requirements engineering process: An overview of the NATURE approach,1,Requirements Engineering,CategorizedAs
+2058,The performance of the N-fold requirement inspection method,1,Requirements Engineering,CategorizedAs
+2059,Foreword to the special issue,1,Requirements Engineering,CategorizedAs
+2060,A use case driven requirements engineering process,1,Requirements Engineering,CategorizedAs
+2061,Ten steps towards systematic requirements reuse,1,Requirements Engineering,CategorizedAs
+2062,Integrated safety analysis of requirements specifications,1,Requirements Engineering,CategorizedAs
+2063,Telecommunications service requirements: Principles for managing complexity,1,Requirements Engineering,CategorizedAs
+2064,Last words on the (project) flight recorder: A plea for user requirements,1,Requirements Engineering,CategorizedAs
+2065,"Soft Information Systems and Technologies Methodology, SISTeM¢*: A case study on developing the electronic patient record",1,Requirements Engineering,CategorizedAs
+2066,Improved practical support for large-scale requirements prioritising,1,Requirements Engineering,CategorizedAs
+2067,Towards a formal definition of methods,1,Requirements Engineering,CategorizedAs
+2068,"Announcements, events and web resources",1,Requirements Engineering,CategorizedAs
+2069,Demanding solutions,1,Requirements Engineering,CategorizedAs
+2070,Expressing requirements on a parallel system formally,1,Requirements Engineering,CategorizedAs
+2071,Dealing with change: An approach using non-functional requirements,1,Requirements Engineering,CategorizedAs
+2072,Utilizing deontic operators in information systems specification,1,Requirements Engineering,CategorizedAs
+2073,"Announcements, events and web resources",1,Requirements Engineering,CategorizedAs
+2074,What's wrong with requirements management tools?,1,Requirements Engineering,CategorizedAs
+2075,A requirements engineering environment within a tightly integrated SDE,1,Requirements Engineering,CategorizedAs
+2076,A conceptual framework for requirements engineering,1,Requirements Engineering,CategorizedAs
+2077,Multi-perspective requirements engineering within NATURE,1,Requirements Engineering,CategorizedAs
+2078,"Announcements, events and web resources",1,Requirements Engineering,CategorizedAs
+2079,The perfect requirement myth,1,Requirements Engineering,CategorizedAs
+2080,Stakeholder viewpoints in requirements definition: A framework for understanding viewpoint development approaches,1,Requirements Engineering,CategorizedAs
+2081,Requirements capture and analysis: A survey of current practice,1,Requirements Engineering,CategorizedAs
+2082,Formal analysis of the Shlaer-Mellor method: Towards a toolkit of formal and informal requirements specification techniques,1,Requirements Engineering,CategorizedAs
+2083,Editorial,1,Requirements Engineering,CategorizedAs
+2084,"Announcements, events and web resources",1,Requirements Engineering,CategorizedAs
+2085,Conflicting requirements: When the customer is not always right,1,Requirements Engineering,CategorizedAs
+2086,A model for a causal logic for requirements engineering,1,Requirements Engineering,CategorizedAs
+2087,Requirements engineering research: Coordination and infrastructure,1,Requirements Engineering,CategorizedAs
+2088,User participation in the requirements engineering process: An empirical study,1,Requirements Engineering,CategorizedAs
+2089,Analysis of an inventory of information systems in the public administration,1,Requirements Engineering,CategorizedAs
+2090,GRLMerger: an automatic approach for integrating GRL models,1,Requirements Engineering,CategorizedAs
+2091,Advances in automated support for requirements engineering: a systematic literature review,1,Requirements Engineering,CategorizedAs
+2092,Understanding the integration of accessibility requirements in the development process of information systems: a systematic literature review,1,Requirements Engineering,CategorizedAs

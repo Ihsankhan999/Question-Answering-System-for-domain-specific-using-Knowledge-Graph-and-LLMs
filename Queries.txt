@@ -1,0 +1,139 @@
+LOAD CSV WITH HEADERS FROM 'file:///major_nodes.csv' AS row
+CREATE (m:Major {MID: toInteger(row.MID), Major_Name: row.Major_Name})
+RETURN m;
+
+LOAD CSV WITH HEADERS FROM 'file:///paper_nodes.csv' AS row
+CREATE (p:Paper {
+    Title: row.Title,
+    URL: row.URL,
+    Date_of_Publication: row.Date_of_Publication,
+    PDF: row.PDF,
+    Abstract: row.Abstract,
+    Citations: CASE WHEN row.Citations IS NOT NULL AND row.Citations <> "" THEN toInteger(row.Citations) ELSE 0 END,
+    DOI: row.DOI,
+    PID: toInteger(row.PID)
+})
+RETURN p;
+
+
+LOAD CSV WITH HEADERS FROM 'file:///PMrelation.csv' AS row
+MATCH (m:Major {MID: toInteger(row.MID)}), (p:Paper {PID: toInteger(row.PID)})
+MERGE (m)-[r:RELATIONSHIP]->(p)
+ON CREATE SET r.type = row.RelationshipType
+RETURN m, p, r;
+
+LOAD CSV WITH HEADERS FROM 'file:///author_nodes.csv' AS row
+CREATE (a:Author {
+    Author_Name: row.Author_Name,
+    Role: row.Role,
+    AID: toInteger(row.AID)
+})
+RETURN a;
+
+LOAD CSV WITH HEADERS FROM 'file:///PArel.csv' AS row
+MATCH (p:Paper {PID: toInteger(row.PID)}), (a:Author {AID: toInteger(row.AID)})
+MERGE (p)-[r:RELATIONSHIP]->(a)
+ON CREATE SET r.type = row.RelationshipType
+RETURN p, a, r;
+
+LOAD CSV WITH HEADERS FROM 'file:///major_nodes.csv' AS row
+CREATE (m:Major {MID: toInteger(row.MID), Major_Name: row.Major_Name})
+RETURN m;
+
+LOAD CSV WITH HEADERS FROM 'file:///paper_nodes.csv' AS row
+CREATE (p:Paper {
+    Title: row.Title,
+    URL: row.URL,
+    Date_of_Publication: row.Date_of_Publication,
+    PDF: row.PDF,
+    Abstract: row.Abstract,
+    Citations: CASE WHEN row.Citations IS NOT NULL AND row.Citations <> "" THEN toInteger(row.Citations) ELSE 0 END,
+    DOI: row.DOI,
+    PID: toInteger(row.PID)
+})
+RETURN p;
+
+
+LOAD CSV WITH HEADERS FROM 'file:///PMrelation.csv' AS row
+MATCH (m:Major {MID: toInteger(row.MID)}), (p:Paper {PID: toInteger(row.PID)})
+MERGE (m)-[r:RELATIONSHIP]->(p)
+ON CREATE SET r.type = row.RelationshipType
+RETURN m, p, r;
+
+LOAD CSV WITH HEADERS FROM 'file:///author_nodes.csv' AS row
+CREATE (a:Author {
+    Author_Name: row.Author_Name,
+    Role: row.Role,
+    AID: toInteger(row.AID)
+})
+RETURN a;
+
+LOAD CSV WITH HEADERS FROM 'file:///PArel.csv' AS row
+MATCH (p:Paper {PID: toInteger(row.PID)}), (a:Author {AID: toInteger(row.AID)})
+MERGE (p)-[r:RELATIONSHIP]->(a)
+ON CREATE SET r.type = row.RelationshipType
+RETURN p, a, r;
+
+LOAD CSV WITH HEADERS FROM 'file:///venue_nodes.csv' AS row
+CREATE (v:PublicationVenue {
+    Venue_Name: row.Venue_Name,
+    PVID: toInteger(row.PVID),
+    Type: row.Type
+})
+RETURN v;
+
+LOAD CSV WITH HEADERS FROM 'file:///PVrel.csv' AS row
+MATCH (p:Paper {PID: toInteger(row.PID)}), (v:PublicationVenue {PVID: toInteger(row.PVID)})
+MERGE (p)-[r:RELATIONSHIP]->(v)
+ON CREATE SET r.type = row.RelationshipType
+RETURN p, v, r;
+
+LOAD CSV WITH HEADERS FROM 'file:///institute_nodes.csv' AS row
+CREATE (i:Institute {
+    Institute_Name: row.Institute_Name,
+    IID: toInteger(row.IID)
+})
+RETURN i;LOAD CSV WITH HEADERS FROM 'file:///institute_nodes.csv' AS row
+CREATE (i:Institute {
+    Institute_Name: row.Institute_Name,
+    IID: toInteger(row.IID)
+})
+RETURN i;
+
+LOAD CSV WITH HEADERS FROM 'file:///AIrel.csv' AS row
+MATCH (a:Author {AID: toInteger(row.AID)}), (i:Institute {IID: toInteger(row.IID)})
+MERGE (a)-[r:RELATIONSHIP]->(i)
+ON CREATE SET r.type = row.RelationshipType
+RETURN a, i, r;
+
+LOAD CSV WITH HEADERS FROM 'file:///keyword_nodes.csv' AS row
+CREATE (k:Keyword {
+    KID: toInteger(row.KID),
+    Keyword_Name: row.Keyword_Name
+})
+RETURN k;
+
+LOAD CSV WITH HEADERS FROM 'file:///PKrel.csv' AS row
+MATCH (p:Paper {PID: toInteger(row.PID)}), (k:Keyword {KID: toInteger(row.KID)})
+MERGE (p)-[r:RELATIONSHIP]->(k)
+ON CREATE SET r.type = row.RelationshipType
+RETURN p, k, r;
+
+MATCH (p:Paper)
+WHERE p.Citations IS NOT NULL
+WITH MAX(p.Citations) AS highestCitations
+MATCH (p:Paper)
+WHERE p.Citations = highestCitations
+RETURN p.Title AS title, p.Citations AS citations;
+
+LOAD CSV WITH HEADERS FROM 'file:///APrel.csv' AS row
+MATCH (a:Author {AID: toInteger(row.AID)}), (p:Paper {PID: toInteger(row.PID)})
+MERGE (a)-[r:RELATIONSHIP]->(p)
+ON CREATE SET r.type = row.RelationshipType
+RETURN a, p, r;
+
+LOAD CSV WITH HEADERS FROM 'file:///AIrel.csv' AS row
+MATCH (a:Author {AID: toInteger(row.AID)}), (i:Institute {IID: toInteger(row.IID)})
+MERGE (a)-[r:RELATIONSHIP]->(i)
+ON CREATE SET r.type = row.RelationshipType
+RETURN a, i, r;
